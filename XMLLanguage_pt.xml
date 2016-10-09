@@ -4665,10 +4665,10 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			
 			<text name="ON">ON</text>
 			<text name="OFF">OFF</text>
-			<text name="NOBGM">NO BGM</text> <!--for sounds: here it means no background music-->
+			<text name="NOBGM">NO BGM</text>
 			<text name="FxAndMusic">FX AND MUSIC</text>
-			<text name="NoMusic">FX AND MUSIC</text>
-			<text name="AllMuted">FX AND MUSIC</text>
+			<text name="NoMusic">NO MUSIC</text>
+			<text name="AllMuted">ALL MUTED</text>
 			
 			<text name="NOTIMPL">*NOT YET IMPLEMENTED*</text>
 			<text name="or">or</text>
@@ -4682,11 +4682,12 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="AUTO">AUTO</text>
 			<text name="UPDATING">UPDATING...</text>
 	
-			<text name="LOOP5xNext">Loop 5X then NEXT</text>
-			<text name="LOOP4xNext">Loop 4X then NEXT</text>
-			<text name="LOOP3xNext">Loop 3X then NEXT</text>
-			<text name="LOOP2xNext">Loop 2X then NEXT</text>
-			<text name="NOLOOP">NO LOOP</text>
+			<text name="LOOP5xNext">Repetir 5X</text>
+			<text name="LOOP4xNext">Repetir 4X</text>
+			<text name="LOOP3xNext">Repetir 3X</text>
+			<text name="LOOP2xNext">Repetir 2X</text>
+			<text name="LOOPUntilPRESS">Repetir até Clicar</text>
+			<text name="NOLOOP">Sem Repetir</text>
 
 			<text name="DONE">DONE</text>
 			<text name="AREYOUSURE">ARE YOU SURE ?</text>
@@ -4701,7 +4702,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="AlwaysANymph">ALWAYS A NYMPH</text>
 			
 			<text name="Back">Back</text>
-			<text name="DefaultSettings">Normal Game</text>
+			<text name="DefaultSettings">Config Padrao</text>
 			
 			<text name="OPTIONS">OPTIONS</text>
 			<text name="Options">Options</text>
