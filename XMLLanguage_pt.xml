@@ -6,7 +6,7 @@
 - You should use a good XML editor. Notepad++ is great because it will be colored differently, easing your work.
 - You DONT need to translate text inside <!-  ->
 - Please BE CAREFUL about not closing tags or other misses. Incomplete or errors in XML will give a'XML load error' message or give unexpected behavior in the game!
-- Its not possible to change some text, like Princess and Creature names (e.g. if you want to call Peach as 'Pêssego' or Goomba as 'Gumpa', you wont be able to do so). This is due to XML land the game limitations. If I figure it out in the future, I can implement it.
+- Its not possible to change some text, like Princess and Creature names (e.g. if you want to call Peach as 'Pêssego' or Goomba as 'Gumpa', you wont be able to do so). This is due to XML and the game limitations. If I figure it out in the future, I can implement it.
 - \\u is UNICODE character. It s NOT working currently, even if it's present. To work in the future. 
 - Please translate observing the placement of \n. Its the line breaker. I use them many times just to adjust (centralize) text better. If you translate a given phrase and you see the text is trespassing the balloon, you can force its break by adding a \n. Dont use <br/>!
 You can live without \n, but certain balloons will be 'very empty' without them, or the first line might trespass it a bit because of the curve of the balloon.
@@ -719,15 +719,15 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			</scenes>
 			<scenes scene="daisy5">
 				<p i="1">Daisy...This is\nmaking me fell funny! Ahhh!</p>
-				<f i="1">{Flags.currentCharName()}, I have\na surprise for you, just rub this thing!</f>
+				<f i="1">{CHARACTER_NAME}, I have\na surprise for you, just rub this thing!</f>
 				<p i="2">Gosh! Ahhhh!\nit\'s slippering deeply inside my ass, like a sucker exploring!</p>
 				<p i="3">Oh, Daisy...\nMy asshole is heating up by this thing!</p>
-				<f i="3">{Flags.currentCharName()}, just\nenjoy it, concentrate on it!</f>
+				<f i="3">{CHARACTER_NAME}, just\nenjoy it, concentrate on it!</f>
 				<p i="4">Ahhhh Ohhh\nI am cumming like crazy! Ohh, we\'re locked!</p>
-				<f i="4">Oh {Flags.currentCharName()}! \u2665\nWe\'re made for each other! \u2665</f>
+				<f i="4">Oh {CHARACTER_NAME}! \u2665\nWe\'re made for each other! \u2665</f>
 			</scenes>
 			<scenes scene="daisy6">
-				<f i="1">{Flags.currentCharName()}, shut\nup, just enjoy it, kay?</f>
+				<f i="1">{CHARACTER_NAME}, shut\nup, just enjoy it, kay?</f>
 				<p i="1">Daisy, ooooh\nyou are fingering me so tenderly!</p>
 				<f i="2">You\'re really\na pervert, arent ya? Raising your ass like that!</f>
 				<p i="2">Ahhhh! (SLAP!)\nshe knows my weak point in my bare butt! Ah!</p>
@@ -741,7 +741,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<f i="2">Princess, please\nrelax \u2665 \u2665 Lemme do it, \'kay?</f>
 				<p i="2">Daisy, it tickles!\nOh this is getting me aroused...</p>
 				<p i="3">Daisy, oooh no,\ndont lick there! Its... dirty!</p>
-				<f i="4">Mmhmmph! (Suck!)\nI know you love (Suck!) DAT, {Flags.currentCharName()}!</f>
+				<f i="4">Mmhmmph! (Suck!)\nI know you love (Suck!) DAT, {CHARACTER_NAME}!</f>
 				<p i="4">Whaaaat? Ahhhh,\nOoooh be gentle to my cherry! It\'s so embarassing!</p>
 				<f i="5">(Suck!) your asshole\nn\' pussy ARE mine!</f>
 				<p i="5">Aaahhhh!\nI am cumming like crazy! So nasty!</p>
@@ -921,7 +921,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="2">Let me have a peek, okay? Just a little one!</p>
 				<e i="3">Oooh, yeah!\nYour hands feel so good on my dick. You\'re a pro!</e>
 				<p i="3">Stop that,\nwhat are you doing? Who am I, Where are you!</p>
-				<e i="4">Oh yeah, Princess {Flags.currentCharName()}!\nRub my balls! Watch me cum all over your face!</e>
+				<e i="4">Oh yeah, Princess {CHARACTER_NAME}!\nRub my balls! Watch me cum all over your face!</e>
 				<p i="4">Wha-ah! What\'s\ngoing on!? Why do I? Why am I cumming with a diiiiiick?</p>
 			</scenes>
 			<scenes scene="boo3">
@@ -1011,7 +1011,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<f i="16">X-Naut PHD: It might be that Cola Tube I\'ve taken...</f>
 				<f i="17">X-Naut PHD: Am I getting nuts? It might be this job...</f>
 				<f i="18">Huh? Who...WHAT are you?</f>
-				<f i="19">1) I....I am ...Princess {Flags.currentCharName()}!\n2) I ...I am your CUM!</f>
+				<f i="19">1) I....I am ...Princess {CHARACTER_NAME}!\n2) I ...I am your CUM!</f>
 				<p i="20">(CHOOSE A NUMBER)\n1) I don\'t know!    2) I\'ve lost my clothes!\n3) I\'m searching for Mario!   4) I want to...love you!</p>
 				<f i="21">X-Naut PHD: I will fuck you, Princess Bitch!</f>
 				<f i="22">X-Naut PHD: Eeh? I will lead you to your room!</f>
@@ -1104,8 +1104,8 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="1">Whoa! That was clo...\nyee! Just--ack!--leave me--oh, dodged it, hehe--alo--whoops!</p>
 				<p i="2">Ugh! Just--ick\njust stop, alread-hee! How long will you foll-oh! Oh, please stop.</p>
 				<p i="3">Uh, you don\'t\nseem to--Agh!! What are y-*gulp*!?</p>
-				<e i="4">Mmm, yessss.\n{Flags.currentCharName()}\'s pussy feels good. It makes a nice keyhole!</e>
-				<p i="5">Oh, yeah! {Flags.currentCharName()}! Do\nyou feel the key inside you? Yeah, you do! Take it deep!</p>
+				<e i="4">Mmm, yessss.\n{CHARACTER_NAME}\'s pussy feels good. It makes a nice keyhole!</e>
+				<p i="5">Oh, yeah! {CHARACTER_NAME}! Do\nyou feel the key inside you? Yeah, you do! Take it deep!</p>
 				<p i="6">Unnnnh. Wha-? What\njust happened? Did I cum again? Why is the key sticky?</p>
 			</scenes>
 			
@@ -1371,7 +1371,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="18">(Press a Number)\n1) Obey him... \n2) Just ignore it (go away)</p>
 				<p i="19">(Press a Number): 1) Try to close legs,  2) Let him put a hand in your pussy\n3) Be sniffed by him  4) Lick your pussy  5) Teasing with his dick  6) Frontside teasing\n 7) Force dick in your pussy   8) Fuck you  9) Fuck you faster</p>
 				<p i="20">(Press a Number):\n1) Try to wake him up\n2) Go away</p>
-				Toadsworth: Hi, my young majesty! Well, you should be searching for Mario. There isnt anything I need today, so you can leave. (PRESS "+KeyEvents.getNextText()+")"
+				<f i="21">Toadsworth: Hi, my young majesty! Well, you should be searching for Mario. There isnt anything I need today, so you can leave.</f>
 			</scenes>			
 			<scenes scene="toadsworth1">
 				<p i="1">\nToadsworth?! Why are you here...</p>
@@ -1776,7 +1776,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="1a">(Giggle) Maybe I\ncan help you then!</p>
 			</scenes>			
 			<scenes scene="ladybow2">
-				<e i="1">Mmm, {Flags.currentCharName()}...\nI just can\'t help myself around you!</e>
+				<e i="1">Mmm, {CHARACTER_NAME}...\nI just can\'t help myself around you!</e>
 				<e i="2">I\'m excited, too! To\nsee just what kind of slut you\'ve become!\nGet her, boys!</e>
 				<e i="3">Mmm! It\nlooks delicious!</e>
 				<p i="3">WHAT!?\nWhat did you do to me?</p>
@@ -2966,7 +2966,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="11">\nOooh! Unf!\nI beat Wendy, and I haven\'t lost to you yet, either!</p>
 				<p i="11a">\nUnf! Just...keep...\ngoing! I\'m almost there!</p>
 				<p i="11b">\nMmmm. Thanks\nfor reminding me about Wendy\'s pussy! She was delicious!</p>
-				<e i="12">Again, you came!\nYou\'re making this too easy, {Flags.currentCharName()}</e>
+				<e i="12">Again, you came!\nYou\'re making this too easy, {CHARACTER_NAME}</e>
 				<p i="12">\nOh nooo!\nI came again! What\nwill Mario think?</p>
 				<p i="12a">\nAhhhhh! That was good! I haven\'t cum like that in a while!</p>
 				<p i="12b">\nOh! So good!\nDid you learn your dildo work from Wendy, too?</p>
@@ -3037,7 +3037,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			
 			<scenes scene="dialogueWario">
 				<f i="1">Wario: Princess Bitch!?</f>
-				<f i="2">Wario: Princess {Flags.currentCharName()}!?</f>
+				<f i="2">Wario: Princess {CHARACTER_NAME}!?</f>
 				<p i="3">(CHOOSE A NUMBER)\n1) \'Where is your hat?\' 2) Show Wario you have coins\n3) Ask him to...fuck you!\n4) LEAVE</p>
 				<f i="3">Damn, Princess! A very charismatic storyteller from some faraway land stole it from me and disappeared! I haven\'t seen or heard of him again...Perhaps YOU can pay me for the hat!</f>
 				<f i="4">Wario stole some coins from you!</f>
@@ -3183,7 +3183,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="4">Be lewd so he will play with my butt</p>
 				<p i="5">Help him with my hands</p>
 				<p i="6">What to do?</p>
-				<p i="7">2) Make her suck you  3) Tease her  4) Tease her more\n5) Tease her even more!  6) Slip in her asshole!  7) Let him choose!  ({KeyEvents.getNextText()}) GO AWAY</p>
+				<p i="7">2) Make her suck you  3) Tease her  4) Tease her more\n5) Tease her even more!  6) Slip in her asshole!  7) Let him choose!  ({NEXTKEY}) GO AWAY</p>
 			</scenes>			
 				
 			<scenes scene="dialogueGloryHole">
@@ -3202,7 +3202,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="3">(Press a Number)\n1) Where am I?                2) Where is Mario?</p>
 				<p i="4">Nevermind, thank you!</p>
 				<p i="5">Princess: Oh, what a cute little thing you are!</p>
-				<f i="6">Punio: Oh, hello. Wait, are you Princess {Flags.currentCharName()}?</f>
+				<f i="6">Punio: Oh, hello. Wait, are you Princess {CHARACTER_NAME}?</f>
 				<p i="7">Princess: Well, yes I am, you must be Punio the Puny then?</p>
 				<p i="8">(Press a Number)\n1) Where am I?                2) Where is Mario?\n3) I really need to go inside.   4) Nevermind, thank you!</p>
 				<f i="9">Punio: You\'re in the Boggly Woods, and here is my home, Boggly Tree, my princess.</f>
@@ -3223,7 +3223,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			</scenes>			
 			
 			<scenes scene="dialogueFlavio">
-				<f i="1">Flavio: Are you Princess {Flags.currentCharName()}, right? Why are you in MY island? It\'s Flavio land, you know!</f>
+				<f i="1">Flavio: Are you Princess {CHARACTER_NAME}, right? Why are you in MY island? It\'s Flavio land, you know!</f>
 				<p i="2">I am trying to find Mario! Our land is on attack! Did you see him somewhere?</p>
 				<f i="3">Mario? He made Flavio angry! He owns me the red skull gem, the heirloom of the House of Flavio! That plumber had it lost!</f>
 				<p i="4">(CHOOSE A NUMBER)\n1) Mock his nose\n2) Leave him</p>
@@ -3451,6 +3451,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="3">Oooh! I need to...\nremove it! Its...Ahhh! Deeply stuck there!</p>
 				<p i="4">Maybe if I pull it...\nAhhhhh! Pull it out that way....Oooh! I must get it out...</p>
 				<p i="4a">There is a way to...\nAhhhh! Lubricate it...just by fucking my butt! Oooh!</p>
+				<p i="5">Princess: This door is shut tight. Perhaps there is switch or key somewhere...</p>
 			</scenes>	
 			
 			<scenes scene="dialogueGrodusTable">
@@ -4317,13 +4318,13 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="67">Why is that?</p>
 				<f i="68">TEC-XXX: I will open the lab door for you. Please go back, take the first elevator and then move west until you reach a door with a green light. We have little time, you must hurry.</f>
 				<p i="69">TEC? I...I did it!</p>
-				<f i="70">TEC-XXX: Thanks, Princess {Flags.currentCharName()}, I\'m analysing the data now.</f>
+				<f i="70">TEC-XXX: Thanks, Princess {CHARACTER_NAME}, I\'m analysing the data now.</f>
 				<f i="71">TEC-XXX: Please return to your room and try to rest... I will call you later.</f>
 				<p i="72">TEC? Did you find anything?</p>
 				<f i="73">TEC-XXX: Yes. The data revealed the floor plans. And I\'ve discovered a way for you to escape.</f>
 				<f i="74">TEC-XXX: Please take the door on the right, and use the SpaceShip. You can now escape.</f>
 				<p i="75">Oh....okay... Are we going to meet again?</p>
-				<f i="76">TEC-XXX: It\'s planned, Princess {Flags.currentCharName()}. Good bye.</f>
+				<f i="76">TEC-XXX: It\'s planned, Princess {CHARACTER_NAME}. Good bye.</f>
 				<f i="77">TEC-XXX: Yes, but I have nothing to say, as you need to finish your current task. I hope you haven\'t forgotten it.</f>
 				<p i="78">TEC? Are you there?</p>
 				<f i="79">TEC-XXX: You need to put all test tubes inside all machines!</f>
@@ -4413,11 +4414,11 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 	
 			
 	<!--BOOB SIZES-->
-			<text name="Smallest">Smallest</text>
+			<text name="Smallest">Pequeno</text>
 			<text name="Normal">Normal</text>
-			<text name="Big">Big</text>
-			<text name="Bigger">Bigger</text>
-			<text name="Biggest">Biggest</text>
+			<text name="Big">Grande</text>
+			<text name="Bigger">Maior</text>
+			<text name="Biggest">Super</text>
   
 	<!--COMMON TEXT -->
 			<text name="Color_Default">Default</text>
@@ -4451,11 +4452,11 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="ExtraLife">Extra Life</text>
 			<text name="GoAway">Go away</text>
 			<text name="WaitDropCoins">You have to wait the dropping of coins first</text>
-			<text name="pressToChangeZoom">Press \'-\' key to change ZOOM, and {KeyEvents.getNextText()} to advance</text>
-			<text name="pressSpaceToAdvance">Press {KeyEvents.getNextText()} to advance</text>
-			<text name="pressSpaceToHelpHer">Press {KeyEvents.getNextText()} to help her!</text>
-			<text name="pressSpaceToSeeOptions">Keep pressing {KeyEvents.getNextText()} to see options</text>
-			<text name="pressSPACEorClickButtons">Press {KeyEvents.getNextText()} to advance or click the buttons to specify areas you want</text>
+			<text name="pressToChangeZoom">Press \'-\' key to change ZOOM, and {NEXTKEY} to advance</text>
+			<text name="pressSpaceToAdvance">Press {NEXTKEY} to advance</text>
+			<text name="pressSpaceToHelpHer">Press {NEXTKEY} to help her!</text>
+			<text name="pressSpaceToSeeOptions">Keep pressing {NEXTKEY} to see options</text>
+			<text name="pressSPACEorClickButtons">Press {NEXTKEY} to advance or click the buttons to specify areas you want</text>
 			<text name="orPressUpDown">or Press \'UP\' or \'DOWN\'</text>
 			<text name="orPressUp">or Press \'UP\'</text>
 			<text name="toInteract">to INTERACT</text>
@@ -4467,8 +4468,8 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="Click">Click</text>
 			<text name="ClickToSkip">Click to Skip</text>
 			<text name="ClickOnce">Click Once</text>
-			<text name="ClickBothPressZoom">Click in both or press \'-\' key to zoom in, or {KeyEvents.getNextText()} to advance</text>
-			<text name="clickCreature">Click in the creature or press \'-\' key to zoom in, or {KeyEvents.getNextText()} to advance</text>
+			<text name="ClickBothPressZoom">Click in both or press \'-\' key to zoom in, or {NEXTKEY} to advance</text>
+			<text name="clickCreature">Click in the creature or press \'-\' key to zoom in, or {NEXTKEY} to advance</text>
 			<text name="OrGivenNumber">or a given number to advance</text>
 			<text name="YouAreStarkNaked">You are stark naked!</text>
 			<text name="NotEnough">Not enough</text>
@@ -4480,7 +4481,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="pussy">pussy</text>
 			<text name="AddedToYourInventory">Added to your inventory!</text>
 			<text name="Press">Press</text>
-			<text name="PressToStartLevel">Press {KeyEvents.getNextText()} to start the level</text>
+			<text name="PressToStartLevel">Press {NEXTKEY} to start the level</text>
 			<text name="NewAchievement">New Achievement</text>
 			<text name="toGoTo">to go to</text>
 			<text name="InventoryIsFull">Inventory is full!</text>
@@ -4567,8 +4568,8 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="ClickOrPressPart2">to continue)</text>
 			<text name="ClickToPlayThisLevel">Click to play\nthis level</text>
 	
-			<text name="notYetComplete">***NOT YET COMPLETE*** (PRESS {KeyEvents.getNextText()})</text>
-			<text name="n">(PRESS {KeyEvents.getNextText()})</text>
+			<text name="notYetComplete">***NOT YET COMPLETE*** (PRESS {NEXTKEY})</text>
+			<text name="n">(PRESS {NEXTKEY})</text>
 			<text name="CORRUPTIONINSLOT">CORRUPTION IN SLOT</text>
 			<text name="THISSLOTISEMPTY">THIS SLOT IS EMPTY</text>
 			<text name="creatureRefuses">The creature refuses you</text>
@@ -4633,6 +4634,10 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="DebugVersionDetected">DEBUG VERSION DETECTED!</text>
 			<text name="DebugVersionDesc">Its recommended to use the Flash Projector version (Standalone), not the DEBUG version, or FALSE POSITIVES (POPUPs of errors that are not really errors) will annoy you. they appear from nowhere like alerts in javascript.\n\nAlso, the game will be slower.</text>
 			<text name="DebugVersionDesc2">You should leave the game, then use the normal player, or use the browser.\n\nOR YOU CAN PRESS SPACEBAR OR\nTHE BUTTON BELOW TO CONTINUE.</text>
+			
+			<text name="Airship">Airship</text>
+			<text name="Worldmap">Worldmap</text>
+			<text name="TrainExpress">Train Express</text>
 			
 			<text name="HardModeCantMasturbate">HARD MODE! You can\'t masturbate that way!</text>
 			<text name="AutoSavedToSlot">Auto Saved to Slot</text>
@@ -4704,6 +4709,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="HardGame">Hard Game</text>
 			<text name="Gallery">Gallery</text>
 			<text name="Credits">Credits</text>
+			<text name="NoAchievementsYet">No achievements yet!</text>
 			<text name="Achievements">Achievements</text>
 			<text name="Achievements2LinesIfNecessary">Achieve\nments</text> <!--\n creates a new line-->
 			<text name="AchievementsDesc">Here you might find unlocked Peach art and medals\nPlease remember it\'s for \'Peach\' characters only! (Like Peach PS, Burn Peach...)\nAlso remember you must save the current game in a save slot to retrieve them later.</text> <!--\n creates a new line-->
@@ -4740,76 +4746,90 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 
 	
 	<!--WORLD NAMES -->
-		<text name="world1">Mushroom Kingdom</text>
-		<text name="world2">Dry Dry Land</text>
-		<text name="world3">Subcon Kingdom</text>
-		<text name="world4">Bumpy Forest</text>
-		<text name="world5">Flurry Hills</text>
-		<text name="world6">Delfino Beach</text>
-		<text name="world7">Cuddly Skies</text>
-		<text name="world8">Dark Land</text>
-		<text name="world9">The Moon</text>
+		<text name="world1">Reino dos Cogumelos</text>
+		<text name="world2">Regiao Seca</text>
+		<text name="world3">Reino Subcon</text>
+		<text name="world4">Floresta Bunda</text>
+		<text name="world5">Colinas Geladas</text>
+		<text name="world6">Praia Delfino</text>
+		<text name="world7">Ceus Macios</text>
+		<text name="world8">Mundo Escuro</text>
+		<text name="world9">A Lua</text>
+		<text name="worldUnderground">Subsolo</text>
+		
 	<!--LEVEL NAMES -->
-		<text name="1-1">Mushroom Alley</text>
+		<text name="ShyguyVillage">Vila Shyguy</text>
+		<text name="GoombaLand">Mundo Goomba</text>
+		<text name="BonusLevel">Fase Bonus</text>
+		<text name="levelPipes">Canos Abaixo</text>
+		<text name="GhostHouse">Casa Fantasma</text>
+		<text name="YoshiHouse">Casa Yoshi</text>
+		<text name="StarHill">Colina Estelar</text>
+		<text name="MarioPad">Casa do Mario</text>
+		<text name="EGaddLab">Lab do Elvin</text>
+		<text name="ToadTown">Vila Toad</text>
+		<text name="ToadHouse">Casa Toad</text>
+		
+		<text name="1-1">Rota Cogumelo</text>
 		<text name="1-2">Mamma Mia!</text>
-		<text name="1-3">The Forest</text>
-		<text name="1-4">Watery</text>
-		<text name="1-5">Grassland</text>
-		<text name="1-6">Sip Castle</text>
-		<text name="1-7">Osama Palace</text>
-		<text name="1-extra">Platsucks</text>
-		<text name="2-1">Sandy Plains</text>
-		<text name="2-2">The Sahara</text>
-		<text name="2-3">The Pyramid</text>
-		<text name="2-4">Desert Castle</text>
-		<text name="2-5">Catacombs</text>
-		<text name="2-6">Sunny Day</text>
-		<text name="2-7">Daisy Palace</text>
-		<text name="3-1">Touching Cherries</text>
-		<text name="3-2">Warm Pond</text>
-		<text name="3-3">Round Lumbers</text>
-		<text name="3-4">The Diamonds</text>
-		<text name="3-5">StalacTits</text>
-		<text name="3-6">Wharehouse</text>
-		<text name="3-7">Sultan Palace</text>
-		<text name="4-1">The Clearing</text>
-		<text name="4-2">Wigglery Trees</text>
-		<text name="4-3">TreeTop Less</text>
-		<text name="4-4">Boggly Tree</text>
-		<text name="4-5">Taking Giants</text>
-		<text name="4-6">Big Bushy</text>
-		<text name="4-7">Vine Palace</text>
-		<text name="5-1">Freezing Valley</text>
-		<text name="5-2">Flock Paradise</text>
-		<text name="5-3">Marshmallow Mountains</text>
-		<text name="5-4">Smoothie Depot</text>
-		<text name="5-5">Whack Wally</text>
-		<text name="5-6">Fahr Frozen Houses</text>
-		<text name="5-7">North Palace</text>
-		<text name="6-1">Beach\'s Time!</text>
-		<text name="6-2">Bay of Nibbles</text>
-		<text name="6-3">Under CumWater</text>
-		<text name="6-4">Delfino Streets</text>
-		<text name="6-5">Dolphins on You</text>
-		<text name="6-6">Kneeling Key Island</text>
-		<text name="6-7">Bitch Palace</text>
-		<text name="7-1">Clear Ring</text>
-		<text name="7-2">Far-Ass-Way</text>
-		<text name="7-3">Heaven Asstairs</text>
-		<text name="7-4">Cummy Clouds</text>
-		<text name="7-5">GritzVille</text>
-		<text name="7-6">White Castle</text>
-		<text name="7-7">Forsucked Palace</text>
+		<text name="1-3">Floresta</text>
+		<text name="1-4">Aguaceiro</text>
+		<text name="1-5">Planicie</text>
+		<text name="1-6">Castelo Cru</text>
+		<text name="1-7">Palacio Osama</text>
+		<text name="1-extra">Canyons</text>
+		<text name="2-1">Planalto de Areia</text>
+		<text name="2-2">O Saara</text>
+		<text name="2-3">A Piramide</text>
+		<text name="2-4">Castelo Desertico</text>
+		<text name="2-5">Catacumba</text>
+		<text name="2-6">Dia de Sol</text>
+		<text name="2-7">Palacio Daisy</text>
+		<text name="3-1">Tocando Cerejas</text>
+		<text name="3-2">Lago Quente</text>
+		<text name="3-3">Troncos Ovais</text>
+		<text name="3-4">Diamantes</text>
+		<text name="3-5">EstalacTites</text>
+		<text name="3-6">Fabrica Prost</text>
+		<text name="3-7">Palacio Sultao</text>
+		<text name="4-1">A Clareira</text>
+		<text name="4-2">Arvores Bicho</text>
+		<text name="4-3">Topo Arvoredo</text>
+		<text name="4-4">Arvore Boggly</text>
+		<text name="4-5">Gigantes Ali</text>
+		<text name="4-6">Arbustoes</text>
+		<text name="4-7">Palacio Espinhoso</text>
+		<text name="5-1">Vale Congelante</text>
+		<text name="5-2">Paraiso de Floco</text>
+		<text name="5-3">Montanha de Creme</text>
+		<text name="5-4">Deposito Liso</text>
+		<text name="5-5">Baleia Tonta</text>
+		<text name="5-6">Casas de Gelo</text>
+		<text name="5-7">Polo Norte</text>
+		<text name="6-1">Tempo de Praia!</text>
+		<text name="6-2">Baia dos Peixes</text>
+		<text name="6-3">Debaixo dagua</text>
+		<text name="6-4">Ruas de Delfino</text>
+		<text name="6-5">GolfinhoLand</text>
+		<text name="6-6">Ilha Pirata</text>
+		<text name="6-7">Palacio da Puta</text>
+		<text name="7-1">Anel Rotatorio</text>
+		<text name="7-2">Caminho Longo</text>
+		<text name="7-3">Escadas ao Ceu</text>
+		<text name="7-4">Nuvens de Gozo</text>
+		<text name="7-5">Vila Suspensa</text>
+		<text name="7-6">Castelo Branco</text>
+		<text name="7-7">Palacio Fodido</text>
 		<text name="8-1">NOT YET</text>
 		<text name="8-2">NOT YET</text>
 		<text name="8-3">NOT YET</text>
 		<text name="8-4">NOT YET</text>
 		<text name="8-5">NOT YET</text>
 		<text name="8-6">NOT YET</text>
-		<text name="8-7">Bowser Castle</text>
-		<text name="9-1">X-naut Base</text>
-		<text name="9-2">Moon Craters</text>
-		<text name="9-3">Moon Abyss</text>
+		<text name="8-7">Castelo Bowser</text>
+		<text name="9-1">Base X-naut</text>
+		<text name="9-2">Na Lua</text>
+		<text name="9-3">Na Lua abismal</text>
 	
 	<!--SCREENS: PROLOGUE -->
 		<text name="PeachInvites">THE PRINCESS invites Mario to her castle...\nShe will finally have her\nfirst experience...</text>
@@ -4841,7 +4861,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 		<text name="ScreenKeyboard_SingleLeftHand">single left hand</text>
 	
 	<!--SCREEN:TRAIN-->
-			<text name="ScreenTrain_MarioAfter">Mario, after his latest quest, finally calls Princess for a dinner in the Train.</text>
+			<text name="ScreenTrain_MarioAfter">Mario, after his latest quest, finally calls Princess Peach for a dinner in the Train.</text>
 		
 	<!--SCREEN: CHAR-->
 			<text name="CHOOSECHARACTER">CHOOSE YOUR CHARACTER</text>
