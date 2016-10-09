@@ -5058,7 +5058,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="ScreenOptions_Header_Quality">CPU+: Quality</text>
 				<text name="ScreenOptions_IfSmallerLessCPU">If smaller, less CPU used</text>
 			<text name="ScreenOptions_Header_Force169">Force 16:9 maximized</text>
-				<text name="ScreenOptions_Header_Force169">(A last resort if you need 16:9 while maximized)</text>
+				<text name="ScreenOptions_LastResortIf169">(A last resort if you need 16:9 while maximized)</text>
 			<text name="ScreenOptions_Header_CPUFPS">CPU+: FPS</text>
 			<text name="ScreenOptions_Header_BlitBackground">CPU+: Blit in Background</text>
 				<text name="ScreenOptions_BackObjWillPixelize">(Backg. objects will pixelize / not animate. Act in a new level)</text>
