@@ -4873,6 +4873,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="ScreenOutfit_Gloves">Gloves</text>
 			<text name="ScreenOutfit_Stockings">Stockings</text>
 			<text name="ScreenOutfit_Heels">Heels</text>
+			<text name="ScreenOutfit_Garter">Garter</text>
 			<text name="ScreenOutfit_Character">Character</text>
 			<text name="ScreenOutfit_DropEarrings">Drop Earrings</text>
 			<text name="ScreenOutfit_DropCrown">Drop Crown</text>

@@ -4680,7 +4680,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="MEDIUM">MEDIUM</text>
 			<text name="HIGH">HIGH</text>
 			<text name="AUTO">AUTO</text>
-			<text name="UPDATING">UPDATING...</text>
+			<text name="UPDATING">Atualizando...</text>
 	
 			<text name="LOOP5xNext">Repetir 5X</text>
 			<text name="LOOP4xNext">Repetir 4X</text>
@@ -4875,6 +4875,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="ScreenOutfit_Gloves">Gloves</text>
 			<text name="ScreenOutfit_Stockings">Stockings</text>
 			<text name="ScreenOutfit_Heels">Heels</text>
+			<text name="ScreenOutfit_Garter">Garter</text>
 			<text name="ScreenOutfit_Character">Character</text>
 			<text name="ScreenOutfit_DropEarrings">Drop Earrings</text>
 			<text name="ScreenOutfit_DropCrown">Drop Crown</text>
