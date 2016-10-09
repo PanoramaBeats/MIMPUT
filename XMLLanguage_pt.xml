@@ -20,6 +20,9 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 - Se ocorrer algum erro (como alguma tela ou palavra esperada não esteja neste XML), ou se a tradução de alguma palavra como LOOK para OLHAR faz o texto ficar cortado ou a palavra sumir, me avise no LEGEND OF KRYSTAL FORUMS (sou o ivanaedler - Ivan-Aedler).
  Mas lembre-se de que algumas áreas não foram ainda trazidas para este XML. Não se preocupe caso voce traduza e eu venha com um XML atualizado. O que vai mudar é a colocação de novas entradas, daí é so a galera traduzir o que falta.
  
+ - Ah, e claro! Usem o GITHUB (https://github.com/ivanaedler/MIMPUT). Vocês poderão fazer pull requests, e eu vou atualizando o XML lá no GITHUB, assim todos terão a versão mais recente. Versões melhores podem ser votadas e postas no GITHUB, e poderemos ter versões alternativas, c
+ omo XMLLanguage_pt.xml, XMLLanguage_pt2.xml, XMLLanguage_brMELHOR.xml, etc. Não há problemas em ter versões diferentes por lá. Mas eu elegerei a principal.
+ 
  - Fui! Saudações aos brazukas! ;)
 -->
 
