@@ -2,7 +2,8 @@
 Peach Untold Tale
 
 For now, the files are related to XML (i18n), that is, translation of the game assets.
-- ENGLISH already done! Portuguese in the beginning.
+- ENGLISH already done! Its here in case people want to improve it. The game already has ENGLISH as default inside the engine. Portuguese in the beginning.
+
 You are encouraged to make pull requests of new files, like German, Spanish, etc.
 
 PLEASE READ!!!
