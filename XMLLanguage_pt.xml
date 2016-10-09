@@ -1,19 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--PLEASE READ!!!
-- Version 0.1! This work was one of the BIGGEST of the game! You can finally translate it! We surely should be proud of this control! But due to Mario and other fonts, characters like '㡢 ࡧ' are not supported-. 
-- Although too early, it already covers up 95% of the game (more than 4,000 lines!), and ALL creature scenes (well, perhaps some exceptions might appear)! Certain screens, scene names in the gallery, buttons and DESCRIPTION (tale) texts of the achievements and diary are NOT in the XML yet.
-- UTF8 chars NOT supported because fonts used in the game is NOT UTF8, please use LATIN (ASCII) only.
-- You should use a good XML editor. Notepad++ is great because it will be colored differently, easing your work.
-- You DONT need to translate text inside <!-  ->
-- Please BE CAREFUL about not closing tags or other misses. Incomplete or errors in XML will give a'XML load error' message or give unexpected behavior in the game!
-- Its not possible to change some text, like Princess and Creature names (e.g. if you want to call Peach as 'Pêssego' or Goomba as 'Gumpa', you wont be able to do so). This is due to XML and the game limitations. If I figure it out in the future, I can implement it.
-- \\u is UNICODE character. It s NOT working currently, even if it's present. To work in the future. 
-- Please translate observing the placement of \n. Its the line breaker. I use them many times just to adjust (centralize) text better. If you translate a given phrase and you see the text is trespassing the balloon, you can force its break by adding a \n. Dont use <br/>!
-You can live without \n, but certain balloons will be 'very empty' without them, or the first line might trespass it a bit because of the curve of the balloon.
-- I use 'loop="1a", "1b"', etc (that is, variations) to give ALTERNATIVE words according to the logic inside the scene, like if Peach is a nymph or if her...asshole is swollen.
-- There are scenes with same messages. This can occur. You can also make them different, if you want more variety.
-- Please DONT change variables (those inside { } ), or the game will malfunction!
-- If any errors (or something in the game that doesnt have a tag here to be able to translate, or a text that trespasses buttons/boundaries), please contact me on Legend of Krystal site (ivanaedler). But remember I already told above that DESCRIPTION (tale) texts, Diary, etc, arent in this XML yet.
+<!--POR FAVOR LEIA!!!
+- Versão 0.1! Este trabalho foi um dos MAIORES da produção do jogo! Finalmente poderemos traduzí-lo. Devemos realmente estar orgulhosos de ter chegado até aqui! E como poucos sabem, o produtor deste jogo É brasileiro! ;) Brasileiros dominam o mundo!
+Mas nem tudo são flores. Devido à limitação de fontes como 'Mario font', caracteres UTF8 não é suportado.
+- Apesar deste XML ser muito recente, já compreende 95% do jogo (mais de 4000 linhas!) e já abrange TODAS as cenas de criaturas (bom, exceções podem ocorrer, e por isso me avisem!)
+- Mas é bom reforçar: certas TELAS, certos NOMES De criaturas e cenas na galeria, botões e HISTORIAS das telas de conquistas (achievements) ainda NÃO estão no XML.
+- Como disse, UTF8 não é suportado pelas fontes não suportarem. Só LATIN (ASCII). Talvez idiomas como RUSSO seja possível, não sei.
+- É recomendável usar um bom editor de XML como Notepad++, pois ele colore e ajuda a verificar TAGS XML, facilitando seu trabalho.
+- Você NÃO precisa traduzir textos dentro de <!-  ->
+- Por favor TOME CUIDADO sobre fechar tags e outros esquecimentos. Erros XML podem gerar 'Error XML' no jogo ou pior, deixá-lo travado. Neste caso, clique RESET SAVES na primeira tela.
+- Não é possível mudar certos nomes, como 'Princess Peach'. Tentar mudar 'Peach' para 'Princesa Pêssego' não vai funcionar. Se eu descobrir como fazer isso no futuro, eu atualizarei o XML.
+- \\u é um caracter unicode. Não está funcionando, mesmo se presente nas tags abaixo. No futuro quem sabe.
+- Por favor observe os locais de \n e procure traduzir de forma a ficar quase do mesmo tamanho de letras, ou a quebra de linha pode não funcionar. Não remova os \n. São usados para ajudar a centralizar o texto nos balões de texto. 
+Se você traduzir alguns e notar que o texto está ultrapassando a borda do balão, é so trazer o \n para a palavra anterior. Se o texto é pequeno e o balão é grande o suficiente, você pode usar outro \n. Não use <br/>!
+Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos não serão mostrados ou ultrapassarão limites dos balões, esteja avisado.
+-  Eu usei o padrão loop="1a", "1b"', que são geralmente VARIAÇÕES de loop="1", por exemplo, como se a princesa está nua, se ela é puta, se o cu dela está abertão, etc.
+- Existem cenas com as mesmas mensagens. Isto pode acontecer porque na época, não havia variações de sexo, daí foi só copiado o texto para os loops novos. Caso queira mais variedade, deixe-os diferentes!
+- Por favor NÃO mude o nome das variáveis, como <p i="1teste"> ao invés de <p i="1">, e não tente criar novos, como <p i="40">, 41, 42...Não vai funcionar. 
+- E não mude o conteúdo entre chaves ({ } ), ou não vai funcionar.
+- Se ocorrer algum erro (como alguma tela ou palavra esperada não esteja neste XML), ou se a tradução de alguma palavra como LOOK para OLHAR faz o texto ficar cortado ou a palavra sumir, me avise no LEGEND OF KRYSTAL FORUMS (sou o ivanaedler - Ivan-Aedler).
+ Mas lembre-se de que algumas áreas não foram ainda trazidas para este XML. Não se preocupe caso voce traduza e eu venha com um XML atualizado. O que vai mudar é a colocação de novas entradas, daí é so a galera traduzir o que falta.
+ 
+ - Fui! Saudações aos brazukas! ;)
 -->
 
 		<game>
