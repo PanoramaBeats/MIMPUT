@@ -4520,7 +4520,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="ZOOMOUT">ZOOM OUT</text>
 			<text name="BACK">BACK</text>
 			<text name="LOADGAME">LOAD GAME</text>
-			<text name="FromFile">From File</text>
+			<text name="FromFile">FROM FILE</text>
 			<text name="LoadGame">Load Game</text>
 			<text name="Load">Load</text>
 			<text name="LoadSlots">Load Slots</text>
