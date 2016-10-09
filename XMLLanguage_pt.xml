@@ -8,7 +8,7 @@ Mas nem tudo são flores. Devido à limitação de fontes como 'Mario font', car
 - É recomendável usar um bom editor de XML como Notepad++, pois ele colore e ajuda a verificar TAGS XML, facilitando seu trabalho.
 - Você NÃO precisa traduzir textos dentro de <!-  ->
 - Por favor TOME CUIDADO sobre fechar tags e outros esquecimentos. Erros XML podem gerar 'Error XML' no jogo ou pior, deixá-lo travado. Neste caso, clique RESET SAVES na primeira tela.
-- Não é possível mudar certos nomes, como 'Princess Peach'. Tentar mudar 'Peach' para 'Princesa Pêssego' não vai funcionar. Se eu descobrir como fazer isso no futuro, eu atualizarei o XML.
+- Não é possível mudar certos nomes, como 'Princess Peach'. Tentar mudar para 'Princesa Pêssego' pode até funcionar nos textos que tem 'Princess' escrito. Mas ao mudar de personagem, por exemplo, você pode ver que ali fica fixo em inglês. Se eu descobrir como fazer isso no futuro, eu atualizarei o XML.
 - \\u é um caracter unicode. Não está funcionando, mesmo se presente nas tags abaixo. No futuro quem sabe.
 - Por favor observe os locais de \n e procure traduzir de forma a ficar quase do mesmo tamanho de letras, ou a quebra de linha pode não funcionar. Não remova os \n. São usados para ajudar a centralizar o texto nos balões de texto. 
 Se você traduzir alguns e notar que o texto está ultrapassando a borda do balão, é so trazer o \n para a palavra anterior. Se o texto é pequeno e o balão é grande o suficiente, você pode usar outro \n. Não use <br/>!
