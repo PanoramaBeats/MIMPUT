@@ -22,6 +22,6 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 - I use 'loop="1a", "1b"', etc (that is, variations) to give ALTERNATIVE words according to the logic inside the scene, like if Peach is a nymph or if her...asshole is swollen.
 - There are scenes with same messages. This can occur. You can also make them different, if you want more variety.
 - Please DONT change variables (those inside { } ), or the game will malfunction!
-- If any errors (or something in the game that doesnt have a tag here to be able to translate), please contact me on Legend of Krystal site (ivanaedler). But remember I already told above that DESCRIPTION (tale) texts, Diary, etc, arent in this XML yet.
+- If any errors (or something in the game that doesnt have a tag here to be able to translate), please contact me on Legend of Krystal site (ivanaedler). 
 
 Thank you!
