@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--PLEASE READ!!!
 - Version 0.1! This work was one of the BIGGEST of the game! You can finally translate it! We surely should be proud of this control! But due to Mario and other fonts, characters like '㡢 ࡧ' are not supported-. 
-- Although too early, it already covers up 95% of the game (more than 4,000 lines!), and ALL creature scenes (well, perhaps some exceptions might appear)! Certain screens, scene names in the gallery, buttons and DESCRIPTION (tale) texts of the achievements and diary are NOT in the XML yet.
+- Although too early, it already covers up 99% of the game (more than 5,000 lines!), and ALL creature scenes (well, perhaps some exceptions might appear)! Certain screens, scene names in the gallery are NOT in the XML yet.
 - UTF8 chars NOT supported because fonts used in the game is NOT UTF8, please use LATIN (ASCII) only.
 - You should use a good XML editor. Notepad++ is great because it will be colored differently, easing your work.
 - You DONT need to translate text inside <!-  ->
@@ -13,7 +13,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 - I use 'loop="1a", "1b"', etc (that is, variations) to give ALTERNATIVE words according to the logic inside the scene, like if Peach is a nymph or if her...asshole is swollen.
 - There are scenes with same messages. This can occur. You can also make them different, if you want more variety.
 - Please DONT change variables (those inside { } ), or the game will malfunction!
-- If any errors (or something in the game that doesnt have a tag here to be able to translate, or a text that trespasses buttons/boundaries), please contact me on Legend of Krystal site (ivanaedler). But remember I already told above that DESCRIPTION (tale) texts, Diary, etc, arent in this XML yet.
+- If any errors (or something in the game that doesnt have a tag here to be able to translate, or a text that trespasses buttons/boundaries), please contact me on Legend of Krystal site (ivanaedler). 
 -->
 
 		<game>
@@ -4379,6 +4379,832 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="20">But...I want to talk to you so much! You\'re so cute! I miss you since...</p>
 				<f i="21">I... I don\'t have time, Princess. I am hungry, and I am in a business with those two nimbus people about a new Tadpole lake. I am sorry. You need to hurry!</f>
 				
+			</scenes>
+			
+	<!--ACHIEVEMENTS: the description of the tales can have a max of 27 lines approximatelly. In order to test the limit, its advisable to play the game then use the CHEAT (1 9 and 0) then go to the Achievement screen-->
+	<!--Please use TAB and ENTER to organize lines. Dont use spaces or they will be considered! And please put a space in the end of each line (except those with \n) or letters will be joined!-->
+	<!--Finally, remember to put \ before quotes and always finish the wall of text with f TAG-->
+			<scenes scene="achievements">
+				<f i="medal1">GOOMBA\'S SLUT: Too many Goombas can make you slutty</f>
+					<f i="desc1">Despite herself, Peach gave herself to the goombas with abandon. She tried avoiding some of them, but little by little, 
+										she gave them more and more of her body. She sucked a succulent dick in one level, bobbing up and down on his shaft until 
+										he blew his load down her throat. Then she gave her rosebud to another of those brown dick-shaped fellas, screaming in ecstasy 
+										as he plowed her ass. But that wasn\'t enough, so she gave the next her special hole. It felt so good going in and out that she 
+										didn\'t care who heard her cries of pleasure. She just kept fucking more and more goombas. Filled with desire, she keeps daydreaming 
+										for more cock. Only minutes ago, she noticed a Toad, who waved back to her sheepishly. The Toads have been gossiping about Peach\'s 
+										wild exhibitionist acts. They say she loves to show off every little dirty thing she has.\n
+										
+										She\'s beginning to think of herself as pure nymph (she even calls herself a WHORE, which makes her hornier and hornier every time she 
+										says it). Goombas now arrive in the forest. Peach licks her lips, already naked and covered in old cum. She runs her hands over her 
+										body and purrs, \'Come on in, my goombas, I want you all! I want to guzzle down your delicious milk!\'\n
+										
+										Princess Peach took all the goombas she could find. They fucked her in every hole and she loved every moment of it. She doesn\'t 
+										remember when they fell asleep, but one thing is sure...she\'ll join them soon, curled up nude and soaked in cum...She still needs to 
+										know how to get back to her castle without Toadsworth and Toadette noticing...They would be angry enough they would.....slap her 
+										butt until being as red as a Cheep fish! </f>
+										
+				<f i="medal2">TROOPA\'S TRAMP: Like it rough? Be Koopa Troopas bitch!</f>
+					<f i="desc2">The warm sunshine sparkled in the clear blue skies of Delfino Island. Princess Peach adjusted her bikini and laid down on the beach. 
+										Charlieton\'s tiny bikinis always looked so cute, but she found them so hard to stay on. She traced her toes in the incredibly fine sand 
+										and looked out at the clean, crisp water. The sand felt warm and had a nice texture. Peach pulled out a draft of Luigi\'s book that he had 
+										lent her and she started flipping pages.\n
+										
+										The princess found herself idly stroking the sides of her soft breasts. She took a quick look around, then slipped her top off.  She took 
+										one of her luscious melons into her hand and caressed it gently.  She often went top-less in her castle gardens and knew how to enjoy herself. 
+										But here on Delfino Island, she failed to notice a trio of Koopa Troopas lurking over the dunes.\n
+										
+										The koopas nudged each other, then crept up behind the preoccupied princess. They gave each other a wink, then pounced. One groped 
+										Peach\'s delicious ass and pulled up her mini thong. Another whipped its dick out and went straight for the princess\' dripping pussy.  The last koopa 
+										circled around and grabbed hand fulls of Peach\'s generous boobs, sticking his dick up in between them.\n
+										
+										Peach squealed, \'Ooooh, not again.... I can\'t even read a book!\' The koopas groped and fondled as they rubbed their dicks against her soft flesh. 
+										\'Noooooooo! This is embarrassing!\' Peach protested.  But she had already gotten herself worked up before the koopas arrived, and came just from the friction 
+										of the koopa cocks rubbing against her pussy and ass hole. The princess cried out in orgasm and shook uncontrollably. The koopas let out excited shouts and 
+										plunged their cocks deep into the princess\' holes.  Peach\'s beach vacation would prove to be much longer and much messier than she had planned...</f>
+										 
+				<f i="medal3">SEXSLAVE: Shyguys are gentle creatures, right? Wrong...</f>
+					<f i="desc3">In quieter times, Princess Peach would often visit the Subcon world. Wandering through the hills and waterfalls, the princess relived her battles 
+										against Wart and his stolen nightmare machine. The friendly subcon faeries always thanked her warmly for freeing them and gave her company on her 
+										travels. But this time she crept through the valleys alone, searching for her lost love. Dangerous creatures once again plagued the Subcon world, 
+										and perhaps Mario came to their aid. The sound of laughter shook Peach from her thoughts, and she went closer to investigate. A group of 
+										Shyguys sat in a circle, telling jokes and drinking large mugs of potent alcohol. Some swayed as they laughed and stumbled in drunken stupors. 
+										Some had their thick dicks out, and masturbated furiously as another Shyguy waved around a large poster. The Princess\' eyes went wide as she stared 
+										at their swollen members. Peach found herself playing with her clit, without even realizing she had pulled down her panties. She blushed as she 
+										chastized herself for letting pleasuring herself become such an automatic response. This wouldn\'t do for a princess at all! The Shyguy holding the 
+										poster swiveled drunkenly, showing that it was a naked picture of her! Peach squealed in surprise, which caused every Shyguy to hop out of his seat.\n
+										 
+										The princess clamped a frantic hand over her mouth, but the Shyguys scrambled over to her location, swarming around her like flies. They howled in 
+										glee when they saw who she was, and pounced on the frightened princess. They tore her clothes away with savage hunger, leaving her buck 
+										naked. Some pulled out rope and tied her up with practiced ease. Her boobs burst out of the bindings, squeezed tightly by the ropes. Her soft flesh 
+										pressed tightly against the loops, feeling strangely stimulated by the touch. Then a length of tiny rope pressed deep against her slit. As it dragged 
+										upwards, it got soaked with fluids from her sopping wet pussy. Peach felt a ball gag shoved into her mouth and pulled tight. Wide eyed, she frantically 
+										looked around at the circling Shyguys as they stroked their throbbing cocks. She squirmed helplessly and they closed in around her. Peach felt cocks 
+										covering her face and poking in at every opening she had. Two dicks even shoved their way into her bound hands. As if on cue, the Shyguys started 
+										thrusting into her holes together. Fluids poured out of her, and Peach\'s soaked cunt spasmed in her first orgasm almost immediately. She moaned and 
+										screamed into the ball gag until the gag got replaced by another Shyguy cock.\n
+										 
+										The princess shook as wave after wave of orgasm rocked her body. The swarm of Shyguys undulated in and out as they frantically fucked her. As one 
+										finished pumping his cum into the princess, another leaped in to take its place. 
+										The desperate orgy went on for hours as wave after wave of cum splattered all over the princess and flooded out of her holes. Finally the last 
+										Shyguy spurted his seed all over the princess\' face and collapsed into a heap. The exhausted Peach looked around at the sea of cum and spent bodies. 
+										She tried her bindings and to her surprise the absolutely soaked ropes slipped right off. Peach staggered to her feet and laughed. Subcon would be 
+										free again! Even if much stickier...</f>
+										
+				<f i="medal4">YOUR HOLE, MY GOAL!: The football players OWNED you!</f>
+					<f i="desc4">Princess Peach ran frantically through Delfino Plaza. Wearing only a pink bikini and matching heels, she barely managed to stay ahead of a pair of 
+										lusty Cataquacks, their massive dicks wobbling heavily in the air. She tripped, tumbling into the Cataquacks. Peach pulled herself out of the pile,
+										but found that her bikini bottom had become entangled in Cataquack dick. She cried out and pushed herself away with all of her might, tearing her 
+										bikini bottom off. She gasped in embarrassment and the other Cataquack snapped at her, catching her bikini top. \'Noo!\' Peach yelled as he tore it off.\n
+
+										Peach sprinted away, covering her plump, jiggling boobs and lucious vagina with her bare arms and hands. Her cheeks blushed fiercely as she quickly 
+										turned a corner, finding an empty alley with a large door. With no time to hestitate, she swung the door open and dashed inside. A heavy bass beat 
+										greeted the princess, which vibrated through her body. Her eyes adjusted to the dusky bar, noticing a small Toad bartender working behind the bar 
+										and a large dance platform sporting a stripper pole. The princess\' eyes went wide and she covered herself tighter. The bartender looked up at her 
+										and smirked, \'I see you\'re eager to get to work.\' \'Work?\' she improvised, \'Oh y-yes, I just need to... to change into my clothes...\' 
+										The bartender flipped her a set of keys and quipped, \'Sure thing. Locker\'s the second door down.\' Peach thanked him and raced for the lockers. Her 
+										nervous feet slipped, however, and she tumbled, tits over ass, onto the dance stage. Her face and boobs pressed against the flashy, reflective 
+										surface, with her knees scraping on the floor and her ass hiked high in the air. Slightly dazed, it took her a moment to notice the crowd of Chucks 
+										watching her intently. They cheered and whistled at her while stroking their exposed cocks.\n
+
+										Panic rose in the princess and she stammered, \'I-I just need to get ready. G-give me a minute to-\' She didn\'t notice a Chuck coming up behind her until 
+										he slapped his hands on her ass, grabbing firmly. \'Hey wait!\' she cried, \'What are you doing?\' The Chuck rubbed his dick in between her ass cheecks, 
+										groaning for a minute, then slipped it to the entrance of her flower. Peach squealed as he plunged his shaft into her sopping wet pussy. Her gushing 
+										nethers made his entrance easy, and he quickly impaled her with his full length. She bit her lip and flushed red, embarrassed at how hot and ready the 
+										events had made her. The Chuck started pumping the whimpering princess and she sighed, knowing that it was far too late to escape.\n
+
+										She arched her back and hiked her ass up higher, helping him penetrate her more thoroughly. His cock felt incredible as it slammed into her love 
+										tunnel, making loud squelching sounds with every thrust. She moaned and closed her eyes, listening to the beat of the music and the wet, flesh slapping 
+										sounds of sex. The crowd cheered wildy and Peach looked at them as they masturbated furiously. A naughty smile crept over her sweating face and she 
+										spread her legs more, exposing both her holes. She licked her lips and started bucking her ass into the Chuck with every thrust, fucking him back while 
+										she stared wantonly at the audience. The Chuck pounded her harder and harder until he grunted heavily and flooded her insides with cum. Her body shook 
+										uncontrollably as her own orgasm overtook her. She screamed in ectasy, but continued to stare lustily at the crowd as she quivered and spasmed. The 
+										Chuck finally pumped the last of his seed into the still shaking princess and slumped back, falling into a deep slumber. Another Chuck scrambled to 
+										take his place. Peach watched him luridly as he shoved his throbbing erection into her trembling hole. She shifted her gaze back to the crowd and 
+										grinned wickedly. The show had only just begun...</f>
+										
+				<f i="medal5">NINJI\'s STAR BITCH!: You are his dirty companion star!</f>
+					<f i="desc5">Princess Peach peered into the Phanto temple entrance with trepedation. Twisting shadows and flickering candle light teased at what secrets lay 
+										within. After searching the Subcon Kingdom for days, she hoped that she\'d finally found a tomb that held her key.\n
+
+										Peach adjusted her white fire dress and hopped down the stairs, alabaster heels echoing through the corridors. She waved away some cobwebs when she 
+										felt a slight gust of wind and a splattering of some kind of jelly across her pristine dress. The princess shrieked and stumbled back. She looked up 
+										and found a purple, star like creature crouched before her, tensed and ready to strike. \'A Ninji!\', she gasped. She started to run, but could only 
+										manage a sluggish jog. Her limbs felt numb and the jelly stuck like glue. She looked down at the transparent goo staining her dress and cried out, 
+										\'What is this? What have you done to me?\' With all her strength, she ducked into a side room and tore off her sticky dress. She blushed in 
+										embarrassment when she realized even her panties and stockings had gotten smeared with the gel. She bit her lower lip and quickly stripped herself 
+										bare, her lucious boobs bouncing and jiggling as she moved. After wiping herself down with her soiled garments, the princess covered her exposed 
+										privates with her hands. She crept down the hall, nervously looking from shadow to shadow for any sign of the stealthy Ninji.\n
+
+										As Peach wandered through tomb, she could feel her body growing hotter and her nethers tingling with an increasingly urgent need. She soon found 
+										herself sweating profusely and trembling slightly with desire. The princess let out a squeal when she realized that the hand covering her vagina 
+										was passionately stroking her clit. \'Oh, what am I doing?\' she chastised herself. Peach jogged faster, her heavy buttocks bouncing and swaying with 
+										every step. Suddenly, Ninji pounced on her, caressing her soft ass and hugging her as if there was no tomorrow. Peach yelped and tried to pull him 
+										off, but the little creature slipped out of her grasp and started to skillfully massage her clit and finger her wet royal pussy.\n
+
+										The princess couldn\'t take his expert assault and cried out in startled pleasure. She eventually succumbed to Ninji\'s sensual teasing, arching her 
+										back and thrusting her hips out like a horny bitch begging to get mounted. Ninji unsheathed his dick and plowed into her molten hot depths. They 
+										fucked like animals, Peach screaming and moaning like a whore as the wet slapping sounds of sex echoced through the caverns. The princess\' body 
+										shook and quivered through several orgasms before Ninji pulled his prick out with a sloppy *plop* and pushed it inside her tight asshole. \'Ooooh! 
+										Dont fuck my tender rosebud!\', she begged, \'It drives me wild!\' Ninji just grinned as he ravaged her. Every time Ninji pulled out, the ring of her 
+										anus flesh stretched out, only to get packed back in with Ninji\'s thrust. Like a plunger, his manhood pistoned her anus up and down.\n
+
+										After what felt like an eternity or orgasmic anal copulation, the princess felt her companion\'s swollen cock tremble and quiver inside her. Her 
+										lidded eyes snapped open as Ninji arched forward on his tiptoes and screached, discharging load after load of hot semen deep into her swollen 
+										asshole. So much steaming cum flooded her throbbing rosebud that Peach thought she would burst. With one last spurt, the creature collapsed 
+										unconsious, an ecstatic look of joy on his face. Through the dizzying haze of lust, the princess noticed his dick still remained stuck deep inside 
+										her bum. She struggled with his still impressive member, but couldn\'t get it out. She drunkenly stood up, having to walk bow legged and bent over, 
+										grabbing him with both hands. \'Oooh no!\', she murmured wondering how she was going to manage this now very embarrassing quest...</f>
+										
+				<f i="medal6">WIGGLER\'s HIVE: Awaiting for the caterpillar\nto naturally pollenize your flowers!</f>
+					<f i="desc6">The warm sun caressed the princess\' skin and the leaves crunched under her bare feet. Princess Peach took a deep breath as she hiked 
+										her way through the Forest level. She took a moment to inspect her naked body. A frenzied group of Goombas had shredded her dress to 
+										tatters, and she tore off the rest to run faster.\n
+										 
+										She counted her blessings that she was still in one piece, when she almost stepped on a Wiggler... A giant, colored caterpillar that 
+										always inched around with a happy smile. She gasped as she remembered stories about them. If stomped on, the would grow red with fury 
+										and rage. But if treated nicely, they stayed gentle and loving. She imagined other things she heard about them, and a naughty smile crept 
+										over her face.\n
+										 
+										She blushed as the Wiggler sniffed at her body and explored her sweet little pussy. The Wiggler looked so cute and innocently happy. She 
+										grinned ear to ear as she imagined all the dirty things she\'d like to do with him and sank down to all fours. She bent down and pushed her 
+										hips out to him, presenting her sweet flower, and almost squealed in anticipation. Oh, Peach, what a perverted Princess you are!\n
+										She noticed a green leaf-like appendage pressing against her legs. It bulged and pulsated like a root from one of the special juice trees. 
+										Peach started to swing her butt and gave him a sultry look. The Wiggler\'s leaf-cock stiffened and grew as he eagerly climbed up on Peach, 
+										resting some of his feet on her back and ass. Peach felt the green cock rub at the entrance of her slit and she helped spread herself open.  
+										The Wiggler penetrated her slowly, gently easing in. Peach gave a sharp intake of breath as the shaft steadily filled her, making wet sloshing 
+										sounds, like warm jelly being worked over inside her. The princess\'s nipples swelled and hardened. Her perky breasts pointed to the ground and 
+										quivered, like they were ready to \'cum\' milk.\n"+
+										 
+										The Wiggler eased his leaf cock in and out of Peach\'s love tunnel. Birds chirped overhead and Peach\'s hands tensed into fists, pulling at the 
+										cool grass. The Wiggler increased his pace and started to really pound Peach\'s pussy. His caterpillar body slapped into Peach\'s ass, making wet 
+										smacking sounds. Peach closed her eyes and moaned loudly. The Wiggler leaned himself more over the princess\' ass as it fucked her harder and harder.\n
+										 
+										Peach felt herself about to cum, and she desperately started to push her ass back and forth, fucking the Wiggler back. She threw her head back and 
+										screamed in ecstasy as she came hard, over and over again. The Wiggler grunted and shook as it shot thick, heavy loads of juicy cum deep into the 
+										princess. Peach collapsed into a sweaty, sticky mess, panting heavily. She looked down at her naked body and laughed. Her sweet flower could bring 
+										her so many bees to love her... An endless sea of lovers...</f>
+										
+				<f i="medal7">BOO in HER BUM: Being \'Poltergeistzed\' until cumming from supernatural dicks!</f>
+					<f i="desc7">After emerging from the Twilight desert, Princess Peach found herself wandering in a dark, uncharted territory. Old twisted trees stretched their 
+										rotting limbs through dense fog, and rusted Gothic fences stood in silent vigil. Bats flapped their wings above and wolves barked in the distance. 
+										Peach cringed and jogged faster, coming upon a rough, imposing castle. Its large wooden door creaked and groaned as she heaved it open and entered.\n
+
+										The dusty entryway lay empty save for cobwebs and some creaky chairs. \'It looks like an abandoned mansion\', she pondered as she walked further in. 
+										Two ivory staircases led to a single door each, and a tattered sign on the wall read \'Please place your clothes on the hooks before entering.\' Peach 
+										clutched at her blouse, \'What? Not again! I wont do that!\' She climbed the stairs, but found the door locked. She tried the other flight of stairs, 
+										but that door proved locked as well. She wrinkled her nose in frustration, then remembered the sign. \'Hmmm, maybe that\'s the key... Well, there\'s no 
+										one in this old mansion, right? I guess I have to try.\'\n
+
+										She slowly stripped off her clothes, sheepishly looking around as she removed each piece. Just as Peach got to her heels, she heard glass smashing in 
+										the distance. \'Oh! Is someone here?\' She raced up the stairs, heels echoing on the ivory. She grabbed the door and it swung right open. Peach clapped 
+										her hands in glee and dashed in, but the door slammed shut behind her. The handle wouldn\'t budge. \'Oh no! My clothes are locked on the other side!\'\n
+
+										She nervously looked around, covering herself with her hands. She climbed ragged stairs and found a large room covered in a strange blue haze. Pale 
+										moonlight poured through a stained glass roof, making her naked, sweaty body shine with a blue glow. \'Such a creepy place...\' Peach whispered as she 
+										covered her naked boobs tighter. A sudden child-like laugh made her jump. She turned and found a Boo floating before her. \'Hey...you...you\'re a Ghost, 
+										aren\'t you? Please guide me out!\' The grey ghost quickly covered his face with his arms, looking shy and friendly. \'Aw, you\'re pretty cute, aren\'t you? 
+										You don\'t have to be shy, little one.\' The ghost covered his entire front with his arms, as if hiding something. \'It\'s okay, cutey. You have nothing 
+										to cover up, right?\' Peach gently moved his arms, finding out how wrong she was when a large dick sprang out, slapping her surprised face. She cried 
+										out in embarrassment and the large ghost cock slipped right in her mouth. \'Oh Mnnhmm, take it out! Take it out!\' she gargled. But the intoxicating 
+										scent of his manhood and the throbbing swell in her throat drove her wild. Desire overtook her and she started sucking him with abandon.\n
+
+										Suddenly she started lifting up, as if gravity had vanished. \'What\'s happening?\' she wondered. Her long, untamed hair danced in the air, tickling the 
+										porous skin of her back. Two more Boos emerged to join the horny couple. Peach looked confused when they stopped in mid air, but then her eyes rolled 
+										back in carnal lust as two bulging, tentacle-like appendages thrust out from her anus and vagina. They pumped in and out, making the princess moan 
+										deeply into the cock in her throat. Working in unison, the anal dick pounded in while the other burst out. She could actually feel the sensations of 
+										the dicks, giving her the pleasure of both fucking and getting fucked. They made love in total erotic bliss. She started to feel like she had to pee, 
+										but it proved to be the cocks about to unload. \'Ooooooooh, I-I\'m...cuuumming!\' she squealed. The ghost dicks erupted, spraying ecto jiz all over the 
+										room. Peach spasmed and shook as everyone\'s combined orgasmic fever rocked her body again and again. Finally, she drifted slowly to the floor, her 
+										body still pulsing with orgasms. Under the pale moon light, the princess and the boos fell into a deep, refreshing sleep...</f>
+										
+				<f i="medal8">PIRANHA\'s CAPTIVE: You love all those tentacles inside your holes, right?</f>
+					<f i="desc8">Princess Peach leaned lightly against a giant pipe while inspecting her curvaceous ass. By now she knew how magnetic her naked body could be. In her 
+										quest to find Mario and save her kingdom, the princess learned to seduce her enemies with her intoxicating curves, then fuck them into a deep, orgasmic 
+										sleep. Peach wiped away some cum that she had missed while bathing and laughed. Toadsworth was right. She had exactly what it took to save her kingdom.\n
+										 
+										Lost in thought, Peach didn\'t notice thick green vines snaking out of the pipe. They slowly crept around the distracted princess as the piranha plant\'s 
+										smiling head emerged from the pipe. Peach turned to look, but it was too late. Vines coiled around her arms and legs. She screamed as the vines lifted her 
+										into the air. The piranha plant wrapped a vine around her mouth and pulled her head back. Vines still wet from the morning dew rubbed and caressed the 
+										princess\' soft body, getting her supple skin slick and smooth. Peach\'s mind raced at her predicament. Trapped and vulnerable, her heart raced in fear, but 
+										at the same time, it felt like she was being caressed by a horde of giant cocks. She blushed at the thought and juices started flowing. The piranha plant 
+										gleefully bent the princess around, presenting her dripping sex to the plant\'s mouth.\n
+										 
+										The piranha dragged its massive tongue up and down Peach\'s vagina and ass, grinding her delicious fruits and slathering them in saliva. The princess squealed 
+										and jerked her ass as the slimy tongue worked it\'s way up and down her backside. The piranha pulled back and brought a couple vines to rest against her two 
+										holes. Peach\'s eyes widened as she felt the slick nubs press into her. The dripping vines found no resistance and easily worked their way in. Peach squealed as 
+										they penetrated her womb, sliding in and out. The vines pumped her love tunnels faster and faster. The princess\' juices gushed out and the vines made wet, 
+										sloppy sounds as they pounded her again and again. Peach moaned rhythmically and her body rocked back and forth with every thrust. Her nipples swelled 
+										and grew hard, with her breasts swinging back and forth. They bounced and flowed in undulating waves of tit flesh.\n
+										 
+										The vine covering Peach\'s mouth slipped around and shoved itself down her throat. The princess made gagging moans of ecstasy as the vine furiously fucked 
+										her face. Peach lost herself in a cloud of pleasure as the piranha\'s vines frantically pounded her. She came over and over again, feeling like she was 
+										swimming in a sea of cocks. After what felt like an eternity of orgasmic pleasure, the vines finally spasmed for the last time and fell limply to the ground. 
+										Peach dropped gently down into a mass of tangled vines. A torrent of cum spilled out from her mouth. She coughed and gagged, then breathed heavily as thick 
+										fluids leaked out of her other holes. Exhausted, she looked over at the dozing piranha plant. Even the plants wanted her flower...</f>
+										
+				<f i="medal9">SCRAP ON MY BUTT: Her holes made E.Gadd successfully get aroused enough to remember!</f>
+					<f i="desc9">NOT YET</f>
+					
+				<f i="medal10">ANUBOO\'s SLAVE\': Peach intimate parts are about to be his property!</f>
+					<f i="desc10"> Princess Peach trudged wearily through the hot desert. It had been many days since a sneaky attack stripped her of both her clothes and her bearing. 
+											Her pure and vulnerable naked body glistened with sweat. Her luscious, heavy boobs bounced and jiggled with every step, and her curvy hips swayed 
+											back and forth. She found only sand, palm trees, and wooden blocks. Alone and with no sign of life, she marched on, hoping for water or shelter. 
+											She wiped beads of sweat off her supple skin and found it harder and harder to put one foot in front of the other. Finally she collapsed down on an old stone slab, 
+											exhausted and needing a break. She looked to the sky with tired eyes, hoping for some kind of miracle, then let them 
+											close. She let herself drift off to somewhere nicer. Someplace that had exactly what she desired. Peach idly stroked her ample breasts and traced a 
+											finger down to her slit. She rubbed her clit tenderly, giving it soft strokes and flicks. The princess gave it one more swirl, then slipped a finger 
+											inside her snatch. She moaned softly as she fingered herself vigorously. Peach traced her taint with her other hand, then slipped her fingers inside 
+											her rosebud. She leaned further back and thrust her hips out as she finger banged her holes with abandon. So distracted, she didn\'t notice a small 
+											black dog leaping up on a rock nearby the princess. It sniffered her crotch eagerly while wagging its tail. The happy dog licked Peach\'s clit with a 
+											long, wet tongue. Peach\'s eyes snapped open and she jerked in surprise. The dog leaped on top of Peach, his big doggy dick pushed right up against 
+											her wet pussy. As the dog started to transform, Peach\'s eyes went wide, \'Oh no! It\'s him again! Anuboo!\'\n
+											
+											The transformed egyptian soul grabbed the princess\' leg and arm, turning her to her exposed side. His eyes glowed red as a deep voice emanated 
+											from him, \'It\'s time for another sacrifice, my child. Prepare to receive my gift.\' Peach cried out as Anuboo pushed his big black cock deep inside 
+											her pussy. Her drenched inner walls stretched and throbbed as Anuboo\'s dark phallus plunged deep into the princess\' womb. Anuboo slowly pulled out 
+											his giant manhood, then plunged it back in. He picked up his pace, impaling the princess with deep thrusts. Peach threw her head back, screaming 
+											and moaning like a woman possessed. The mystic dog\'s groin slammed against Peach\'s tender ass again and again, making wet slapping sounds. Anuboo 
+											reached out and squeezed one of the princess\' large breasts, kneeding and fondling handfulls of titflesh. The princess screamed even louder, her 
+											body rocking back and forth against the stone slab. With a final grunt, Anuboo slammed his cock in and shot load after load of revitalizing jizz 
+											deep down the princess\' love tunnel. Peach gasped and shook in orgasmic delight as she felt the magical fluids rush into her womb. Still shaking, 
+											Anuboo vanished into a puddle of darkness. Catching her breath, Peach wiped her brow and picked herself up. She didn\'t know why, but every time 
+											Anuboo took her, she felt refreshed and whole. The princess looked out over the desert landscape with renewed vigor. She knew she\'d make it through 
+											the desert, even stark naked and vulnerable to more ravishing. Maybe she could receive more help from man\'s best friend...</f>
+											
+				<f i="medal11">PHANTOM TAMED: Are you ready to be a Phanto\'s Round Table?</f>
+					<f i="desc11">fter wandering the sweltering desert for days, Princess Peach finally found the main pyramid. She cautiously stepped inside, 
+											hands covering her naked breasts and slit. Dark catacombs stretched as far as the princess could see. She wondered what creatures 
+											might be lurking in the shadows. Peach bit her lip and imagined these creatures ravaging her every hole. She blushed and gripped 
+											her privates tighter, a trickle of desire dripping down her leg. Her heels echoed through the ancient stone as she walked in.\n
+											
+											She quickly came upon a large, imposing door. The princess frowned when she found it locked, but noticed a glint in a nearby 
+											corridor. Stepping closer, she found walls decorated with masks and a pit with a ladder leading down. Inside, a shiny red key lay 
+											upon a solid granite block. Peach clapped her hands in delight. She climbed down the ladder and realized that the key was much 
+											larger than she realized. She doubted that she could hold onto the key and climb the ladder at the same time. The princess blushed 
+											as she knew what to do. She sucked her index finger, moistening it with her warm saliva. She bent over and slowly pushed it inside 
+											her bumhole. Her insides warmed quickly to the sensations, and she quickened her pace. Panting hard, she grabbed the large key and 
+											shoved the tip deep inside her anus. She grit her teeth and gently eased the key inside. Her juices flooded all over the key, 
+											making it slippery wet. She thrust her hips down, impaling herself with the rest of the key, and came hard. The princess shook and 
+											spasmed while her moans echoed up the pit. She panted heavily on the key, then picked herself up and walked to the ladder.\n
+											With every step she took, the key sloshed inside her ass. Peach found her arousal quickly rising again. Suddenly, the room shook 
+											above her with a loud roar. One of the masks flew into the air. \'Oh, no!\' Peach squealed. She raced up the ladder, her boobs 
+											jiggling up and down. She reached the top and found herself face to face with the Phanto mask. It buzzed all around the princess\' 
+											naked body, zigzagging like an angry bee. Peach felt desire overflowing her pussy. She blushed bright red and pressed her hand on 
+											her cherry, as the Phanto rubbed all over her body. The princess felt a force tugging at the key in her ass. It electrified her 
+											insides and made a wet \'Plop\' sound as the key popped out. Her pussy, already on fire, exploded in ecstatic waves of orgasm. While 
+											she was still cumming, she felt two more Phantos rubbing against her. Her orgasmic waves renewed in intensity and she cried out 
+											louder. Each Phanto started licking her with strange black tongues, titilating and sucking her flesh like candy. Suddenly, huge 
+											loads of cum splattered across Peach\'s body. The princess couldn\'t even tell where it was coming from, but the Phantos plastered 
+											her with huge loads of jiz. Peach shook like a ragdoll and her legs buckled as she had her biggest orgasm yet. Her eyes rolled 
+											back and she screamed in ecstasy, collapsing to the floor in a sticky wet pile.\n
+											
+											When her sense returned to her, Peach wiped off huge gobs of cum from her face and shakily sat up. She found no trace of the 
+											Phantos, save the sloppy mess she sat in. She blushed, wondering if this made her a nympho. Peach looked again at the door. She 
+											had to be quick this time. But she looked lustfully at the cum drenched key. \'Mmm... the key...\'</f>
+											
+				<f i="medal12">ROLLING WHORE: Do you like being aroused while enrolled with a harmless snake?</f>
+					<f i="desc12">Princess Peach skipped along happily through the outer edges of the desert. Having made it through the harshest regions already, she took 
+											a moment to enjoy the shade and cool water of an oasis. She adjusted the hem of her pink stockings, tapping her heels in the process, 
+											then smoothed out her pink dress. She squinted at the brown castle ahead, happy to be so close to her destination.\n
+											
+											Lost in thought, she failed to notice a large white vase tipped over and laying behind two palm tress. Inside, a large red snake lay curled up, 
+											resting quietly in the dry heat. The snake\'s eyes popped open at the sound of splashing water. The princess washed her face with the cool water,
+											enjoying the feeling against her skin. The snake uncoiled and slithered around the princess\' legs, only brushing them when in position. Peach 
+											looked down in surprise as the snake constricted her legs tightly, bringing her down to the ground with a thud. Peach shrieked in surprise as 
+											the snake grabbed her dress with its mouth and ripped it right off. \'Wha?? Hey! What are you doing?\' the princess protested. The snake shifted 
+											to reveal an engorged member in the middle of its underbelly, standing stiffly to attention.\n
+											
+											It lifted the astonished princess and eased her down on top of its dick like a drunk ballerina. Her buttocks bounced and jiggled on the snake\'s 
+											underbelly as she came down. She could feel the snake\'s dick rubbing against the entrance of her slit rhythmically. Without thinking, the princess 
+											cooed in pleasure and positioned her feet on the ground with bent knees so she could get in a good squatting position. She blushed and looked back 
+											at the snake\'s face, saying \'This-this wasn\'t on purpose. I didn\'t mean to...\' But the snake pulled her panties to the side and slid his member 
+											deep inside her slick pussy.\n
+											
+											Peach gasped and the snake pushed its thick cock deeper and deeper into her soaked snatch. He thrust in, burying his shaft all the way to the hilt. 
+											Peach\'s ass jiggled at the impact. Shuddering in pleasure, the princess tried to rise up to flee, only to feel the snake\'s dick rub across her clitoris 
+											in the process. She whimpered and felt her knees go weak, then sank back on the snake\'s stiff cock. Desire flushed her cheeks and juices flowed down 
+											the snake\'s shaft. Behind her, the snake hissed rhythmically in an almost hypnotizing kind of trance. Her mind clouded and she couldn\'t think of 
+											anything but the hissing melody and her desperate need to fuck. She bounced up and down on his shaft, tits jiggling and swaying with every thrust.\n
+											
+											Playfully, she started to grind and sway her hips on his cock. Peach giggled and swirled as she impaled herself on his dick. She looked back at him with 
+											an impish smile. \'You\'re taming me, my little baby! Mmm...\'. The princess\'s nipples grew stiff and hard like his shaft. Her breasts swelled and strained, 
+											feeling like she was going to lactate. \'Ahh, I feel like I\'m about to explode!\' Peach pounded her ass against the snake harder, making her 
+											bubble butt bounce in undulating waves of flesh. She thrust faster and faster, unable to get enough.\n
+											
+											The Cobrat flicked his tongue as he watched the princess frantically fuck herself on his cock. Then his eyes went wide 
+											as he unleashed a torrent of cum right into her cervix. Peach shook and spasmed as a massive orgasm rocked her body. Gasping in ragged 
+											moans and whimpers, she looked around for more snakes, wondering if anyone in the castle would mind her showing up soaked in cum.</f>
+											
+				<f i="medal13">BOBOMB SPECIALUST: How many ways can you defuse a Bobomb?</f>
+					<f i="desc13">The cloudy sky breezed past as Princess Peach steadied herself on the airship deck. She jumped over crates and obstacles, feeling the soft folds of her 
+											pink dress tenderly pressing against her sweaty body. She found lingerie a little too restrictive for this kind of acrobatics and enjoyed the soft, silky 
+											touch of her dress on her naked body. She blushed as she thought of the peep show she gave every time she jumped high in the air. Suddenly, a large explosion 
+											rocked the deck. Peach squealed in surprise. Her heart pounded in her chest, but she whispered to herself to calm down. She cautiously ducked through a small 
+											wooden corridor and peeked through a port hole. She nervously looked around, but couldn\'t see anything. She leaned forward on her heels, squinting to find the source 
+											of the explosions, when a small bobomb leapt in from Peach\'s side. She gasped as she noticed his lit fuse quickly burning down. She looked at the Bobomb\'s face 
+											and actually found his \'Bee Bee BeBee\' sounds kind of sad and frantic. \'Oh, come here, Bomby!\' she cooed as she grabbed him up in her arms. She licked her fingers 
+											and pinched his fuse, but it wouldn\'t go out. She tried blowing on it with all her might, but it continued to burn. Then she noticed his huge metallic rod pressing 
+											against her face. \'Wha...what\'s that? It\'s just your pump, right?\' Her face flushed red, revealing her growing desire. \'M-maybe I can help you with it?\' The Bobomb 
+											continued to squeal, looking down at his member, then at her face. Peach glanced at the rapidly burning fuse and nervously grasped his huge shaft with both hands. 
+											\'I... I may try something, Bomby\'!\n
+
+											She started to stroke it like polishing a cold pole. Her head bobbed up and down rhythmically, making wet, slurping sounds. Peach noticed the burning fuse slowing 
+											as she took him further down her throat. She ran her tongue up and down his shaft and swirled her tongue on the tip. Then she plunged her head down, taking the 
+											massive rod fully in her mouth. She bucked her head up and down his long pole until she got into a comfortable rhythm of deepthroating his hard cock. The bobomb 
+											jerked and spasmed as a gush of a hot white liquid poured inside her throat. \'Oooh! I am on fire! Ah God\', Peach cried out. The fuse went out, but after a few 
+											seconds it ignited again. Peach squealed in alarm and started to tenderly caress the bobomb\'s cock again. More \'Bee Bee Bebee\' sounds signaled two more bobombs 
+											sneaking up to her exposed butt. Her kneeling position gave easy access to her tender pussy and asshole, so the bobombs impaled her in one swift motion. 
+											Peach burned red with embarrassment but her pussy flooded with desire. She moaned deeply into the first bobomb\'s cock as the others pounded her furiously. The 
+											princess spread her legs more and positioned herself so the bobombs could penetrate her better. Her swollen boobs popped out of her shredded dress from the 
+											vigorous fucking and bounced wildly. The wet, squishy sounds of flesh slapping against flesh echoed through the room. Peach\'s moaning grew hysterical as the first 
+											bobomb frantically fucked her face. The relentless pounding grew to a fevered pace and Peach could feel their members quivering and about to burst. \'Ohh my little 
+											sweeties, is it time to fill up your princess?\' The bobombs erupted in geysers of cum, overfilling Peach\'s mouth and womb. Streams of jizz poured out from her 
+											mouth, pussy, and ass as the cocks made their last few thrusts.\n
+
+											After a short rest, Peach stretched and adjusted her shredded dress, now stained white with cum. Her exposed butt cheeks peeked out from the remains of her dress. 
+											Cum leaked down her thighs and neck as she got up. The semen scent clung to her as she walked, and she imagined people watching her acrobatics now. 
+											She patted her exposed bottoms and giggled...</f> 
+											
+				<f i="medal14">STICKY BUM PRINCESS: Bobombs are the new shower!</f>
+					<f i="desc14">While traversing the Mushroom Kingdom, Princess Peach couldn\'t help but notice a huge increase in the number of ravenous and horny creatures roaming the lands. 
+											Bobombs especially seemed to be on the rise, with their glistening bodies and huge dicks. They marched like soldiers, their long steel spears aiming directly 
+											for her shy royal pussy. Once she heared their \'Bee Bee\' squeals, Peach found herself quivering with both fear and excitement. She tried to act fast and satisfy 
+											their desires, keeping them from exploding. But more often than not, to her great embarrassment, they\'d explode, absolutely drenching her clothes with their oozy 
+											cum. It got everywhere, and the scent of their semen could last for days. In bad cum explosions, she often opted to shed her soaked clothes. The sticky, gooey mass 
+											would often prove more hinderence than help.\n
+
+											Peach noticed herself in exactly that kind of sticky situation. \'Oh God, I have no choice\', she whimpered as she wiped gobs of cum off of her face and peeld off her 
+											soggy dress. Every article of clothing plopped in a splattering mess once it hit the ground. Once stark naked, Peach shivered and ran a hand along her soft, 
+											glistening body. She hoped that without the heavy soiled dress, she could more quickly move and disarm the remaining bobombs that wandered the ship. \'Perhaps with a 
+											good stomp,\' she mused while shaking out some of the globs of semen in her hair. As she cleaned her body, her mind inevitably wandered to getting engulfed by rock 
+											hard dicks. She had a harder and harder time thinking about anything else these days. Her fingers wandered down her belly and over her mound as her throbbing labia 
+											swelled and her clitoris grew hard and stiff. While so distracted, she didn\'t notice a small Bobomb sneaking toward her from behind two barrels full of old Koopa 
+											rum until it was almost upon her. She gave a startled shriek, clamping her hand down over her dripping pussy protectively. She quickly jumped high in the air and 
+											stomped down on his head, defusing the little guy. She slipped on her way off him though, and her soft bottom rubbed against his bent metal dick. Peach bit her lip 
+											and whispered, \'Ooooh, I can\'t control myself.\' Her cherry grew hot and a trickle of her desire ran down her thigh. She picked herself up, dragging her ass along the 
+											Bobomb\'s cock in the process, touching her butt and making her slip.\n
+
+											Another Bobomb charged in, this one with it\'s fuse almost up. Peach frantically crouched forward, exposing her smooth pussy toward him and getting ready to stomp 
+											him, but it was too late. BOOOM! Peach rocked back as a wave of semen splashed all over her body. It seemed stickier than the others and she choked and gagged on 
+											the gobs that flooded down her throat. She fell awkwardly into a doggy pose and coughed up streams of cum that splattered all over the floor. Shaking like a leaf, she 
+											tried to catch her breath and stop gagging. She tried to stand up before a third Bobomb could attack, but she heard another \'BeeBeeBee\' already behind her. This 
+											next explosion knocked her forward in a huge sticky pile of cum. She could barely move with how slippery and gooey her hands, arms and feet were. While slipping 
+											and sliding she found she could only at best manage a frog position, with her drenched vagina touching the wooden floor and its grooves. She heard another 
+											\'BeeBeeBee\' and whimpered in despair \'Oh no... He\'s going to im...impale my royal holes for sure! Wh...why do these things always happen to me?\' The princess put a 
+											protective hand over her drenched pussy and focused on the muscles of her most intimate parts, trying to force them close. Her anus and pussy quivered as they 
+											puckered open and close. However, the friction only caused her to tremble with desire, juices trickling through her fingers. She closed her eyes tenderly and sighed.</f>
+											
+				<f i="medal15">CHOMP\'s LOYAL PET: Big Balls on her!</f>
+					<f i="desc15">The bright sun gave a warm, happy glow to the grassy fields in the Mushroom Kingdom. Princess Peach skipped her way through the 
+											glade looking for flowers. She bent down to pick one up and felt a cool breeze blowing up her pink dress. \'Oh, this pink rose is 
+											just beautiful! Mmm... and I bet this would feel wonderful while tickling my pussy.\' She giggled and placed the flower in her basket. 
+											Nearby a large, black Chain Chomp grazed on some grass, bouncing happily along the length of its chain. He suddenly stopped and sniffed 
+											the air. He panted excitedly and bounced over to the unsuspecting princess. Chomp came upon her still bent over from picking flowers. He 
+											could see she wasn\'t wearing any panties over her dripping cunt.\n
+
+											Peach sniffed at her latest flower when something jerked her backwards. \'Hey! Don\'t! What are you doing?\' she shouted as she realized that 
+											the Chain Chomp had chomped down on her skirt and was dragging her away. Chomp tore and shred her dress in the struggle, exposing her juicy 
+											ass cheeks. Peach\'s eyes grew wide as she saw his big red doggy dick bulge into a raging hard on. Her heart beat faster and her desire grew 
+											as she realized he wanted to shove that delicious doggy dick deep inside her and pound her brains out. The Chomp\'s barking snapped her out 
+											of her lustful thoughts, but he had already started to mount her, rubbing his massive rod all over her ass. \'Are you trying to...\' Peach 
+											moaned, her eyes tightening in excitement. She resigned herself to the dirty foreplay as his hot breath engulfed her and his huge wet tongue 
+											rolled up and down her back, stripping off the remnants of her dress. The princess felt his huge member shift, trying to find its way into 
+											a hole. \'Oh, it\'s hard without any hands, isn\'t it? Here you go, big boy...\' Peach adjusted her legs and arched her back, guiding his swollen 
+											dick into her pussy.\n
+
+											The tip entered hesitantly at first, exploring her inner folds. Then it eased in and out, finding a good angle of entry. Peach moaned and 
+											arched her back further, opening herself up completely to his thrusts. Chomp gave an excited \'Woof!\' and started fucking with wild abandon. 
+											\'Oooooh, it feels so good inside!\' Peach cried out as his dick her again and again. Chomp tried to pull all the way out before thrusting 
+											all the way in, but his bulging tip clung to her pussy entrance. \'Hey! Your dick\'s locked inside me!\' Peach shouted, but to no avail. Only 
+											shooting his load deep inside her could shrink his bulge. She tried pushing back and forth to get it out anyway, but she only ended up 
+											thrusting her hips back to meet his thrusts. Chomp howled in joy at her fucking him back and he pounded her harder and faster with every 
+											thrust. Peach couldn\'t take any more and she screamed out \'I\'m comiiiiing!\' Her whole body shook and spasmed in waves of ecstasy, her pussy 
+											quivering and contracting on Chomp\'s cock. Chomp barked raggedly as he flooded Peach\'s inner walls with huge gray masses of cum. He jerked 
+											and sputtered as cum leaked out all over the grass, then he settled down to rest on Peach\'s still spasming back. Peach rested there as well, 
+											lazily rubbing her swollen clit. She had no idea how much time passed before his dick finally spurted out of her...</f>
+											
+				<f i="medal16">BUTTY THWOMPED: You\'re the Thwomps\' pet!</f>
+					<f i="desc16">Princess Peach dashed through the dark castle corridors, her high heels echoing through the cold stone walls. She had seen no 
+											other creatures or threats of any kind, so she ran confidently despite her naked body on display. Only silence and shadows 
+											witnessed her bouncing butt and swaying curves dart through the castle chambers. She nimbly leaped across rocky platforms and 
+											pitfalls, her boobs swinging and bouncing like jello. She skittered to a stop when whe came upon an ancient room with two golden 
+											blocks. \'Coins!\' she squealed as she ran up under one to give it a good punch. A loud *STOMP* reverberated through the room, 
+											stopping Peach in her tracks. Peach threw her arms out, trying not to fall, and wondered if an earthquake struck. A second 
+											booming *STOMP* confirmed that the source came from around a corner. Peach peeked around and saw nothing but a huge rock resting 
+											on stone platforms. Looking more carefully, she noticed the rock had two large eyes and a very grumpy mouth. It watched her warily 
+											as she aproached. \'Hello? Mr. Rock Man?\' she called out, but the stone creature just leered at her. Under his intense gaze, Peach 
+											felt the need to cover her naked breasts. Blushing, she grabbed her large melons, her delicate fingers brushing over her stiffening 
+											nipples. Her most intimate spots grew warm and tingly, dripping moisture down her legs.\n
+
+											\'Oh what is wrong with me?\' she wondered as she rested herself against the peering rock and started masturbating. She rubbed her 
+											moist, tender clit with one hand, then furiously fingered herself with her other hand. Peach cried out that she was close when the 
+											leering rock suddenly rose into the air. The princess fell on her back with a squeal. She shook her head and just barely noticed the 
+											the growing shadow around her. She screamed \'Oh no! He\'ll crush me!\' as the heavy rock came down upon her. In desperation, she lifted 
+											her feet in the air in an attempt to protect her body, but the Thwomp slowed down. Instead of a crushing impact, Peach felt something 
+											long and thick tenderly slip between her legs and penetrate her soaking wet anus. \'Ooooohh!\' she cried out as the Thwomp hilted her 
+											with a soft \'thump.\' Peach tried escaping by crawling backwards, but the Thwomp had her pinned.\n
+
+											It rose up and down, fucking the princess firmly but tenderly with his smooth, massive cock. It felt like a strange combination of 
+											cold marble and rubber, but it filled her completely, hitting every nook and cranny of her pleasure box. The princess moaned out in 
+											ectasy, her voice shaking in pitch with every massive thrust. It increased its pace, relentlessy fucking her quivering, sloppy hole. 
+											Peach\'s moaning rose to a lustful roar as she came hard, love juices squirting everywhere. The Thwomp\'s huge cock pulsated and erupted, 
+											flooding the princess\' little hole with an ocean of sticky cum. The stuff streamed out of her, running down her thighs and belly. Peach 
+											lay there, still impaled, panting heavily and pulsing with little orgasms. She looked up at the Thwomp, expecting it to pass out. But it 
+											instead rose up, still erect, and eager to impale the princess again. Peach blushed, \'Oh no... I\'m going to be here for a while...\'</f>
+											
+				<f i="medal17">MOLE\'s SLAP BITCH: Your butt is the main relaxing session!</f>
+					<f i="desc17">The glorious morning sunshine bathed the Subcon Kingdom in a heavenly warm glow. Princess Peach stretched out her naked body 
+											on the soft grass, soaking in the delicious rays the only way she liked to. She arched her back and purred, feeling the soft grass tickle and caress her 
+											supple skin as she swayed her hips and ran her hands through it. She found herself slipping dreamily into a trance of pleasant 
+											sensations. Her hands drifted lazily down her body and her tongue rolled out, as if licking some invisible cock. She suddenly 
+											realized what she was doing and blushed. \'Oh no... I\'m getting aroused again...\'\n
+
+											She reached down to stroke her clit when she heard the snapping of some twigs past some bushes. Peach frantically covered herself with her hands, 
+											completely embarrassed, and sheepishly peeked over the bushes. She spied a mole sniffing around for some food. He turned suddenly at the 
+											princess\' approach. His eyes widened as he gazed at her beautiful jugs, bouncing slightly as she struggled to keep them covered. \'Uh, can I 
+											help you?\' she nervously asked. In answer, the mole bounded over to her and leapt into her ample bosom. Peach reached out to catch him, then 
+											realized he had grabbed one of her generous mammaries and started licking and sucking it vigorously. The intensity of it 
+											caught her by surprise, and she let out a soft moan.\n
+
+											Love juices trickled down her thigh and liquid poured out of her areolae. Peach turned a deeper shade of crimson when she realized she was 
+											lactating and stammered \'Oh, I... I\'m sorry, I..\' But the mole just sucked more passionately, squeezing and massaging her other breast until 
+											milk poured out of that one too. Peach shivered in pleasure and reached a hand down to her dripping pussy. She dropped to the ground 
+											and started fingering her tender holes with abandon.\n
+
+											The damnsel lidded her eyes and moaned rhythmically. The sounds of her lusty moans, the splattering of her dribbling 
+											milk, and the sloshing of her fingers in her drenched pussy echoed through the valley. She opened her eyes and noticed the mole\'s 
+											throbbing shaft rubbing against her boobs. \'Oh, is my big boy getting turned on? Looks like you could use a hand there\', she 
+											giggled as she freed one of her hands and tenderly started stroking his member. She rubbed the head of his shaft against her 
+											free swollen nipple, getting it slick with milk before pleasuring him with long, skillful strokes, His pulsating rod slapped iagains her pert breast in 
+											between strokes, making wet patting sounds. As Peach frantically fingered herself with her other hand, she felt him squirm and writhe under 
+											her expert touch, which caused him to lick and suck even harder. As Peach frantically fingered herself with her other hand, she 
+											felt like she had two clitorises, one under assault by her fingers and the other getting sucked through her left nipple.\n
+
+											Finally she couldn\'t take it anymore and her body spasmed and quivered as a massive orgasm rocked her to the core. Her eyes rolled back as 
+											she rode waves and waves of love electricity. The mole also came vigorously in her hand, spurting globs of sticky cum all over Peach\'s 
+											face, hair, and boobs. Thick blasts of cum shot out of the mole\'s cock again and again until he had completely emptied his balls 
+											all over the sweet princess. Though completely exhausted, the mole kept drinking what milk still dribbled out of her nipples 
+											until he fell into a deep sleep snuggled in her cleavage. Peach stroked his little head and sighed contently, Above her, birds chirped happily and 
+											an ancient eagle looked on in silent appreciation...</f>
+											
+				<f i="medal18">XNAUT\'s GUINEA PIG: You turned their lovely experiment!</f>
+					<f i="desc18">Princess Peach crept through the cold X-naut lab as quietly as could. The invisibility potion TEC-XXX had helped her prepare made her unseen, but 
+											had no effect on her clothing. So she carefully tip-toed past the guards stark naked. She pressed her tender body against a wall, fixing her gaze 
+											on Sir Grodus\' room. Suddenly, white steam poured out from her body, leaving her completely visible as it drifted up and away. Peach squealed in 
+											distress and the X-naut techs jumped in surprise at seeing the beautiful princess appear out of nowhere. Her cheeks burned red in embarassment 
+											and she ran away with all of her speed, her hands feebly trying to cover her generous boobs as they bounced up and down.\n
+
+											She ducked into the lab where she created the potion, grabbing her heels and stockings that lay in a corner. \'Where\'s my dress?\', she frantically 
+											cried, \'It was right on the table!\' She fumbled on her elegant stockings, then kept running. Her heels clacked sharply against the metallic floor 
+											as she rounded a corner, coming upon a pair of lounging X-Naut scientists. The two sat up quickly, regarding the sexy princess with interest. 
+											\'Oh no! They saw me!\', Peach wailed, while turning around.\n
+
+											One of the scientists hurled a chemical pack at the princess, splatering across her naked backside. The chemicals seeped in almost immediately 
+											and Peach\'s body flushed hot with a sudden, overwhelming desire. Her head clouded, growing dizzy with thoughts of stiff cocks. The X-Nauts wasted 
+											no time in molesting her hot body. The first grabbed her ass and lifted her up against him, her legs spreading involuntarily. He sucked on her 
+											luscious breasts, eliciting a gasp from the horny princess. Through the haze, she felt something stiff and hard pressing against her thirsty 
+											asshole. \'Hey, no! Please don\'t,\' she weakly protested. Ignoring her complaints, the stiff phallus teased and rubbed her hole, until it swelled 
+											with burning need. It then pushed inside, slowly working inch after inch through her slick resistance. Peach\'s protests turned into a lusty moan 
+											as the X-Naut thrust in the rest of the way, fully impaling the princess.\n
+
+											The first X-naut took this opportunity to part her delicate pussy lips and slip his iron rod deep inside her sopping wet love tunnel. Overflowing 
+											with desire as she was, his cock slid in easily, her flesh sucking him in with every thrust. Her moans grew more urgent as they vigorously fucked 
+											both her holes. She felt so satisfyingly full, yet desperately needy at the same time. The second X-Naut pulled lustily at Peach\'s hair, snapping 
+											her head back as she screamed in pleasure. Peach came hard, her inner walls quivering in ecstasy and milking their cocks with orgasmic spasms. 
+											Dirty sounds of flesh slapping on flesh and sexual shrieks echoed down the corridor, mixing with the beeps and clicks of the computers.\n
+
+											The X-nauts fucked the delirious princess harder and harder through three more orgasms. She had no idea if anyone saw them, exposed as they were 
+											in the corridor. Finally they tensed, almost in unison, and let out low-pitched, alien howls as they erupted into the princess. Gallons and gallons 
+											of cum flooded into her, quickly filling her up and spilling back out. \'I....am...cumming!\' Peach howled as streams of cum poured out of her holes 
+											and splattered all over the floor. The horny scientists convulsed a few more times as they emptied the last of their balls into the quivering 
+											princess, then collapsed to the ground in profound satisfaction. Shaking and struggling to catch her breath, Peach gave up on finding her clothes, 
+											but she knew she had to get going. Hurried footsteps echoed from a nearby door...</f>
+											
+				<f i="medal19">POPSICLE\'S LUV: Flurry\'s manhood are your icecream!</f>
+					<f i="desc19">A cold wind blew in Ice World, and Princess Peach crept through the snow banks, tugging at her protective Penguin suit. Gooey cum stains covered 
+											the suit, marking her earlier misadventure. She still felt a bit dizzy when she came upon a group of igloos with steam pouring out of their 
+											chimneys. Peach\'s stomach rumbled and she wondered if they were cooking something, but desperately felt the need to bathe first.\n
+
+											She crept closer to the igloos, not seeing anyone around but some strange chubby snowmen someone had made. Peach poked her head into some of the 
+											igloos, but didn\'t find anything except for some warm fires and personal belongings. Behind one of the igloos, she found a thick wooden shower 
+											stall with a small green pipe. \'At last! A shower!\' Peach cheered in delight. She looked around again for onlookers, then stripped off her soiled 
+											penguin suit. Feeling the cold winter air against her sweaty, naked skin made her tremble with desire. She giggled, \'Mmm, I love the crisp 
+											feeling of cold air on my body.\' Her perky nipples grew hard as she turned the faucet on. Hot, steaming water poured out, igniting Peach\'s senses 
+											as it splashed over her skin. She ran her hands all over her lucious body and scrubbed layers of cum off, humming happily to herself.\n
+
+											When she finished and turned the water off, the chill wind hit her wet naked body sharply. Even with her unusually resilient body, she couldn\'t 
+											help but shiver and huddle up. She looked down at her soiled penguin suit and found it frozen in the snow. \'Great...\' she grimaced, \'What do I 
+											do now?\' She looked around and noticed three of the snowmen standing right next to the shower stall with towels draped over something on their 
+											midsections. \'Oh, who moved you here?\' she squeaked in startled alarm. She looked down at the towels and shrugged, \'Well, I guess someone\'s being 
+											nice. Thank you, nice snowmen.\' She grabbed one of the towels, her hand dragging across the long, bulbous shaft it hung upon. To her surprise, it 
+											sprang up and grew larger at her touch. She noted that it looked like four snowballs strung together as she dried herself off.\n
+
+											The princess wrapped a towel around her naked body and gave the pole a closer look. It smelled like candy, so she licked it and ran her tongue 
+											across its length. \'Wow, it\'s delicious!\' Her stomach growled as she took it into her mouth, sucking on it with ravenous hunger. Cool, tasty 
+											moisture trickled down her throat as she slurped. Without even thinking, she took more and more down her throat until she started deepthroating 
+											the entire length in long, sloppy gulps. Suddenly she felt the shaft tremble and shoot thick wads of white cream down her throat. Peach\'s eyes 
+											went wide in surprise as she swallowed down the sweet cream. The snowman fell over in contented sleep and Peach gasped, \'Those snowmen are alive! 
+											And that\'s their... dick?\' She watched the Flurries converge around her, and one stuck his stiff snowball dick right into her mouth. She gagged, 
+											realizing how aroused she had become as she went down on all fours, with her butt raised and exposed. A horny Flurry slipped in behind her, 
+											penetrating her slowly, ball after ball going in like vaginal beads. Peach screeched in muffled protest with a cock in her mouth, but found 
+											herself spreading her legs and hiking her ass higher for both the snow cock in her pussy and his companion that thrust into her tight 
+											asshole. The flurries impaled her with all they had and the princess gave in to the pleasure, moaning and sucking like a whore.\n
+
+											The orgy lasted more than an hour, while the gentle snowfall started to accumulate over Peach\'s naked, horny body. She came time and time again 
+											on their cold, hard dicks, which showed no sign of stopping. Breathlessly, the princess panted, \'Oh, this will take longer that I imagined\'...</f>
+											
+				<f i="medal20"></f> <!--RAWK-->
+					<f i="desc20">NOT YET!</f>
+				
+				<!--More Later-->
+				
+			</scenes>
+			
+			
+	<!--DIARY: In this case, each line must have \n, because the diary pages use a different system.-->
+			<scenes scene="diary">
+				<f i="1">Oh! I\'ve woken up early in this morning, and\n
+					Toadsworth was extremelly frightened due to\n
+					those koopalings! Mario never would make this\n
+					happen...\n
+					But he was...bottomless!! Yes! His little thing\n
+					was there, exposed for me to look at! I swear,\n
+					when I blind folded my eyes, I was desiring his\n
+					dick! He is a toad, so his dick is as smooth and\n
+					\'candy like\' as the toad ones... Oh, as about them...\n
+					They\'re sooo adorable! They love me soo much!\n
+					I dream of seeing them over all of my holes, (heehee!)</f>
+				<f i="2">Dear diary...Today was a so special one for me!\n
+					I cant describe correctly what I\'ve felt, as my\n
+					heart and...oh...my insides are out of control!\n
+					I...I\'ve seen a Goomba\'s dick!!\n
+					Well...they are naked, they all use to be like\n
+					this, right? There are many naked beings in my\n
+					Kingdom....but... I\'ve noticed they have penises!\n
+					Some have little ones, some have bigger ones!\n
+					But that goomba.....oh my Mushrooms! I want to\n
+					touch it...to ... to LICK it! I dont know if\n
+					its safe to tell those news in my castle!\n
+					I prefer to hide this the most I could! I have\n
+					So many fantasies with those little fellas!</f>
+				<f i="3">I can\'t believe this! How embarrassing!! I went\n
+					inside Osama\'s palace in order to rule out that\n
+					airship. I really need to do everything I can\n
+					for my love, Mario! Even if...erhm...even if I\n
+					end up over Osama\'s penis! Oh my godness!\n
+					\n
+					I really dont know how it happened, but well, I\n
+					was falling from the sky, then I break his palace\'s\n
+					roof *giggles*. But he was just under me! He softened\n
+					my fall, but...for a high price! He fucked my\n
+					toes so hard, until cumming like a gorilla! Ah that\n
+					perverted old king! But I liked his thing...really!\n
+					May I visit him once again...</f>
+				<f i="4">Dear Diary...\n
+					I am sooo frightened! I was being knocked down\n
+					so often (maybe I am a dumb woman?), but those\n
+					nasty and smelly enemies ended up locking me up\n
+					in a prison!! Could you believe? They removed all\n
+					of my nearby clothes! I was sooo unprotected there!\n
+					\n
+					I only remember I was so exposed in a way I could\n
+					say they surely used my body. Maybe I remember,\n
+					also because my bum is...itching a lot...It is itching\n
+					like it needs to be...penetrated! Ohh, how embarassing!\n
+					I need to cover it, maybe I would put a plug there...!\n
+					Or maybe not...I can control myself, right?</f>
+				<f i="5">Dear Diary...\n
+					I am sooo embarrassed! Today, I\'ve touched\'\n
+					Osama\'s dick!! It tastes well, though (Oh,\n
+					what I am writing here?) I can\'t think straight.\n
+					I fear myself ending up like a whore, sucking\n
+					and fucking everyone in Mushroom Kingdom and beyond!\n
+					But I still love Mario!\n
+					\n
+					As about Osama...I might visit him more...and help\n
+					him with.....his thing...he tends to walk around\n
+					bottomless, and this is indecent...inhabitants might\n
+					see it and then gossip to other kingdoms! He might\n
+					need a caretaker...</f>
+				<f i="6">I ran into one of those Koopa Troopas today\n
+					and I can\'t believe what he had hidden in his shell.\n
+					A big yellow cock! I don\'t know how he fit it in\n
+					there!It burst out when I knocked him over, standing\n
+					tall and thick. I\'m so embarrassed, but I couldn\'t help\n
+					myself. It looked so yummy I dropped right down\n
+					and started sucking him off. I thought it would taste\n
+					disgusting, but his dick tasted so sweet... I licked\n
+					his shaft, then bobbed up and down his dick, taking it\n
+					all down my throat. The poor thing didn\'t last long and\n
+					came like a fire hoze! Who knows when he last had\n
+					release? ... I kept stroking his little thing until his\n
+					balls completely drained dry. Sighing, I wiped a gob of\n
+					cum off my face, savoring the taste... Oh...</f>
+				<f i="7">Oh my Mushroom Saint, it happened! It really\n
+					happened! I saved my precious flower for so long,\n"
+					keeping it pure... safe, keeping it for Mario...\n
+					But today all that changed. A cock shoved itself right\n
+					into my special place and just pounded away! I\n
+					thought I would faint! It didn\'t hurt as much as I\n
+					thought it would. In fact I couldn\'t believe how good\n
+					it felt! My juices gushed out as that dick impaled me\n
+					again and again. It writhed inside my pussy and hit\n
+					places I didn\'t care. I squirmed and screamed out in\n
+					pleasure til his cock exploded in a sticky mess. Waves\n
+					gushed inside me... They splattered all over my body.\n
+					I panted and gasped, catching my breath as hot cum\n
+					dripped all over me. Oh Mario... I need more...</f>
+				<f i="8">I saw a ghost today! A real, flying ghost! The\n
+					shy little guy kept covering his face, trying to\n
+					hide from me. I could tell he was lonely, with a huge,\n
+					hard dick. No one to love it. Everyone deserves some\n
+					love... I had to coax him to show me his dick. The silly\n
+					little thing was embarrassed! He looked a lot happier\n
+					when I started stroking his cock though. I ran my\n
+					fingers along his shaft, rubbing them on his tip.\n
+					He already had a lot of precum coming out. I licked\n
+					my lips and smiled as I used the cum to lube his cock\n
+					and balls. So I worked my hand up and down,\n
+					giving him deep strokes. I could feel him tensing so I\n
+					pumped faster and faster until he erupted huge waves\n
+					of cum everywhere. It splattered over my hands and I\n 
+					smiled. The poor little dear...Ghosts also need love!</f>
+				<f i="9">I ran into a funny little fellow today. The Shyguy\n
+					had a mask and hid himself in a big robe. He seemed\n
+					a little creepy, and I didn\'t think I\'d like him. He\n
+					grabbed me and pulled me down to the ground while\n
+					rumaging around in his robe. I gasped when he pulled\n
+					out a surprisingly large dick for such a small guy. He\n
+					pulled my face down to his cock and I got the hint. I\n
+					started stroking his shaft while wondering what he\n
+					really looked like under that robe. What would he taste\n
+					like if he came down my throat? What would he do to\n
+					me if he could use me however he wished? Would he\n
+					be gentle? Would he be rough? I blushed as I imagi-\n
+					ned all the things he might do to me and realized that\n
+					he was spraying cum all over my face. I drank in the\n
+					scent and wondered what the next one would do...</f>
+				<f i="10">I made a wonderful realization today. All too often\n
+					people deny themselves what makes them happy.\n
+					They go through life doing what they\'re told, acting\n
+					like they\'re supposed to, and miss everything that\n
+					makes this life amazing. Well I\'m not going to live\n
+					like that anymore! I love sex! I love cocks!!!\n
+					I don\'t care what a lover has as long as they love me\n
+					with everything they have. No holding back! I like it\n
+					rough. I like it gentle, when they pass me around.\n
+					I like when their loads pile up inside me, then gush out\n
+					in a flood. I like taking load after load in my face and\n
+					all over my body, until I\'m covered from head to toe. I\n
+					love when they look at my body. Seeing their eyes go\n 
+					wide gets me going hard. I know what they want to do\n
+					to me. I want them to do it! I\'ll live life my way.</f>
+				<f i="11">My hands still shake when I think about it, but I had\n
+					a run in with a bomb today! The little thing had eyes,\n
+					feet, and a massive dick! It ran right at me as soon as\n
+					it saw me. I tried to get away, but he knocked me over.\n
+					I screamed...Was I doomed? He glared furiously\n
+					at me, cock throbbing and pulsating. I realized my only\n
+					hope was to give him relief and maybe he wouldn\'t\n
+					blow up. I took his cock without hesitation and started\n
+					working it up and down. It was hard as steel, so I\n
+					didn\'t need to be gentle. I took him in my mouth,\n
+					coating his shaft with saliva, and pumped his shaft\n
+					as fast as I could. I winced at the shrinking fuse, but\n
+					kept sucking and stroking with all of my might. Finally\n
+					he shot out gobs of cum from his raging erection. He\n
+					collapsed, spent and defused. I sighed softly...</f>
+				<f i="12">Oh, I can\'t believe it! I made love to a woman today!\n
+					I came to help Daisy, but as soon as I came into her.\n
+					bedroom, she winked and stripped down to her stock-\n
+					ings and heels! I gasped and asked what she was\n
+					doing but she pulled me in for the most tender kiss\n
+					I\'ve ever had. Her lips felt like silk and her tongue\n
+					wrapped around my own. I melted in her arms. She\n
+					pulled me down to the bed, tearing away my clothes.\n
+					I meekly protested, but she just smiled and sank down\n
+					to my pussy. She ran her tongue gently up and down\n
+					my slit, tracing little circles over my hole. I told\n
+					her it was dirty and she laughed. Her tongue went into\n
+					overdrive, sending me into spasms of pleasure I never\n
+					knew I could feel. My body rocked with orgasm\n
+					after orgasm. She said she only just got started! Oh...</f>
+				<f i="13">I went for a swim today and got more than I bargai-\n
+					ned for. A funny little squid danced all around the\n
+					lake, darting this way and that. Curious, I got closer.\n
+					It sprang to attention when it saw me, and quivered in\n
+					excitement. I realized my mistake and tried to swim\n
+					away, but he pounced right on me. He wrapped his\n
+					tentacles around my face and shoved something right\n
+					into my mouth! When he rammed it in and out, I reali\n
+					zed it must be a dick! I couldn\'t believe how slimy it\n
+					was as he sloshed and writhed in my throat. I tried to\n
+					grab hold of him but he just kept pounding furiously\n
+					into my face. It tensedand then spurted slippery loads\n
+					down my throat, right into my stomach. It jerked and\n
+					spasmed several times before sliding limply away. So\n
+					much for a relaxing dip...</f>
+				<f i="14">Drenched with sweat, I stumbled through the desert\n
+					heat. I wiped some sweat off my breasts when I\n
+					noticed a cactus sliding toward me. I started to\n
+					run when I noticed its spikes growing into huge dicks!\n
+					Little streams of precum trickled out of each one,\n
+					and I went mad with thirst. I leapt onto his cocks,\n
+					swallowing one down while my hands frantically\n
+					jerked off the others. The cactus squirmed in surprise,\n
+					but I just kept pumping his cocks and sucking down\n
+					every bit of moisture I could. I started vibrating my\n
+					mouth and flicking my tongue back and forth along\n
+					his shaft until he shot loads of cool jizz down my\n
+					throat. I licked his other gushing cocks clean and\n
+					wondered how many dicks I\'d need to get through\n
+					the desert...</f>
+				<f i="15">One of those creepy plants that always infest the\n
+					pipes grabbed me today with its dirty little vines!\n
+					They felt soft but tough as they wrapped around my\n
+					ankles and hands. Its big mouth leered at me as it\n
+					lifted me up in the air. I squealed for help, and\n
+					I swear it chuckled as it spread my legs apart. I\n
+					felt one of its vines rubbing my slit while another\n
+					probed the opening of my ass. I shook and trembled\n
+					while getting wetter and wetter. Suddenly the vine\n
+					in my back door shoved itself in, impaling me in\n
+					one thrust. I screamed as it pounded me hard. It\n
+					scratched every itch in my anal cavity and I came\n
+					again and again. It finally dropped me and I\n
+					collapsed into a sweaty mess. I\'ll have to\n
+					explore more pipes...\n</f>
+				<f i="16">I found this funny little plant creature today. It\n
+					wiggles around on the ground with a happy smile and\n
+					a flower on its head. Well, when I ran into him, he\n
+					flipped onto his back and showed me a dick-like\n
+					leafy nub. He wimpered and looked so cute, so I\n
+					rubbed and massaged his little thing. He seemed to\n
+					really like it, so I got more into it, giving him\n
+					deep, long strokes. His little plant bulged and\n
+					swelled as I worked my hands up and down his shaft\n
+					I gave it a kiss and started pumping it faster.\n
+					He let out a groan and his little plant erupted in\n
+					sweet, juice-like cum. It was a true dick! His cum\n
+					splattered all over my face and drenched me in\n
+					that sweet flavor. Aw, even funny little plants\n
+					need love...</f>
+				<f i="17">I found a cute doggy today! He looks like the pink\n
+					chompy I have in my castle, but he\'s all black.\n
+					He barked and wagged his chain when he saw me.\n
+					The cute little thing bouced over to my heels and\n
+					presented me with this gigantic cock! He looked so\n
+					proud and happy with it, that I just had to stroke\n
+					it. I knew I shouldn\'t, but the smell just drove me\n
+					wild! I could barely get my hand around his huge\n
+					thing, but I jerked him off as well as I could. I\n
+					ran my tongue up and down his shaft to get some\n
+					moisture, then rigorously pumped his cock, making\n
+					wet, sloppy sounds. He let out a loud bark and\n
+					unleashed a torrent of cum all over my face and\n
+					breasts. I didn\'t think he\'d ever stop cumming!\n
+					Good boy!</f>
+				<f i="18">As if the airships weren\'t bad enough! Those\n
+					little guys with the wrenches are the worst!\n
+					One grabbed me by the ankles today and dragged\n
+					me into his hole. He grabbed my ass, pulled me\n
+					down to his face, then shoved his tongue right\n
+					up my special place! I gave a squeal as his\n
+					tongue worked its way into every crevice. He\n
+					shook his face, slathering my nethers and rubbing\n
+					my clit furiously. I yelled at him to stop even\n
+					as I went dizzy with pleasure. He shoved a claw\n
+					into my ass while sucking on my clit, which sent\n
+					me over the edge. I screamed in orgasm! He smiled\n
+					and spanked my ass, which tightened my sphincter\n
+					around his claw. What a jerk! He makes me cum\n
+					so hard...</f>
+				<f i="19">Dear Diary...\n
+					This is one of my most special days of all my life!\n
+					I was almost...erhm... exposing myself in order\n
+					to wake Mario so he could have sex to me!\n
+					I want it in my vagina! I\'ll lose my virginity to him!\n
+					I am without my panties on, and he will be in the\n
+					train tonight! It\'s chilly between my legs and I am\n
+					so embarrassed! But I know he wont stand my sweety
+					pussy! (Oh I am getting wet only thinking about it!)\n
+					I may not need the toads anymore to tease me! I was\n
+					getting mad, almost running naked along a lineup of them!\n
+					I have so many fantasies... Will he do it all with me?......</f>
+				<f i="20">Oh, my confident Diary...\n
+					I can\'t believe but... but...I got PREGNANT! I feel\n
+					my belly increased a bit, and I stopped my period!\n
+					this is making me nervous, because I pertain to \n
+					Mushroom Kingdom, were things happen fast and\n
+					unexpectelly!\n
+					I can just deliver out of a sudden after some days! Ohhh..\n
+					Mario is not here... Toadsworth and Zess T might get mad\n
+					with me! I may try to hide my belly to them until I... deliver\n
+					this child. Perhaps I can just say I am .. fat! Thats it!\n
+					I feel... funny. Its like my pussy is wanting more dicks!\n
+					It\'s pulsating! I feel warm inside me!\n
+					I... I may enjoy those moments. But I really wanted \n
+					to stay pure... nonetheless, this is... Nature!\n</f>
 			</scenes>
 			
 	<!--YELLOW PAPIRUS TEXT-->
