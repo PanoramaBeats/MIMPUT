@@ -8,7 +8,9 @@ You are encouraged to make pull requests of new files, like German, Spanish, etc
 
 PLEASE READ!!!
 - Version 0.1! This work was one of the BIGGEST of the game! You can finally translate it! We surely should be proud of this control! But due to Mario and other fonts, characters like '㡢 ࡧ' are not supported-. 
-- Although too early, it already covers up 95% of the game (more than 4,000 lines!), and ALL creature scenes (well, perhaps some exceptions might appear)! Certain screens, scene names in the gallery, buttons and DESCRIPTION (tale) texts of the achievements and diary are NOT in the XML yet.
+- Although too early, it already covers up 99% of the game (more than 5,000 lines!), and ALL creature scenes (well, perhaps some exceptions might appear)! Certain screens, scene names in the gallery and buttons are NOT in the XML yet.
+UPDATE: DESCRIPTION (tale) texts of the achievements and diary items ARE now in the XML!
+
 - UTF8 chars NOT supported because fonts used in the game is NOT UTF8, please use LATIN (ASCII) only.
 - You should use a good XML editor. Notepad++ is great because it will be colored differently, easing your work.
 - You DONT need to translate text inside <!-  ->
