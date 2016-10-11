@@ -5245,6 +5245,11 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="Big">Grande</text>
 			<text name="Bigger">Maior</text>
 			<text name="Biggest">Super</text>
+			<text name="Nipple_Delicious">Delicious</text>
+			<text name="Nipple_MaMMa">MaMMa</text>
+			<text name="Nipple_YUMMY">YUMMY</text>
+			<text name="Nipple_FLESHY">FLESHY</text>
+			<text name="Nipple_SLICK">SLICK</text>
   
 	<!--BELLY SIZES-->
 			<text name="BellyDefault">Default</text>
@@ -5535,6 +5540,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="AlwaysANymph">ALWAYS A NYMPH</text>
 			
 			<text name="Back">Back</text>
+			<text name="Default">Default</text>
 			<text name="DefaultSettings">Normal Game</text>
 			
 			<text name="OPTIONS">OPTIONS</text>
