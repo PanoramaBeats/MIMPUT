@@ -5256,17 +5256,24 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="Bigger">Maior</text>
 			<text name="Biggest">Super</text>
   
+	<!--BELLY SIZES-->
+			<text name="BellyDefault">Default</text>
+			<text name="BellySmall">Small</text>
+			<text name="BellyChubby">Chubby</text>
+			<text name="BellyBig">Big</text>
+			<text name="BellyBiggest">Biggest</text>
+			
 	<!--COMMON TEXT -->
-			<text name="Color_Default">Default</text>
-			<text name="Color_Red">Red</text>
-			<text name="Color_White">White</text>
-			<text name="Color_Black">Black</text>
-			<text name="Color_Pink">Pink</text>
-			<text name="Color_Blue">Blue</text>
-			<text name="Color_Gold">Gold</text>
-			<text name="Color_Cyan">Cyan</text>
-			<text name="Color_Opaque">Opaque</text>
-			<text name="None">None</text>
+			<text name="Color_Default">Padrao</text>
+			<text name="Color_Red">Vermelho</text>
+			<text name="Color_White">Branco</text>
+			<text name="Color_Black">Preto</text>
+			<text name="Color_Pink">Rosa</text>
+			<text name="Color_Blue">Azul</text>
+			<text name="Color_Gold">Ouro</text>
+			<text name="Color_Cyan">Ciano</text>
+			<text name="Color_Opaque">Opaco</text>
+			<text name="None">Nenhum</text>
 			
 			<text name="OoohNo">Ooooh nooo!</text>
 			<text name="Background">Background</text>
