@@ -21,14 +21,14 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			
 	<!--TOADS-->
 			<scenes scene="toad1"> 
-				<p i="1">Nobody is seeing\nthis. They ARE so tasty, hmmm...</p>
-				<p i="2">Mwa! Mm! Oh,\nit\'s tasting even better now!</p>
-				<p i="3">Oh no! He got\nhis cream all in my hair! But these balls taste too good...</p>
+				<p i="1">Nadie mira\nahora. Es TAN delicioso, hmmm...</p>
+				<p i="2">Mwa! Mm! Oh,\nesto\se siente mejor ahora!</p>
+				<p i="3">Oh no! El puso\nsu corrida en todo mi cabello! Pero estas bolas saben tan bien...</p>
 			</scenes>
 			<scenes scene="toad2">
-				<p i="1">He\'s looking\nat me...so tender...</p>
-				<p i="1a">Are you...\ngoing to do this with me?</p>
-				<p i="2">I want to\ntouch him...</p>
+				<p i="1">El\Esta viendome\n...es tan tierno...</p>
+				<p i="1a">Tu haras...\nesto conmigo?</p>
+				<p i="2">Quiero tocar\neso...</p> <!--Avance de 5 minutos XD-->
 				<p i="2a">Here I go,\nmy little thing...</p>
 				<p i="2b">Hey, there is\nsomething I need to check...\u2665</p>
 				<p i="3">It\'s not a dirty\nthing, he has a mushroom, it\'s edible. \u2665</p>
