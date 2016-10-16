@@ -3532,6 +3532,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<p i="3">Princess:  It\'s my throne...</p>
 				<p i="4">(Press a Number)\n1) Have a sit and rest     2) Masturbate    3) Go away</p>
 				<p i="5">(Press a Number)\n1) Just sit     2) Masturbate    3) Go away</p>
+				<p i="6">(Press a Number)\n1) Just sit   2) Change Position    {NEXTKEY}) Advance    3) Go away</p>
 			</scenes>
 
 			<scenes scene="dialogueBooth"> <!--A place to change clothes-->
