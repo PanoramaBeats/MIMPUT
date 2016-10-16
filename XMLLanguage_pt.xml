@@ -1883,6 +1883,9 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<p i="3">Ohhh! I am\nstuck! Aaahhh help me! Ohhh like this! Again!</p>
 				<f i="3">I\'m almost done!</f>
 			</scenes>			
+			<scenes scene="punioSex"> <!--Having sex with a female punio-->
+				<p i="1">That is soooo cute! I like to see animals copulating!</p>
+			</scenes>			
 			<scenes scene="punygroup1">
 				<p i="1">Hey guys, stop!\nYou little creatures are...exaggerating!</p>
 				<f i="1">Food! We\nneed food!!</f>
