@@ -5477,6 +5477,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="DebugVersionDesc2">You should leave the game, then use the normal player, or use the browser.\n\nOR YOU CAN PRESS SPACEBAR OR\nTHE BUTTON BELOW TO CONTINUE.</text>
 			
 			<text name="Airship">Airship</text>
+			<text name="World">World</text>
 			<text name="Worldmap">Worldmap</text>
 			<text name="TrainExpress">Train Express</text>
 			
