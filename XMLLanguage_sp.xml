@@ -17,7 +17,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 -->
 
 		<game>
-			<lang>Espanol</lang> <!--CHANGE this to your language name, in case you translate it. It will be shown in the main screen-->
+			<lang>Español</lang> <!--CHANGE this to your language name, in case you translate it. It will be shown in the main screen-->
 			
 	<!--TOADS-->
 			<scenes scene="toad1"> 
@@ -5240,12 +5240,12 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 	
 			
 	<!--BOOB SIZES-->
-			<text name="Smallest">Pequeno</text>
+			<text name="Smallest">Pequeño</text>
 			<text name="Normal">Normal</text>
 			<text name="Big">Grande</text>
-			<text name="Bigger">Maior</text>
+			<text name="Bigger">Enorme</text>
 			<text name="Biggest">Super</text>
-			<text name="Nipple_Delicious">Delicious</text>
+			<text name="Nipple_Delicious">Delicioso</text>
 			<text name="Nipple_MaMMa">MaMMa</text>
 			<text name="Nipple_YUMMY">YUMMY</text>
 			<text name="Nipple_FLESHY">FLESHY</text>
@@ -5254,26 +5254,26 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 	<!--BELLY SIZES-->
 			<text name="BellyDefault">Default</text>
 			<text name="BellySmall">Small</text>
-			<text name="BellyChubby">Chubby</text>
-			<text name="BellyBig">Big</text>
-			<text name="BellyBiggest">Biggest</text>
+			<text name="BellyChubby">Rellena</text>
+			<text name="BellyBig">Grande</text>
+			<text name="BellyBiggest">Enorme</text>
 			
 	<!--COMMON TEXT -->
 			<text name="Color_Default">Default</text>
-			<text name="Color_Red">Red</text>
-			<text name="Color_White">White</text>
-			<text name="Color_Black">Black</text>
-			<text name="Color_Pink">Pink</text>
-			<text name="Color_Blue">Blue</text>
-			<text name="Color_Gold">Gold</text>
+			<text name="Color_Red">Rojo</text>
+			<text name="Color_White">Blanco</text>
+			<text name="Color_Black">Negro</text>
+			<text name="Color_Pink">Rosado</text>
+			<text name="Color_Blue">Azul</text>
+			<text name="Color_Gold">Dorado</text>
 			<text name="Color_Cyan">Cyan</text>
-			<text name="Color_Opaque">Opaque</text>
-			<text name="None">None</text>
+			<text name="Color_Opaque">Opaco</text>
+			<text name="None">Ninguno</text>
 			
 			<text name="OoohNo">Ooooh nooo!</text>
 			<text name="Background">Background</text>
-			<text name="Text">Text</text>
-			<text name="Sound">Sound</text>
+			<text name="Text">Texto</text>
+			<text name="Sound">Sonido</text>
 			<text name="OhNo">Oh no</text>
 			<text name="By">By</text>
 			<text name="somethingUnlocked">Something has been unlocked!</text>
@@ -5372,15 +5372,15 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="QuickWarpToActiveLevel">Quick Warp to an Active Level</text>
 			<text name="LostHerVirginity">lost her Virginity!</text>
 			
-			<text name="Diary">Diary</text>
-			<text name="MyMushroomDiary">My Mushroom Diary</text>
+			<text name="Diary">Diario</text>
+			<text name="MyMushroomDiary">Mi Diario de Mushroom</text>
 			<text name="DontYouDareToTouchIt">Don\'t you dare to touch it!!</text>
-			<text name="PrincessDiary">Princess\' Diary</text>
-			<text name="Princess">Princess</text>
-			<text name="PrincessWroteDiary">You wrote in your diary!</text>
+			<text name="PrincessDiary">Diario\ </text>
+			<text name="Princess">Princesa</text>
+			<text name="PrincessWroteDiary">Tu escribiste en tu Diario!</text>
 			
-			<text name="KeyboardConfig">Keyboard Config</text>
-			<text name="ProgrammedBy">Programmed By</text>
+			<text name="KeyboardConfig">Config. Teclado</text>
+			<text name="ProgrammedBy">Programado Por</text>
 
 			<text name="doorNowUnlocked">This door is now unlocked!</text>
 			<text name="doorLockedTalkSomeone">The Door inside is locked. I may need to talk to someone to open it.</text>
@@ -5388,7 +5388,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="bellyEmpty">The belly is now empty!</text>
 			<text name="bellyDecreased">Belly decreased. To decrease more, please wait some seconds first!</text>
 			<text name="thisActionHelpFreeChainball">This action helped you to free yourself from the chain ball!</text>
-			<text name="ExtraLife">Extra Life</text>
+			<text name="ExtraLife">Vida Extra</text>
 			<text name="WorldDoesntExist">WORLD DOESNT EXIST YET! Lumas of the Star Road are making them.</text>
 			<text name="pressUPProgramCannon">Press \'UP\' key to program the cannon</text>
 			<text name="youHaveToTalkBuddy">You have to talk to Bobomb Buddy first.</text>
@@ -5399,23 +5399,23 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="changingTargetWorld">Changing target to World</text>
 			<text name="deniedDontHaveKey">You dont have the palace key for this target!</text>
 			<text name="starmanAppeared">A starman appeared!</text>
-			<text name="Unlocked">Unlocked</text>
+			<text name="Unlocked">Desbloqueado</text>
 			
 			<!--(Click or Press SPACE to Continue): you can change them differently, like putting ClickOrPressPart1 EMPTY, so it will be like \'SPACE will continue it\'-->
-			<text name="ClickOrPressPart1">(Click or press</text> 
-			<text name="ClickOrPressPart2">to continue)</text>
-			<text name="ClickToPlayThisLevel">Click to play\nthis level</text>
+			<text name="ClickOrPressPart1">(Click o teclear</text> 
+			<text name="ClickOrPressPart2">para continuar)</text>
+			<text name="ClickToPlayThisLevel">Click para inciar\nEste Nivel</text>
 	
 			<text name="notYetComplete">***NOT YET COMPLETE*** (PRESS {NEXTKEY})</text>
 			<text name="n">(PRESS {NEXTKEY})</text>
-			<text name="CORRUPTIONINSLOT">CORRUPTION IN SLOT</text>
-			<text name="THISSLOTISEMPTY">THIS SLOT IS EMPTY</text>
+			<text name="CORRUPTIONINSLOT">DAÑOS EN EL SLOT</text>
+			<text name="THISSLOTISEMPTY">ESTE SLOT ESTA VACIO</text>
 			<text name="creatureRefuses">The creature refuses you</text>
 			<text name="sexChangedNext">Sex scene changed to to the next available one</text>
 			<text name="notEnoughSexual">Not enough sexual relations with living creatures yet!</text>
-			<text name="ChangeLang">Change Language</text>
-			<text name="ChangeCharacter">Change Character</text>
-			<text name="ChangeCostume">Change Costume</text>
+			<text name="ChangeLang">Cambiar Lenguaje</text>
+			<text name="ChangeCharacter">Cambiar Caracter</text>
+			<text name="ChangeCostume">Cambiar Traje</text>
 			<text name="Play">Play</text>
 			<text name="BoobSizes">Boob Sizes</text>
 			<text name="HairCum">Hair Cum</text> <!--Semen no Cabelo-->
@@ -5427,13 +5427,13 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="ArmsCum">Arms Cum</text>
 			
 			<text name="noMorePages">No more pages</text>
-			<text name="nextPage">Next Page</text>
-			<text name="previousPage">Previous Page</text>
-			<text name="open">Open</text>
-			<text name="close">Close</text>
+			<text name="nextPage">Pagina Siguientes</text>
+			<text name="previousPage">Pagina Anterior</text>
+			<text name="open">Abrir</text>
+			<text name="close">Cerrar</text>
 			
-			<text name="days">days</text>
-			<text name="DAY">DAY</text>
+			<text name="days">dias</text>
+			<text name="DAY">DIA</text>
 			<text name="DaysToDeliver">Days to deliver</text>
 			<text name="TOTAL">TOTAL</text>
 
@@ -5480,7 +5480,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="HardModeCantMasturbate">HARD MODE! You can\'t masturbate that way!</text>
 			<text name="AutoSavedToSlot">Auto Saved to Slot</text>
 			<text name="SavedToSlot">SAVED TO\nA SLOT!</text>
-			<text name="SAVED">SAVED</text>
+			<text name="SAVED">GUARDADO</text>
 			<text name="SAVEDCLIPBOARD">SAVED TO CLIPBOARD! Just paste to a text editor and save it!</text>
 			<text name="princessSQUISHED">The princess was SQUISHED!</text>
 			<text name="princessFellAbyss">Peach fell in a very deep abyss!</text>
@@ -5504,21 +5504,21 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="ON">ON</text>
 			<text name="OFF">OFF</text>
 			<text name="NOBGM">NO BGM</text> <!--for sounds: here it means no background music-->
-			<text name="FxAndMusic">FX AND MUSIC</text>
-			<text name="NoMusic">NO MUSIC</text>
-			<text name="AllMuted">ALL MUTED</text>
+			<text name="FxAndMusic">FX Y MUSICA</text>
+			<text name="NoMusic">SIN MUSICA</text>
+			<text name="AllMuted">SIN SONIDO</text>
 			
 			<text name="NOTIMPL">*NOT YET IMPLEMENTED*</text>
 			<text name="or">or</text>
-			<text name="YES">YES</text>
+			<text name="YES">SI</text>
 			<text name="NO">NO</text>
 			<text name="UNAVAIL">UNAV.</text>
 			<text name="NONE">NONE</text>
-			<text name="LOW">LOW</text>
-			<text name="MEDIUM">MEDIUM</text>
-			<text name="HIGH">HIGH</text>
+			<text name="LOW">BAJO</text>
+			<text name="MEDIUM">MEDIO</text>
+			<text name="HIGH">ALTO</text>
 			<text name="AUTO">AUTO</text>
-			<text name="UPDATING">UPDATING...</text>
+			<text name="UPDATING">ACTUALIZANDO...</text>
 	
 			<text name="LOOP5xNext">Loop 5X then NEXT</text>
 			<text name="LOOP4xNext">Loop 4X then NEXT</text>
@@ -5527,8 +5527,8 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="LOOPUntilPRESS">LOOP until PRESS</text>
 			<text name="NOLOOP">NO LOOP</text>
 
-			<text name="DONE">DONE</text>
-			<text name="AREYOUSURE">ARE YOU SURE ?</text>
+			<text name="DONE">LISTO</text>
+			<text name="AREYOUSURE">ESTAS SEGURO ?</text>
 			<text name="CLOSED">CLOSED</text>
 			<text name="SWOLLEN">SWOLLEN</text>
 			
@@ -5536,26 +5536,26 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="EndOfEachWorld">END OF EACH WORLD</text>
 
 			<text name="SheDecides">SHE DECIDES</text>
-			<text name="AlwaysInnocent">ALWAYS INNOCENT</text>
-			<text name="AlwaysANymph">ALWAYS A NYMPH</text>
+			<text name="AlwaysInnocent">SIEMPRE INOCENTE</text>
+			<text name="AlwaysANymph">SIEMPRE NYNFOMANA</text>
 			
-			<text name="Back">Back</text>
+			<text name="Back">Atras</text>
 			<text name="Default">Default</text>
-			<text name="DefaultSettings">Normal Game</text>
+			<text name="DefaultSettings">Juego Normal</text>
 			
-			<text name="OPTIONS">OPTIONS</text>
-			<text name="Options">Options</text>
-			<text name="NormalGame">Normal Game</text>
-			<text name="HardGame">Hard Game</text>
-			<text name="Gallery">Gallery</text>
-			<text name="Credits">Credits</text>
+			<text name="OPTIONS">OPCIONES</text>
+			<text name="Options">Opciones</text>
+			<text name="NormalGame">Juego Normal</text>
+			<text name="HardGame">Juego Dificil</text>
+			<text name="Gallery">Galeria</text>
+			<text name="Credits">Creditos</text>
 			<text name="NoAchievementsYet">No achievements yet!</text>
 			<text name="Achievements">Achievements</text>
 			<text name="Achievements2LinesIfNecessary">Achieve\nments</text> <!--\n creates a new line-->
 			<text name="AchievementsDesc">Here you might find unlocked Peach art and medals\nPlease remember it\'s for \'Peach\' characters only! (Like Peach PS, Burn Peach...)\nAlso remember you must save the current game in a save slot to retrieve them later.</text> <!--\n creates a new line-->
 			<text name="MenuCtrl">Menu (Ctrl)</text>
 			<text name="PerLevel">Per Level</text>
-			<text name="Time">Time</text>
+			<text name="Time">Tiempo</text>
 			<text name="Score">Score</text>
 			<text name="Reset">Reset</text>
 			<text name="THEEND">THE END</text>
@@ -5568,21 +5568,21 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="OneLastThing">ONE LAST THING...</text>
 			<text name="DidYouCollect500000">DID YOU COLLECT 500,000 POINTS?</text>
 			<text name="CurrentPoints">Current Points:</text>
-			<text name="ScorePoints">Score Points:</text>
+			<text name="ScorePoints">Puntaje:</text>
 			<text name="YouSavedMushroomKingdom">You Saved Mushroom Kingdom!</text>
 			<text name="LaidEnemies">Laid Enemies:</text>
-			<text name="Decent">DECENT</text>
-			<text name="Indecent">INDECEDENT</text>
+			<text name="Decent">DECENTE</text>
+			<text name="Indecent">INDECEDENTE</text>
 			<text name="CravingForSex">CRAVING FOR SEX</text>
 			<text name="EnemiesDone">Enemies Done:</text>
-			<text name="Orgasms">Orgasms:</text>
-			<text name="GAMEOVER">FIM DE JOGO</text>
-			<text name="NewGame">Novo Jogo</text>
+			<text name="Orgasms">Orgasmos:</text>
+			<text name="GAMEOVER">Fin del Juego</text>
+			<text name="NewGame">Nuevo Juego</text>
 			<text name="Continue">Continuar</text>
-			<text name="RestartGame">Reiniciar Jogo</text>
-			<text name="GameOptions">Opcoes</text>
+			<text name="RestartGame">Reiniciar el Juego</text>
+			<text name="GameOptions">Opciones</text>
 			<text name="MainMenu">Menu Principal</text>
-			<text name="BadOrUnknownFile">Arquivo com Problemas!</text>
+			<text name="BadOrUnknownFile">Archivo con Problemas!</text>
 
 	
 	<!--WORLD NAMES -->
@@ -5590,7 +5590,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 		<text name="world2">Regiao Seca</text>
 		<text name="world3">Reino Subcon</text>
 		<text name="world4">Floresta Bunda</text>
-		<text name="world5">Colinas Geladas</text>
+		<text name="world5">Colinas Gelidas</text>
 		<text name="world6">Praia Delfino</text>
 		<text name="world7">Ceus Macios</text>
 		<text name="world8">Mundo Escuro</text>
@@ -5605,16 +5605,16 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 		<text name="GhostHouse">Casa Fantasma</text>
 		<text name="YoshiHouse">Casa Yoshi</text>
 		<text name="StarHill">Colina Estelar</text>
-		<text name="MarioPad">Casa do Mario</text>
-		<text name="EGaddLab">Lab do Elvin</text>
-		<text name="ToadTown">Vila Toad</text>
+		<text name="MarioPad">Casa de Mario</text>
+		<text name="EGaddLab">Lab de Elvin</text>
+		<text name="ToadTown">Villa Toad</text>
 		<text name="ToadHouse">Casa Toad</text>
-		<text name="PeachCastle">Castelo da Princesa</text>
+		<text name="PeachCastle">Castillo de la Princesa</text>
 		
 		<text name="1-1">Rota Cogumelo</text>
 		<text name="1-2">Mamma Mia!</text>
 		<text name="1-3">Floresta</text>
-		<text name="1-4">Aguaceiro</text>
+		<text name="1-4">Aguacero</text>
 		<text name="1-5">Planicie</text>
 		<text name="1-6">Castelo Cru</text>
 		<text name="1-7">Palacio Osama</text>
@@ -5693,7 +5693,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 		<text name="PrincessPrisonDesc">The princess will need to do a footjob in order to leave the bathroom. You have to play with this misterious dick until he cums, then you might be able to flee!</text>
 		
 	<!--SCREEN:KEYBOARD-->
-		<text name="ScreenKeyboard_Choose">Escolha um tipo de Teclado!</text>
+		<text name="ScreenKeyboard_Choose">Escoja un tipo de Teclado!</text>
 		<text name="ScreenKeyboard_BlueFunctionKeysEtc">Blue: function keys. Red: Right Hand Action Keys. Green: Left Hand Action Keys</text>
 		<text name="ScreenKeyboard_ClickToChange">(Click to Change)</text>
 		<text name="ScreenKeyboard_RightHanded">righthanded</text>
@@ -5767,7 +5767,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="ScreenPause_PrincessStat10">The Princess is the Dirtiest Nympho of the kingdom!</text>
 			
 	<!--SCREEN: GALLERY-->
-		<text name="MainGallery">Main Gallery</text>
+		<text name="MainGallery">Galeria Principal</text>
 		<text name="PrincessUntoldGallery">Princess\' Untold Gallery</text>
 		<text name="IfYouWantToUnlock">If you want to unlock the items, you have to...erhm...have sexual relations with each creature until exhausting all scenes! Remember that if you set \'Allow Anal Scenes\',  \'Vore\' and other features OFF, you may not unlock some enemies.</text>
 		<text name="galleryUnlockedMario">The gallery for Mario has been UNLOCKED!</text>
@@ -5851,20 +5851,20 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="ScreenNaked_Careful">Be careful! You\'re going out in your quest NAKED!</text>
 			
 	<!--SCREEN: OPTIONS-->
-		<text name="ScreenOptions_Options">Options</text>
+		<text name="ScreenOptions_Options">Opciones</text>
 		<text name="ScreenOptions_Title_FXMUSIC">FX - MUSIC</text>
-			<text name="ScreenOptions_Header_Sounds">Sounds</text>
+			<text name="ScreenOptions_Header_Sounds">Sonidos</text>
 			<text name="ScreenOptions_Header_FXVolume">FX Volume</text>
-			<text name="ScreenOptions_Header_MusicVolume">Music Volume</text>
-			<text name="ScreenOptions_Header_SoundsONOFF">Sounds ON/OFF</text>
+			<text name="ScreenOptions_Header_MusicVolume">Volumen de la Musica</text>
+			<text name="ScreenOptions_Header_SoundsONOFF">Sonidos ON/OFF</text>
 			<text name="ScreenOptions_Header_Shoes">Shoes/Feet sounds</text>
 			<text name="ScreenOptions_Header_Fart">Fart sounds</text>
 			<text name="ScreenOptions_Header_ReplaceBoeing">Replace Boeing sounds with Semen sounds</text>
 			<text name="ScreenOptions_Header_WaterfallAmbient">Waterfall ambient sounds</text>
 		<text name="ScreenOptions_Title_TEXT">TEXT and INFO</text>
 			<text name="ScreenOptions_Header_CurrentLang">Current:</text>
-			<text name="ScreenOptions_Header_GameLanguage">Game Language</text>
-				<text name="ScreenOptions_ClickUploadXML">(click to upload XML)\n(The game will RESTART)</text>
+			<text name="ScreenOptions_Header_GameLanguage">Lenguaje del Juego</text>
+				<text name="ScreenOptions_ClickUploadXML">(click para subir un XML)\n(El juego nesecita REINICIARSE)</text>
 			<text name="ScreenOptions_Header_TextBalloons">Text Balloons</text>
 				<text name="ScreenOptions_TextDialoguesGoomba">Text in Dialogues (like in goomba scenes)</text>
 			<text name="ScreenOptions_Header_FPSBenchmark">FPS Benchmark</text>
@@ -5895,7 +5895,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="ScreenOptions_Header_NewPeachPortrait">New Peach Portrait</text>
 				<text name="ScreenOptions_NoProtectionAfterUsingDoors">(If NO, no protection after using doors, pipes, or after a erotic scene. Doesn\'t affect Starman)</text>
 		<text name="ScreenOptions_Title_ENGINE">ENGINE</text>
-			<text name="ScreenOptions_Header_FullScreen">FullScreen Mode</text>
+			<text name="ScreenOptions_Header_FullScreen">Modo FullScreen</text>
 			<text name="ScreenOptions_Header_Quality">CPU+: Quality</text>
 				<text name="ScreenOptions_IfSmallerLessCPU">If smaller, less CPU used</text>
 			<text name="ScreenOptions_Header_Force169">Force 16:9 maximized</text>
@@ -5907,12 +5907,12 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<text name="ScreenOptions_CameraWillMoveTouch">(Camera will only move if she touches the edges)</text>
 			<text name="ScreenOptions_Header_AllowScrollLevels">Allow Scroll Levels</text>
 				<text name="ScreenOptions_CertainLevelsWillScroll">(Certain levels will scroll to the left, like SMB3)*</text>
-			<text name="ScreenOptions_Header_Accel">Acceleration</text>
+			<text name="ScreenOptions_Header_Accel">Acceleracion</text>
 				<text name="ScreenOptions_SheWillBrake">(She will \'brake\' like SMB3)</text>
-			<text name="ScreenOptions_Header_AutoSave">Auto Save</text>
+			<text name="ScreenOptions_Header_AutoSave">Auto Guardar</text>
 				<text name="ScreenOptions_ItWillSaveLatest">(It will save in the latest saved or loaded slot. A message will be shown).</text>
 		<text name="ScreenOptions_Title_DIRTY_DAMSEL">DIRTY DAMSEL</text>
-			<text name="ScreenOptions_Header_FutanariScenes">Futanari Scenes</text>
+			<text name="ScreenOptions_Header_FutanariScenes">Ecenas Futanari</text>
 				<text name="ScreenOptions_FutaWillbeShown">(Futa scenes will be shown)</text>
 			<text name="ScreenOptions_Header_SheFuta">She can be a futa</text>
 				<text name="ScreenOptions_CertainSituationsGrowDick">(Certain situations/potions can grow a dick)</text>
@@ -5920,9 +5920,9 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<text name="ScreenOptions_SheWillBeSwallowed">(She will be swallowed in some scenes)</text>
 			<text name="ScreenOptions_Header_ShowBodyCum">Show Body Cum</text>
 				<text name="ScreenOptions_IfSheAlreadyDrenched">(If she is already drenched, you have to make her clean herself first)</text>
-			<text name="ScreenOptions_Header_CleanIfLevelEnds">Clean if level ends</text>
+			<text name="ScreenOptions_Header_CleanIfLevelEnds">Limpiar si el nivel termina</text>
 			<text name="ScreenOptions_Header_CleanCumUnderwater">Clean cum if underwater</text>
-			<text name="ScreenOptions_Header_AutoClean">Auto Clean in shower exit</text>
+			<text name="ScreenOptions_Header_AutoClean">Auto Limpiar al salir de la ducha</text>
 			<text name="ScreenOptions_Header_InternalCumShots">Internal CumShots</text>
 			<text name="ScreenOptions_Header_AllowAnal">Allow Anal Sex</text>
 				<text name="ScreenOptions_IfNoUseHerAss">(If NO, she will only use her ass if you force it in dialogues)</text>
@@ -5930,7 +5930,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<text name="ScreenOptions_IfAutoOpenSwell">(If AUTO, in-game situations can open/swell it)</text>
 			<text name="ScreenOptions_Header_ToadCanFuckImm">Toads Able to Fuck her immediatelly</text>
 				<text name="ScreenOptions_IfNoOnlyFuckCommand">(If NO, they will only fuck her by command dialogues)</text>
-			<text name="ScreenOptions_Header_Personality">Personality</text>
+			<text name="ScreenOptions_Header_Personality">Personalidad</text>
 				<text name="ScreenOptions_SheDecidesInnocentNymph">She decides: she will act like a nymph over time.\nInnocent: she won\'t be acting like a whore or nymph, even with 80 lays, but this wont cancel her \'whorish\' actions and her whore ending.\nNymph: the opposite.</text>
 			<text name="ScreenOptions_Header_MaximumCum">Max cum amount:</text>
 			<text name="ScreenOptions_Header_PussyHair">Pussy Hair:</text>
@@ -5967,6 +5967,6 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 
 		<!--FOR THE FUTURE or TO BE DEPRECATED:Cherbil is a cute small testicle or butt like creature who can fart aphrodisiacs. You will love playing with them (soon).
 		TIP:If you get any bugs, please contact the developer in Legend of Krystal forums, or...erhm...Luigi?
-		TIP:You can change the game to your liking in the \'OPTIONS MENU\' in the main pause screen. Use CTRL key to access it-->
+		TIP:You can change the g
 			
-		</game>
+</game>
