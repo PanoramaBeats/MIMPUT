@@ -5365,9 +5365,12 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="FromFile">FROM FILE</text>
 			<text name="LoadGame">Load Game</text>
 			<text name="Load">Load</text>
+			<text name="LOAD">LOAD</text>
 			<text name="LoadSlots">Load Slots</text>
 			<text name="START">START</text>
 			<text name="Save">Save</text>
+			<text name="SAVESLOTS">SAVE SLOTS</text>
+			<text name="SAVE">SAVE</text>
 			<text name="Cancel">Cancel</text>
 			<text name="Confirm">Confirm</text>
 			<text name="OutfitRoom">Outfit Room</text>
