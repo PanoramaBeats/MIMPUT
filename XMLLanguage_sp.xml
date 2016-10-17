@@ -5857,10 +5857,10 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="ScreenOptions_Header_FXVolume">FX Volume</text>
 			<text name="ScreenOptions_Header_MusicVolume">Volumen de la Musica</text>
 			<text name="ScreenOptions_Header_SoundsONOFF">Sonidos ON/OFF</text>
-			<text name="ScreenOptions_Header_Shoes">Shoes/Feet sounds</text>
+			<text name="ScreenOptions_Header_Shoes">Sonidos de zapatos/pisadas</text>
 			<text name="ScreenOptions_Header_Fart">Fart sounds</text>
-			<text name="ScreenOptions_Header_ReplaceBoeing">Replace Boeing sounds with Semen sounds</text>
-			<text name="ScreenOptions_Header_WaterfallAmbient">Waterfall ambient sounds</text>
+			<text name="ScreenOptions_Header_ReplaceBoeing">Remplazar sonidos Boing con sonidos de Semen</text>
+			<text name="ScreenOptions_Header_WaterfallAmbient">Sonidos de cascada ambientales</text>
 		<text name="ScreenOptions_Title_TEXT">TEXT and INFO</text>
 			<text name="ScreenOptions_Header_CurrentLang">Current:</text>
 			<text name="ScreenOptions_Header_GameLanguage">Lenguaje del Juego</text>
@@ -5868,37 +5868,37 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="ScreenOptions_Header_TextBalloons">Text Balloons</text>
 				<text name="ScreenOptions_TextDialoguesGoomba">Text in Dialogues (like in goomba scenes)</text>
 			<text name="ScreenOptions_Header_FPSBenchmark">FPS Benchmark</text>
-				<text name="ScreenOptions_JustRightGameScreen">Just right click in the Game screen (Show/Hide CPU)</text>
+				<text name="ScreenOptions_JustRightGameScreen">Solo click derecho en la pantalla del juego (Mostrar/Ocultar CPU)</text>
 			<text name="ScreenOptions_Header_HUD">HUD</text>
 				<text name="ScreenOptions_YouCanPlay100">You can play with a 100% clean screen but be careful, message boxes won\'t appear as well!</text>
-		<text name="ScreenOptions_Title_BOOBIES_BELLY"> BOOBIES/BELLY</text>
-			<text name="ScreenOptions_Header_BoobMinMax">Boob Min/Max</text>
-				<text name="ScreenOptions_BraWontSupport">(Bras won\'t support her cups)</text>
-			<text name="ScreenOptions_Header_BellyMinMax">Belly Min/Max</text>
-				<text name="ScreenOptions_CanOnlyIfPregnant">(Can only be disabled if not pregnant!)</text>
-			<text name="ScreenOptions_Header_ShredBraIf">Shred Bra if...</text>
-			<text name="ScreenOptions_Header_BellyCanIncrease">Belly can increase</text>
-			<text name="ScreenOptions_Header_PregnancyChance">Pregnancy Chance</text>
+		<text name="ScreenOptions_Title_BOOBIES_BELLY"> BOOBIES/VIENTRE</text>
+			<text name="ScreenOptions_Header_BoobMinMax">Tetas Min/Max</text>
+				<text name="ScreenOptions_BraWontSupport">(Sujetadores no\'t soportan su busto)</text>
+			<text name="ScreenOptions_Header_BellyMinMax">Vientre Min/Max</text>
+				<text name="ScreenOptions_CanOnlyIfPregnant">(Deshabilitable solo si no esta embarazada!)</text>
+			<text name="ScreenOptions_Header_ShredBraIf">Desgarrar sujetador si...</text>
+			<text name="ScreenOptions_Header_BellyCanIncrease">El vientre puede crecer</text>
+			<text name="ScreenOptions_Header_PregnancyChance">Probabilidad de embarazo</text>
 		<text name="ScreenOptions_Title_EXTRAS">EXTRAS</text>
-			<text name="ScreenOptions_Header_SameDialoguesIf">Same dialogues if the scene is replayed</text>
-				<text name="ScreenOptions_IfNotNymphSameThingScenes">(If YES and she is not a nymph, she will always say the same thing in scenes)</text>
-			<text name="ScreenOptions_Header_FunnyDialogue">Funny Dialogue Mode</text>
-				<text name="ScreenOptions_IfYesCreaturesMightTalkLikeHer">(If YES, creatures might talk like her)</text>
-			<text name="ScreenOptions_Header_DuringScenes">During Scenes...</text>
-				<text name="ScreenOptions_CertainScenesMightNotBeAffected">(Certain scenes might not be affected)</text>
-			<text name="ScreenOptions_Header_ClassicNymphGait">Classic Nymph Gait</text>
-				<text name="ScreenOptions_SluttyWalkClassic">(If YES, her \'slutty\' walk will change to classic)</text>
-			<text name="ScreenOptions_Header_Protection">Protection (Blink)</text>
-			<text name="ScreenOptions_Header_LingerieCanShred">Lingerie can be shred</text>
+			<text name="ScreenOptions_Header_SameDialoguesIf">Dialogos Iguales si la Escena se Repite</text>
+				<text name="ScreenOptions_IfNotNymphSameThingScenes">(Si es SI y Peach no es nynfomana, ella siempre dira lo mismo en las escenas)</text>
+			<text name="ScreenOptions_Header_FunnyDialogue">Modo de Dialogos Divertido</text>
+				<text name="ScreenOptions_IfYesCreaturesMightTalkLikeHer">(Si es SI, las criaturas podrian decir lo mismo que Peach)</text>
+			<text name="ScreenOptions_Header_DuringScenes">Durante la Escena...</text4>
+				<text name="ScreenOptions_CertainScenesMightNotBeAffected">(Ciertas escenas pueden verse no afectadas)</text>
+			<text name="ScreenOptions_Header_ClassicNymphGait">Paso Clasico de Nymph</text>
+				<text name="ScreenOptions_SluttyWalkClassic">(Si es SI, su \'caminata cachona\' cambiara a lo clasico)</text>
+			<text name="ScreenOptions_Header_Protection">Proteccion (Blink)</text>
+			<text name="ScreenOptions_Header_LingerieCanShred">Lenceria puede ser desgarrada</text>
 				<text name="ScreenOptions_LingerieCanShredDescription">(If NO, she won\'t lose her garter, heels, stockings and gloves when hit. BEWARE, she will lose a life if hit while her horny bar is zero)</text>
 				<text name="ScreenOptions_NewPortraitDescription">(YES: Young version. NO: Dirty Monkey version)</text>
 			<text name="ScreenOptions_Header_NewPeachPortrait">New Peach Portrait</text>
 				<text name="ScreenOptions_NoProtectionAfterUsingDoors">(If NO, no protection after using doors, pipes, or after a erotic scene. Doesn\'t affect Starman)</text>
 		<text name="ScreenOptions_Title_ENGINE">ENGINE</text>
 			<text name="ScreenOptions_Header_FullScreen">Modo FullScreen</text>
-			<text name="ScreenOptions_Header_Quality">CPU+: Quality</text>
-				<text name="ScreenOptions_IfSmallerLessCPU">If smaller, less CPU used</text>
-			<text name="ScreenOptions_Header_Force169">Force 16:9 maximized</text>
+			<text name="ScreenOptions_Header_Quality">CPU+: Calidad</text>
+				<text name="ScreenOptions_IfSmallerLessCPU">Si es pequeño, menor CPU usado</text>
+			<text name="ScreenOptions_Header_Force169">Forzar 16:9 maximizado</text>
 				<text name="ScreenOptions_LastResortIf169">(A last resort if you need 16:9 while maximized)</text>
 			<text name="ScreenOptions_Header_CPUFPS">CPU+: FPS</text>
 			<text name="ScreenOptions_Header_BlitBackground">CPU+: Blit in Background</text>
@@ -5967,6 +5967,6 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 
 		<!--FOR THE FUTURE or TO BE DEPRECATED:Cherbil is a cute small testicle or butt like creature who can fart aphrodisiacs. You will love playing with them (soon).
 		TIP:If you get any bugs, please contact the developer in Legend of Krystal forums, or...erhm...Luigi?
-		TIP:You can change the g
+		TIP:You can change the game to your liking in the \'OPTIONS MENU\' in the main pause screen. Use CTRL key to access it-->
 			
 </game>
