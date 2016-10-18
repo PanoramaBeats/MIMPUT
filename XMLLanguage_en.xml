@@ -3113,9 +3113,9 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<f i="5">Hey You! You\'re the Skirt Mario was saving, right?</f>
 				<f i="6">My pinky SLUT! What are you doing in my beach?</f>
 				<f i="7">Hey, butt woman, are Mario around in order to help me find my slot machines</f>
-				<f i="8">Don Pianta! More manners, please! You owe Mario, he helped you, right?</f>
-				<f i="9">Oh, don\'t talk like that, you\'re so mean!</f>
-				<f i="10">Stop, Mr. Pianta, this makes me...remember of the Koopalings!</f>
+				<p i="8">Don Pianta! More manners, please! You owe Mario, he helped you, right?</p>
+				<p i="9">Oh, don\'t talk like that, you\'re so mean!</p>
+				<p i="10">Stop, Mr. Pianta, this makes me...remember of the Koopalings!</p>
 				<f i="11">(Press a Number)\n1) Make her suck!   2) Fuck her ass!\n3) Fuck her pussy!  4) Let her go!</f>
 			</scenes>			
 			
@@ -5287,7 +5287,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="DescribeIt">Describe it (SHOW/HIDE)</text>
 			<text name="PressMinusZoomArea">Press \'-\' (minus) key to zoom in that area!</text>
 			<text name="TECMonitorWords">NEXT LOOP\nINITIALIZING...\n\nREADING KEY.....\n\n..........\n..........\nOK\n\nCHECKING .......\nOK\n\nPLEASE WAIT.....\n\nSENDING.....\n\nNEW TARGET\nTO: WORLD</text>
-			<text name="leave">Leave</text>
+			<text name="Leave">Leave</text>
 			<text name="toLeave">to leave</text>
 			<text name="toUnmountLeave">to unmount and leave it.</text>
 			<text name="YouLostYoshi">You lost Yoshi!</text>
@@ -5439,6 +5439,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="previousPage">Previous Page</text>
 			<text name="open">Open</text>
 			<text name="close">Close</text>
+			<text name="Exit">Exit</text>
 			
 			<text name="days">days</text>
 			<text name="DAY">DAY</text>
