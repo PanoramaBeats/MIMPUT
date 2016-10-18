@@ -3829,6 +3829,8 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="lay7">Ahhh! My cherry\nand my little hole... being...SCREWED in my own throne! I am so nasty!</p>
 				<p i="pregDeliver1">Oooohhh...\nits coming! Better to concentrate!</p>
 				<p i="pregDeliver2">Phew!! Done!\n I feel really tired! Where are you, my baby?</p>
+				<f i="die1">You will lose a life. This is mostly used if you are stuck or a game bug. Are you sure?\n1)YES\n2)NO</f>
+				<f i="die2">Attempt failed! Please press ENTER (Panic Screen) and click to \'Go Back to Worldmap\'</f>
 				
 				<!--BALLOONS (random dialogues depending on her state)-->
 				<p i="restrain1">\nMy cherryslit is acting funny with this gooey thing!</p>
@@ -5371,6 +5373,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="Save">Save</text>
 			<text name="SAVESLOTS">SAVE SLOTS</text>
 			<text name="SAVE">SAVE</text>
+			<text name="POWERUP">POWERUP</text>
 			<text name="Cancel">Cancel</text>
 			<text name="Confirm">Confirm</text>
 			<text name="OutfitRoom">Outfit Room</text>

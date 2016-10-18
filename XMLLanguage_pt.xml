@@ -3840,6 +3840,8 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<p i="lay7">Ahhh! My cherry\nand my little hole... being...SCREWED in my own throne! I am so nasty!</p>
 				<p i="pregDeliver1">Oooohhh...\nits coming! Better to concentrate!</p>
 				<p i="pregDeliver2">Phew!! Done!\n I feel really tired! Where are you, my baby?</p>
+				<f i="die1">You will lose a life. This is mostly used if you are stuck or a game bug. Are you sure?\n1)YES\n2)NO</f>
+				<f i="die2">Attempt failed! Please press ENTER (Panic Screen) and click to \'Go Back to Worldmap\'</f>
 				
 				<!--BALLOONS (random dialogues depending on her state)-->
 				<p i="restrain1">\nMy cherryslit is acting funny with this gooey thing!</p>
@@ -5382,6 +5384,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="Save">Salvar</text>
 			<text name="SAVESLOTS">Cargas</text>
 			<text name="SAVE">SALVAR</text>
+			<text name="POWERUP">POWERUP</text>
 			<text name="Cancel">Cancelar</text>
 			<text name="Confirm">Confirmar</text>
 			<text name="OutfitRoom">Sala de Roupas</text>
