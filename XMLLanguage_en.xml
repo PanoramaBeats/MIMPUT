@@ -1914,7 +1914,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="5">Princess: Well, so so... I am searching for Mario!</p>
 				<p i="6">(Press a Number)\n1) Where is Mario? \n2) Nevermind, thank you!</p>
 				<f i="7">Luigi: I dont know where my bro is. He keeps disappearing and he never calls me!</f>
-				<f i="8">Luigi: Moreover, I am reading a great book I\'ve made. It\'s name is: \'Touching inner areas\' Are you wishing to hear it?</f>
+				<f i="8">Luigi: Moreover, I am reading a great book I\'ve made. Its name is: \'Touching inner areas\' Are you wishing to hear it?</f>
 				<p i="9">(Press a Number)\n1) Yes, please read it! \n2) No, thank you!</p>
 			</scenes>			
 			
