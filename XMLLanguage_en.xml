@@ -5949,31 +5949,31 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 	<!-- HUD-->
 		<text name="HUD1">HUD: cant zoom when not focusing anything!</text>
 		
-	<!--TIPS (please dont put more, as the game will only recognize this current limit). You can change those anyway.-->
-		<text name="tip1">TIP:Upon starting a level, you can go back to worldmap if you enter inside the brown keep, a white door or just by walking left.</text>
-		<text name="tip2">TIP:Pressing BACKSPACE hides the HUD!</text>
-		<text name="tip3">TIP:Walking bobombs will tease you and eventually fuck your pussy. BUT the running ones who can blow might fuck you earlier, be warned!</text>
-		<text name="tip4">TIP:If you are using a key in your bumhole, creatures will spare it (no anal sex). So, be relieved!</text>
-		<text name="tip5">TIP:If the game is lagging, you can press the \'=\' to change the quality and the \'-\' to change zoom.</text>
-		<text name="tip6">TIP:Google Chrome or \'Flash Projector\' (standalone app from adobe) may boost game performance.</text>
-		<text name="tip7">TIP:Certain levels only appear in certain days, like the Shyguy Village in world 3.</text>
-		<text name="tip8">TIP:Is the game slow? Blame Flash and its way to render vectors, not your machine. You can try to activate Stationary camera in the options.</text>
-		<text name="tip9">TIP:Bugs may appear. If the princess locks up, try SPACE/SHIFT many times. If not, press DEL (she will lose a life). You can also load a saved game.</text>
-		<text name="tip10">TIP:If you\'re using \'Dont make scenes require SKIP presses\', there are creatures you have to fill the bar up, so disable it in those places!</text>
-		<text name="tip11">TIP:You can grab Koopa and buzzy beetle shells. Just pass over a NON-MOVING shell while pressing RUN key.</text>
-		<text name="tip12">TIP:You can survive physical harm as long as your horny bar is up.</text>
-		<text name="tip13">TIP:Press keys 0 to 9 while touching a laid enemy to choose a scene. Then press \'DO-OVER\' key. Not all enemies have this feature.</text>
-		<text name="tip14">TIP:Press ENTER for PANIC mode! CTRL returns to the game. Then press / in the keypad to re-enable sounds.</text>
-		<text name="tip15">TIP:You can use the inventory only in the worldmap. Press \'attack key\' to open it and click on any item with the mouse. Maximum of 5 items!</text>
-		<text name="tip16">TIP:Bob-Ombs have different scenes. It depends on when you catch them!</text>
-		<text name="tip17">TIP:If you find a bug, try to reproduce it, press PAGE DOWN key and take a screenshot, then post in LOK or Aedler site. Luigi will fix it!</text>
-		<text name="tip18">TIP:To exit a level, you either enter the door at the fort, get an item, or walk past the edges of the screen.</text>
-		<text name="tip19">TIP:If you\'re dirty, you can clean yourself off in the bath or at checkpoints. If \'Clean Cum while Underwater\' in ON, just get underwater!</text>
-		<text name="tip20">TIP:Sockhops are green bag-like enemies. Although they are not enemies exactly, they can harm you, but you can also make them happy!</text>
-		<text name="tip21">TIP:You can use \'DEL\' key to make the princess lose a life if you\'re stuck!</text>
-		<text name="tip22">TIP:Remember the princess will only wear a custom outfit if you set a given powerup to it, then search for it in the game!</text>
-		<text name="tip23">TIP:You can have bigger bellies depending on the amount of cum in a vaginal/anal scene, or by taking certain potions.</text>
-		<text name="tip24">TIP:Don\'t forget to check the key confgurations in PAUSE MENU (CTRL key!) You will check the keys to zoom in, for example.</text>
+	<!--TIPS (you can add or remove lines below, in case you want much more tips or just a few)-->
+		<text name="tip">TIP:Upon starting a level, you can go back to worldmap if you enter inside the brown keep, a white door or just by walking left.</text>
+		<text name="tip">TIP:Pressing BACKSPACE hides the HUD!</text>
+		<text name="tip">TIP:Walking bobombs will tease you and eventually fuck your pussy. BUT the running ones who can blow might fuck you earlier, be warned!</text>
+		<text name="tip">TIP:If you are using a key in your bumhole, creatures will spare it (no anal sex). So, be relieved!</text>
+		<text name="tip">TIP:If the game is lagging, you can press the \'=\' to change the quality and the \'-\' to change zoom.</text>
+		<text name="tip">TIP:Google Chrome or \'Flash Projector\' (standalone app from adobe) may boost game performance.</text>
+		<text name="tip">TIP:Certain levels only appear in certain days, like the Shyguy Village in world 3.</text>
+		<text name="tip">TIP:Is the game slow? Blame Flash and its way to render vectors, not your machine. You can try to activate Stationary camera in the options.</text>
+		<text name="tip">TIP:Bugs may appear. If the princess locks up, try SPACE/SHIFT many times. If not, press DEL (she will lose a life). You can also load a saved game.</text>
+		<text name="tip">TIP:If you\'re using \'Dont make scenes require SKIP presses\', there are creatures you have to fill the bar up, so disable it in those places!</text>
+		<text name="tip">TIP:You can grab Koopa and buzzy beetle shells. Just pass over a NON-MOVING shell while pressing RUN key.</text>
+		<text name="tip">TIP:You can survive physical harm as long as your horny bar is up.</text>
+		<text name="tip">TIP:Press keys 0 to 9 while touching a laid enemy to choose a scene. Then press \'DO-OVER\' key. Not all enemies have this feature.</text>
+		<text name="tip">TIP:Press ENTER for PANIC mode! CTRL returns to the game. Then press / in the keypad to re-enable sounds.</text>
+		<text name="tip">TIP:You can use the inventory only in the worldmap. Press \'attack key\' to open it and click on any item with the mouse. Maximum of 5 items!</text>
+		<text name="tip">TIP:Bob-Ombs have different scenes. It depends on when you catch them!</text>
+		<text name="tip">TIP:If you find a bug, try to reproduce it, press PAGE DOWN key and take a screenshot, then post in LOK or Aedler site. Luigi will fix it!</text>
+		<text name="tip">TIP:To exit a level, you either enter the door at the fort, get an item, or walk past the edges of the screen.</text>
+		<text name="tip">TIP:If you\'re dirty, you can clean yourself off in the bath or at checkpoints. If \'Clean Cum while Underwater\' in ON, just get underwater!</text>
+		<text name="tip">TIP:Sockhops are green bag-like enemies. Although they are not enemies exactly, they can harm you, but you can also make them happy!</text>
+		<text name="tip">TIP:You can use \'DEL\' key to make the princess lose a life if you\'re stuck!</text>
+		<text name="tip">TIP:Remember the princess will only wear a custom outfit if you set a given powerup to it, then search for it in the game!</text>
+		<text name="tip">TIP:You can have bigger bellies depending on the amount of cum in a vaginal/anal scene, or by taking certain potions.</text>
+		<text name="tip">TIP:Don\'t forget to check the key confgurations in PAUSE MENU (CTRL key!) You will check the keys to zoom in, for example.</text>
 
 		<!--FOR THE FUTURE or TO BE DEPRECATED:Cherbil is a cute small testicle or butt like creature who can fart aphrodisiacs. You will love playing with them (soon).
 		TIP:If you get any bugs, please contact the developer in Legend of Krystal forums, or...erhm...Luigi?
