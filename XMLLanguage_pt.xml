@@ -3052,9 +3052,9 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<f i="1">Wario: Princess Bitch!?</f>
 				<f i="2">Wario: Princess {CHARACTER_NAME}!?</f>
 				<p i="3">(CHOOSE A NUMBER)\n1) \'Where is your hat?\' 2) Show Wario you have coins\n3) Ask him to...fuck you!\n4) LEAVE</p>
-				<f i="3">Damn, Princess! A very charismatic storyteller from some faraway land stole it from me and disappeared! I haven\'t seen or heard of him again...Perhaps YOU can pay me for the hat!</f>
-				<f i="4">Wario stole some coins from you!</f>
-				<f i="5">Wario: Princess!! I see you have some coins! Give them to Wario now!</f>
+				<f i="4">Damn, Princess! A very charismatic storyteller from some faraway land stole it from me and disappeared! I haven\'t seen or heard of him again...Perhaps YOU can pay me for the hat!</f>
+				<f i="5">Wario stole some coins from you!</f>
+				<f i="6">Wario: Princess!! I see you have some coins! Give them to Wario now!</f>
 			</scenes>			
 			
 			<scenes scene="dialogueBubulber">
