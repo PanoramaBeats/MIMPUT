@@ -17,39 +17,41 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 -->
 
 		<game>
-			<lang>Español</lang> <!--CHANGE this to your language name, in case you translate it. It will be shown in the main screen-->
+			<lang>Espanol</lang> <!--CHANGE this to your language name, in case you translate it. It will be shown in the main screen-->
 			
 	<!--TOADS-->
 			<scenes scene="toad1"> 
-				<p i="1">Nadie mira\nahora. Es TAN delicioso, hmmm...</p>
-				<p i="2">Mwa! Mm! Oh,\nesto\se siente mejor ahora!</p>
-				<p i="3">Oh no! El puso\nsu corrida en todo mi cabello! Pero estas bolas saben tan bien...</p>
+				<p i="1">Nadie esta viendo\nesto. Son TAN deliciosos, hmmm...</p>
+				<p i="2">Mwa! Mm! Oh,\nesto\sabe incluso mejor ahora!</p>
+				<p i="3">Oh no! Lo consiguio\nsu leche esta por todo mi cabello! Pero estas bolas saben muy bien...</p>
 			</scenes>
 			<scenes scene="toad2">
-				<p i="1">El\Esta viendome\n...es tan tierno...</p>
-				<p i="1a">Tu haras...\nesto conmigo?</p>
-				<p i="2">Quiero tocar\neso...</p> <!--Avance de 5 minutos XD-->
-				<p i="2a">Here I go,\nmy little thing...</p>
+				<p i="1">El\Esta viendome\n...tan tierno...</p>
+				<p i="1a">Vas a...\nhacer esto conmigo?</p>
+				<p i="2">Quiero\ntocarlo...</p> <!--Avance de 5 minutos XD-->
+				<p i="2a">Aqui voy,\nmi cosita...</p>
 				<p i="2b">Hey, there is\nsomething I need to check...\u2665</p>
-				<p i="3">It\'s not a dirty\nthing, he has a mushroom, it\'s edible. \u2665</p>
-				<p i="3a">Toadella doesnt\nlike me doing this...</p>
-				<p i="3b">I can do that\nwhenever I want...</p>
-				<p i="4">I feel so full,\nits a tender banana.</p>
-				<p i="4a">I imagine a queue\nfull of my dear naked toads, all serving me! \u2665</p>
-				<p i="4b">I feel safe\nwith this thing in my mouth.</p>
-				<p i="4c">My mouth goes\nin and out in a way I cant stop! \u2665</p>
-				<p i="4d">If my wooden\nmicrophone was like this I would talk all the time to my crowd!</p>
-				<p i="5">\nHmmmm! \u2665</p>
-				<p i="5a">\nTasty! This one was good!</p>
-				<p i="5b">\nNot sooo tasty but I want more later!</p>
-				<p i="5c">\nNoooo It\'s not meant to stop!</p>
-				<p i="5d">\nI need to return to my duties, my little thing.</p>
+				<p i="2b">Hey, aqui hay\nalgo que necesito ver...\u2665</p>
+ 				<p i="3">Esto\no es algo\nsucio, tiene una seta, es\comestible. \u2665</p>
+ 				<p i="3a">A Toadella no le\ngusta que haga esto...</p>
+ 				<p i="3b">Puedo hacer eso\ncuando YO quiera...</p>
+ 				<p i="4">Me siento tan llena,\nes una banana tierna.</p>
+ 				<p i="4a">Me imagino una fila\nllena de mis queridos Toads desnudos, todos sirviendome! \u2665</p>
+ 				<p i="4b">Me siento segura\ncon esta cosa en mi boca.</p>
+ 				<p i="4c">Mi boca\nentra y sale de una manera que No puedo parar! \u2665</p>
+ 				<p i="4d">Si el microfono de\nmadera was fuera asi Me gustaria hablar con mi reino todo el tiempo!</p>
+ 				<p i="5">\nHmmmm! \u2665</p>
+ 				<p i="5a">\nDelicioso! Este era bueno!</p>
+ 				<p i="5b">\nNo esta tan delicioso pero quiero mas despues!</p>
+ 				<p i="5c">\nNoooo este\no es momento de parar!</p>
+ 				<p i="5d">\nNecesito regresar a mis deberes, mi pequeña cosa.</p>
 			</scenes>
 			<scenes scene="toad3">
-				<p i="1">I can\'t believe\nI\'m doing this! But, wow! It\'s so smooth, but hard.</p>
-				<p i="2">Wow! Your\ndick is really hard!</p>
-				<p i="3">Jeez! How long\n can you last?</p>
-				<p i="4">Oh my! Such\nvolume!</p>
+				<p i="1">No puedo\creerlo\nEstoy\haciendo esto! Pero, wow! Es\Tan suave, pero duro.</p>
+ 				<p i="2">Wow! Tu\npene esta muy duro!</p>
+ 				<p i="3">Dios! Cuanto tiempo\puedes durar?</p>
+ 				<p i="4">Oh mi! tal\nvolumen!</p>
+
 			</scenes>
 			<scenes scene="toad4">
 				<p i="1">I guess it\'s okay\nas long as it doesn\'t go inside.</p>
@@ -5702,69 +5704,69 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 		<text name="ScreenKeyboard_SingleLeftHand">single left hand</text>
 	
 	<!--SCREEN:TRAIN-->
-			<text name="ScreenTrain_MarioAfter">Mario, after his latest quest, finally calls Princess Peach for a dinner in the Train.</text>
+			<text name="ScreenTrain_MarioAfter">Mario, despues de su ultima busqueda, llama la princesa Peach para una cena en el tren.</text>
 		
 	<!--SCREEN: CHAR-->
-			<text name="CHOOSECHARACTER">CHOOSE YOUR CHARACTER</text>
+			<text name="CHOOSECHARACTER">ESCOGE TU PERSONAJE!</text>
 			
 	<!--SCREEN: OUTFIT ROOM-->
-			<text name="ScreenOutfit_OutfitRoom">Outfit Room</text>
-			<text name="ScreenOutfit_Costume">Costume</text>
-			<text name="ScreenOutfit_NailColor">Nail Color</text>
-			<text name="ScreenOutfit_Gloves">Gloves</text>
-			<text name="ScreenOutfit_Stockings">Stockings</text>
-			<text name="ScreenOutfit_Heels">Heels</text>
-			<text name="ScreenOutfit_Garter">Garter</text>
-			<text name="ScreenOutfit_Character">Character</text>
-			<text name="ScreenOutfit_DropEarrings">Drop Earrings</text>
-			<text name="ScreenOutfit_DropCrown">Drop Crown</text>
-			<text name="ScreenOutfit_BellyPiercing">Belly Piercing</text>
-			<text name="ScreenOutfit_YouWillOnly">You will only be able to get new ones when getting new outfits.</text>
-			<text name="ScreenOutfit_NippleSize">Nipple Size</text>
-			<text name="ScreenOutfit_NippleType">Nipple Type</text>
+			<text name="ScreenOutfit_OutfitRoom">Ropero</text>
+			<text name="ScreenOutfit_Costume">Traje</text>
+			<text name="ScreenOutfit_NailColor">Color de Uñas</text>
+			<text name="ScreenOutfit_Gloves">Guantes</text>
+			<text name="ScreenOutfit_Stockings">Medias</text>
+			<text name="ScreenOutfit_Heels">Tacones</text>
+			<text name="ScreenOutfit_Garter">Ligas</text>
+			<text name="ScreenOutfit_Character">Personaje</text>
+			<text name="ScreenOutfit_DropEarrings">Pendientes</text>
+			<text name="ScreenOutfit_DropCrown">Corona</text>
+			<text name="ScreenOutfit_BellyPiercing">Piercing de Vientre</text>
+			<text name="ScreenOutfit_YouWillOnly">Solo se podra obtener otros nuevos al conseguir nuevos trajes.</text>
+			<text name="ScreenOutfit_NippleSize">Tamaño de Pezon</text>
+			<text name="ScreenOutfit_NippleType">Tipo de Pezon</text>
 			<text name="ScreenOutfit_AttentionOutfits">Attention: Outfits and stocking/garter/gloves/heels changes will be set only upon taking a powerup along the level</text>
 			<text name="ScreenOutfit_ClickOnTheIcons">Click on the icons to set the current costume to them</text>
 			<text name="ScreenOutfit_ClickSeeMorePoses">Click to see more poses!</text>
 			<text name="ScreenOutfit_SizeChanges">Size changes just for showroom</text>
-			<text name="ScreenOutfit_SameCostume">Same Costume to all</text>
-			<text name="ScreenOutfit_BoobSize">Boob Size</text>
-			<text name="ScreenOutfit_BellySize">Belly Size</text>
-			<text name="ScreenOutfit_AssSize">Ass Size</text>
+			<text name="ScreenOutfit_SameCostume">Mismo Vestuario a Todo</text>
+			<text name="ScreenOutfit_BoobSize">Tamaño de los Pechos</text>
+			<text name="ScreenOutfit_BellySize">Tamaño del Vientre</text>
+			<text name="ScreenOutfit_AssSize">Tamaño del Culo</text>
 			
 	<!--SCREEN: PAUSE-->			
-			<text name="ScreenPause_Nice">Nice</text>
-			<text name="ScreenPause_Naughty">Naughty</text>
+			<text name="ScreenPause_Nice">Nice, Delicada</text>
+			<text name="ScreenPause_Naughty">Traviesa</text>
 			<text name="ScreenPause_General">General</text>
-			<text name="ScreenPause_Header1">Left/Right\nJump / Fly / Swim\nRun\nDown / Crouch / Pipe\nUp / Climb / Door\nAttack / Statue\nLose a life\nZoom</text>
-			<text name="ScreenPause_Header2">Next scene / Go\nMasturbate\nLactate\nDo-over Sex</text>
-			<text name="ScreenPause_Header3">Toggle menu\nToggle HUD\nMusic / Sound\nToggle text\nToggle quality\nExit Screens</text>
-			<text name="ScreenPause_KeyChooseScene">(choose scene with 0-9) on laid enemies</text>
-			<text name="ScreenPause_Minus">Minus (not in KEYPAD) or Click her</text>
-			<text name="ScreenPause_Panic">Panic Mode</text>
-			<text name="ScreenPause_FrameSkip">Frame Skip</text>
-			<text name="ScreenPause_AcessInventory">Acess Inventory (in worldmap)</text>
-			<text name="ScreenPause_QuickSave">Quick SAVE</text>
-			<text name="ScreenPause_QuickLoad">Quick LOAD</text>
+			<text name="ScreenPause_Header1">Izquierda/Derecha\nSaltar / Volar / Nadar\nCorrer\nAbajo / Agacharse / Tubo\nArriba / Subir / Puerta\nAtacar / Estatua\nPerder una vida\nZoom</text>
+			<text name="ScreenPause_Header2">Siguiente escena / Ir\nMasturbarse\nLactar\nHazlo-durante el sexo</text>
+			<text name="ScreenPause_Header3">Alternar Menu\nAlternar HUD\nMusica / Sonido\nAlternar textos\nAlternar calidad\nSalir de la pantalla</text>
+			<text name="ScreenPause_KeyChooseScene">(escoge escena con 0-9) sobre los enemigos</text>
+			<text name="ScreenPause_Minus">Menos (no en el KEYPAD) o Click sobre ella</text>
+			<text name="ScreenPause_Panic">Modo Panico</text>
+			<text name="ScreenPause_FrameSkip">Saltar Fotograma</text>
+			<text name="ScreenPause_AcessInventory">Acceso al inventario (en el mapa del mundo)</text>
+			<text name="ScreenPause_QuickSave">GUARDADO Rapido</text>
+			<text name="ScreenPause_QuickLoad">CARGADO Rapido</text>
 			
-			<text name="NastySceneCounters">Nasty Scene Counters</text>
-			<text name="ControlsQWERTY">Controls - QWERTY</text>
-			<text name="ControlsAZERTY">Controls - AZERTY</text>
-			<text name="ControlsQWERTZ">Controls - QWERTZ</text>
+			<text name="NastySceneCounters">Contador de Escenas Desagradables</text>
+			<text name="ControlsQWERTY">Controles - QWERTY</text>
+			<text name="ControlsAZERTY">Controles - AZERTY</text>
+			<text name="ControlsQWERTZ">Controles - QWERTZ</text>
 			
-			<text name="ScreenPause_PrincessPregnant">The Princess is PREGNANT!</text>
-			<text name="ScreenPause_PrincessPregnant2">day(s) to deliver!</text>
-			<text name="ScreenPause_PrincessPregnant3">The Princess will DELIVER at ANY moment!</text>
+			<text name="ScreenPause_PrincessPregnant">La Princesa esta Embarazada!</text>
+			<text name="ScreenPause_PrincessPregnant2">Dia(s) para dar a Luz!</text>
+			<text name="ScreenPause_PrincessPregnant3">La Princesa dara a LUZ en CUALQUIER MOMENTO!</text>
 			
-			<text name="ScreenPause_PrincessStat1">The Princess is decent in this level</text>
-			<text name="ScreenPause_PrincessStat2">The Princess did nasty things!</text>
-			<text name="ScreenPause_PrincessStat3">The Princess is craving for sex!</text>
-			<text name="ScreenPause_PrincessStat4">The Princess is pure</text>
-			<text name="ScreenPause_PrincessStat5">The Princess is still virgin</text>
-			<text name="ScreenPause_PrincessStat6">The Princess popped up her cherry!</text>
-			<text name="ScreenPause_PrincessStat7">The Princess is a virgin who loves dicks!</text>
-			<text name="ScreenPause_PrincessStat8">The Princess is a dick craver!</text>
-			<text name="ScreenPause_PrincessStat9">The Princess is a Nymphomaniac virgin!</text>
-			<text name="ScreenPause_PrincessStat10">The Princess is the Dirtiest Nympho of the kingdom!</text>
+			<text name="ScreenPause_PrincessStat1">La Princesa es Decente en este Nivel</text>
+			<text name="ScreenPause_PrincessStat2">La Princesa hizo cosas sucias!</text>
+			<text name="ScreenPause_PrincessStat3">La Princesa quiere Sexo!</text>
+			<text name="ScreenPause_PrincessStat4">La Princesa es pura</text>
+			<text name="ScreenPause_PrincessStat5">La Princesa aun es Virgen</text>
+			<text name="ScreenPause_PrincessStat6">La Princesa Perdio su Virginidad!</text>
+			<text name="ScreenPause_PrincessStat7">La Princesa es una virgen que ama los penes!</text>
+			<text name="ScreenPause_PrincessStat8">La Princesa es una aspiradora de Penes!</text>
+			<text name="ScreenPause_PrincessStat9">La Princesa es una Ninfomana virgen!</text>
+			<text name="ScreenPause_PrincessStat10">La Princesa es la mas sucia del reino!</text>
 			
 	<!--SCREEN: GALLERY-->
 		<text name="MainGallery">Galeria Principal</text>
@@ -5848,7 +5850,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<text name="EndingDirtySlutDesc">finishes her slutty quest being fucked by all races of creatures of the kingdom, day by day!</text>
 		
 	<!--SCREEN: NAKED-->
-			<text name="ScreenNaked_Careful">Be careful! You\'re going out in your quest NAKED!</text>
+			<text name="ScreenNaked_Careful">Ten cuidado! Vas\a salir a tu busqueda DESNUDA!</text>
 			
 	<!--SCREEN: OPTIONS-->
 		<text name="ScreenOptions_Options">Opciones</text>
