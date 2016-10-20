@@ -1910,7 +1910,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<f i="1">Luigi: Hello, princess! I hope all is well with you and your kingdom.</f>
 				<f i="2">Luigi: Hello, princ.... (she\'s EXPOSED! What happened to her?) Errr... I hope all is well with you and your kingdom.</f>
 				<p i="3">(Press a Number)\n1) Where is Mario? \n2) Nevermind, thank you!</p>
-				<p i="4">Peach: Luigi! I am happy you\'re here!</p>
+				<p i="4">Princess: Luigi! I am happy you\'re here!</p>
 				<p i="5">Princess: Well, so so... I am searching for Mario!</p>
 				<p i="6">(Press a Number)\n1) Where is Mario? \n2) Nevermind, thank you!</p>
 				<f i="7">Luigi: I dont know where my bro is. He keeps disappearing and he never calls me!</f>
@@ -3649,8 +3649,8 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			</scenes>	
 			
 			<scenes scene="dialogueVegetable">
-				<p i="1">Peach: They\'re vegetables for the next meal.</p>
-				<p i="2">Peach: I wonder if I can put them on my....my table?</p>
+				<p i="1">Princess: They\'re vegetables for the next meal.</p>
+				<p i="2">Princess: I wonder if I can put them on my....my table?</p>
 			</scenes>	
 			
 			<scenes scene="dialogueSwan">
@@ -5396,7 +5396,6 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="bellyEmpty">The belly is now empty!</text>
 			<text name="bellyDecreased">Belly decreased. To decrease more, please wait some seconds first!</text>
 			<text name="thisActionHelpFreeChainball">This action helped you to free yourself from the chain ball!</text>
-			<text name="ExtraLife">Extra Life</text>
 			<text name="WorldDoesntExist">WORLD DOESNT EXIST YET! Lumas of the Star Road are making them.</text>
 			<text name="pressUPProgramCannon">Press \'UP\' key to program the cannon</text>
 			<text name="youHaveToTalkBuddy">You have to talk to Bobomb Buddy first.</text>
@@ -5493,7 +5492,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="SAVED">SAVED</text>
 			<text name="SAVEDCLIPBOARD">SAVED TO CLIPBOARD! Just paste to a text editor and save it!</text>
 			<text name="princessSQUISHED">The princess was SQUISHED!</text>
-			<text name="princessFellAbyss">Peach fell in a very deep abyss!</text>
+			<text name="princessFellAbyss">The princess fell in a very deep abyss!</text>
 			<text name="CantGoGalleryWhileAction">You can\'t go to the gallery while in an action.</text>
 			<text name="CantGoPauseZooming">Cant go to the pause screen while zooming!</text>
 			<text name="CantGoPauseEnteringDoors">Cant go to the pause screen while entering doors or objects!</text>
