@@ -5245,6 +5245,7 @@ AEDLER: Thank you! Merci beaucoup! The problem with accents is due to a limitati
 				<f i="19">Welcome to World 7! You are soon reaching the sky!</f>
 				<f i="20">You are in the Spiral Fortress! You will need to climb it in order to reach other levels!</f>
 				<f i="21">It\'s the sky! You dont see any ground below!</f>
+				<f i="22">This is a swivel fence. You need to press RUN key to go to the background or foreground!</f>
 			</scenes>			
 	
 			
@@ -5290,6 +5291,7 @@ AEDLER: Thank you! Merci beaucoup! The problem with accents is due to a limitati
 			<text name="Oh">Oh</text>
 			<text name="DescribeIt">Describe it (SHOW/HIDE)</text>
 			<text name="PressMinusZoomArea">Press \'-\' (minus) key to zoom in that area!</text>
+			<text name="PressRUNBackground">Press RUN key to go to background or foreground!</text>
 			<text name="TECMonitorWords">NEXT LOOP\nINITIALIZING...\n\nREADING KEY.....\n\n..........\n..........\nOK\n\nCHECKING .......\nOK\n\nPLEASE WAIT.....\n\nSENDING.....\n\nNEW TARGET\nTO: WORLD</text>
 			<text name="Leave">Leave</text>
 			<text name="toLeave">to leave</text>
@@ -5832,7 +5834,7 @@ AEDLER: Thank you! Merci beaucoup! The problem with accents is due to a limitati
 			<text name="SMB2Desc">Mario, Luigi, Toad and the Princess saved the SubCon world, knocking down Wart, the lizard. Now they deserve some resting in one of the Toad houses, in a magical and calmier clearing...</text>
 		<text name="SMB3">Super Mario Bros. 3</text>
 			<text name="SMB3Desc">Mario, after using his raccoon powers, finally had beaten up all aiships, removing the curse of all kings. The princess was captive in Bowser castle, waiting for him, who appeared in the large lobby from the left, while she was crying. Both embraced each other and they decided to go to a calmier place using raccoon powers.</text>
-		<text name="SMBRPG">Super Mario Bros RPG</text>
+		<text name="SMRPG">Super Mario Bros RPG</text>
 			<text name="SMRPGDesc">After beating Smithy, peace returns to mushroom kingdom, and a parade was made, with all the inhabitants. The princess, embarrassed, asked Mario to follow her and climb the big  star, who is now happy and shining. Both started to flirt each other...</text>
 		<text name="Ending">Ending</text>
 		<text name="NEXTENDING">NEXT ENDING</text>
@@ -5849,14 +5851,14 @@ AEDLER: Thank you! Merci beaucoup! The problem with accents is due to a limitati
 		<text name="g_nymph">Are you a...NYMPH?</text>
 		
 	<!--SCREEN: ENDINGS in the CASTLE-->
-			<text name="EndingMoreSex">ENDING: \"PRINCESS DISCOVERING MORE SEX\"</text>
+			<text name="EndingMoreSex">ENDING: \'PRINCESS DISCOVERING MORE SEX\'</text>
 				<text name="EndingMoreSexDesc">explores her growing sexuality every day with the Toads of her kingdom and all of her very horny friends!</text>
-			<text name="EndingOsamaQueen">ENDING: \"PRINCESS AS OSAMA\' S QUEEN\"</text>
+			<text name="EndingOsamaQueen">ENDING: \'PRINCESS AS OSAMA\' S QUEEN\'</text>
 				<text name="EndingOsamaQueenDesc">finishes her quest as being the Queen of Osama! The princess is Pregnant and both are going to fulfill their desires!</text>
-			<text name="EndingVirginLover">ENDING: \"A VIRGIN PRINCESS WITH HER LOVER\"</text>
+			<text name="EndingVirginLover">ENDING: \'A VIRGIN PRINCESS WITH HER LOVER\'</text>
 				<text name="EndingVirginLoverDesc">finishes her quest VIRGIN!</text>
 				<text name="EndingVirginLoverDesc2">decides to Marry her (and fuck her relentlessly with love!)</text>
-			<text name="EndingDirtySlut">ENDING: \"DIRTY SLUT\"</text>
+			<text name="EndingDirtySlut">ENDING: \'DIRTY SLUT\'</text>
 				<text name="EndingDirtySlutDesc">finishes her slutty quest being fucked by all races of creatures of the kingdom, day by day!</text>
 		
 	<!--SCREEN: NAKED-->
