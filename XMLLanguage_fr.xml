@@ -6,11 +6,11 @@
 - You should use a good XML editor. Notepad++ is great because it will be colored differently, easing your work.
 - You DONT need to translate text inside <!-  ->
 - Please BE CAREFUL about not closing tags or other misses. Incomplete or errors in XML will give a\'XML load error\' message or give unexpected behavior in the game!
-- Its not possible to change some text, like Princess and Creature names (e.g. if you want to call Peach as \'Pessego\' or Goomba as \'Gumpa', you wont be able to do so). This is due to XML and the game limitations. If I figure it out in the future, I can implement it.
+- Its not possible to change some text, like Princess and Creature names (e.g. if you want to call Peach as \'Pessego\' or Goomba as \'Gumpa\', you wont be able to do so). This is due to XML and the game limitations. If I figure it out in the future, I can implement it.
 - \\u is UNICODE character. It s NOT working currently, even if it\'s present. To work in the future. 
 - Please translate observing the placement of \n. Its the line breaker. I use them many times just to adjust (centralize) text better. If you translate a given phrase and you see the text is trespassing the balloon, you can force its break by adding a \n. Dont use <br/>!
 You can live without \n, but certain balloons will be \'very empty\' without them, or the first line might trespass it a bit because of the curve of the balloon.
-- I use \'loop="1a", "1b"', etc (that is, variations) to give ALTERNATIVE words according to the logic inside the scene, like if Peach is a nymph or if her...asshole is swollen.
+- I use \'loop="1a", "1b"\', etc (that is, variations) to give ALTERNATIVE words according to the logic inside the scene, like if Peach is a nymph or if her...asshole is swollen.
 - There are scenes with same messages. This can occur. You can also make them different, if you want more variety.
 - Please DONT change variables (those inside { } ), or the game will malfunction!
 - If any errors (or something in the game that doesnt have a tag here to be able to translate, or a text that trespasses buttons/boundaries), please contact me on Legend of Krystal site (ivanaedler). 
@@ -18,7 +18,7 @@ You can live without \n, but certain balloons will be \'very empty\' without the
 <!-- NOTE OF THE TRANSLATOR!!
 - I only did the toads. It\'s a big part too ^^.
 - Did the Goombas and the Koopas xD
-- I know accents are VERY IMPORTANT in French, but the actual system doesn't like specials caracters (ands accents are specials caracters é_è)
+- I know accents are VERY IMPORTANT in French, but the actual system doesn\'t like specials caracters (ands accents are specials caracters é_è)
 Enjoy!
 -->
 
@@ -223,7 +223,7 @@ Enjoy!
 				<p i="4">Ahhh! Ca se replie\ncomme un champignon dans ma chatte! \u2665</p>
 				<p i="4a">Ooooh, ca va\ntrop loin! Tu...baises mon cul comme ca! Ahhh!</p>
 				<p i="4b">Pourrais-tu...Ahh!\nPourrais-tu la retirer maintenant? S\'il te plait soit rapide! OOooooh!</p>
-				<p i="5">Ooooh, j\'ai jouis!\nMon cul me fait si mal! J'...aime ca! \u2665</p>
+				<p i="5">Ooooh, j\'ai jouis!\nMon cul me fait si mal! J\'...aime ca! \u2665</p>
 				<p i="5a">Ahhh, Je\njouis!Maintenant je sens que mon cul n\'est plus protege...\u2665</p>
 			</scenes>
 			<scenes scene="toad25"> <!--DOC scene-->
@@ -248,7 +248,7 @@ Enjoy!
 			<scenes scene="goomba1">
 				<p i="1">Oh!!! Est-ce que c\'est...\nsa partie virile? C\'est...embarrassant! Je dois faire quelque chose!</p>
 				<p i="2">Bien, euh... C\'est a ca\nque ressemble une bite de Goomba? C\'est si... gros... et... epais...</p>
-				<p i="3">Oh! Il y a tellement de sperme! Mais je ne peux plus faire ca! L'odeur m'excite tellement...</p>
+				<p i="3">Oh! Il y a tellement de sperme! Mais je ne peux plus faire ca! L\'odeur m\'excite tellement...</p>
 			</scenes>
 			<scenes scene="goomba2">
 				<p i="1">Ooh! Je n\'aurais jamais\npense que les bites de Goomba etaient si bonnes! Je peux le faire!</p>
@@ -256,11 +256,11 @@ Enjoy!
 			</scenes>
 			<scenes scene="goomba3">
 				<p i="1">\nOh mon! C\'est plus dur que les autres!</p>
-				<p i="2">Oh mon Dieu! Cette odeur\nme donne envie d'etre ...sauvage!</p>
+				<p i="2">Oh mon Dieu! Cette odeur\nme donne envie d\'etre ...sauvage!</p>
 			</scenes>
 			<scenes scene="goomba4">
 				<p i="1">Mm! Peut-etre\n que je vais lecher cette bite un peu plus...</p>
-				<p i="2">Oh wow! Cette odeur\nodeur m'etourdit...</p>
+				<p i="2">Oh wow! Cette odeur\nodeur m\'etourdit...</p>
 			</scenes>
 			<scenes scene="goomba5">
 				<p i="1">*gulp* Nooooon!\nC\'est de dur de respirer comme ca!</p>
@@ -5941,7 +5941,7 @@ Enjoy!
 	
 	
 	<!-- HUD-->
-		<text name="HUD1">HUD: Impossible de zoomer quand il n'y a aucun focus!</text>
+		<text name="HUD1">HUD: Impossible de zoomer quand il n\'y a aucun focus!</text>
 		
 	<!--TIPS (please dont put more, as the game will only recognize this current limit). You can change those anyway.-->
 		<text name="tip1">TIP:Upon starting a level, you can go back to worldmap if you enter inside the brown keep, a white door or just by walking left.</text>
