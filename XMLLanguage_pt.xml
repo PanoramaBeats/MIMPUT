@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--POR FAVOR LEIA!!!
-- Versão 0.1! Este trabalho foi um dos MAIORES da produção do jogo! Finalmente poderemos traduzí-lo. Devemos realmente estar orgulhosos de ter chegado até aqui! E como poucos sabem, o produtor deste jogo É brasileiro! ;) Brasileiros dominam o mundo!
+- Versão 0.2! Este trabalho foi um dos MAIORES da produção do jogo! Finalmente poderemos traduzí-lo. Devemos realmente estar orgulhosos de ter chegado até aqui! E como poucos sabem, o produtor deste jogo É brasileiro! ;) Brasileiros dominam o mundo!
 Mas nem tudo são flores. Devido à limitação de fontes como 'Mario font', caracteres UTF8 não é suportado.
 - Apesar deste XML ser muito recente, já compreende 99% do jogo (mais de 5000 linhas!) e já abrange TODAS as cenas de criaturas (bom, exceções podem ocorrer, e por isso me avisem!)
 - Mas é bom reforçar: certas TELAS, certos NOMES De criaturas e cenas na galeria ainda NÃO estão no XML.
@@ -27,20 +27,20 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 -->
 
 		<game>
-			<lang>Portugues</lang> <!--CHANGE this to your language name, in case you translate it. It will be shown in the main screen-->
+			<lang>Português</lang> <!--CHANGE this to your language name, in case you translate it. It will be shown in the main screen-->
 			
 	<!--TOADS-->
 			<scenes scene="toad1"> 
-				<p i="1">Nobody is seeing\nthis. They ARE so tasty, hmmm...</p>
-				<p i="2">Mwa! Mm! Oh,\nit\'s tasting even better now!</p>
-				<p i="3">Oh no! He got\nhis cream all in my hair! But these balls taste too good...</p>
+				<p i="1">Ninguem está\nvento isto. Eles são tão gostosos, hmm...</p>
+				<p i="2">Maaa! Mm! Oh,\nestá cada vez mais gostoso!</p>
+				<p i="3">Oh não! Ele sujou\ntodo meu cabelo! Pervertido! Mas suas bolas são cativantes...</p>
 			</scenes>
 			<scenes scene="toad2">
-				<p i="1">He\'s looking\nat me...so tender...</p>
-				<p i="1a">Are you...\ngoing to do this with me?</p>
-				<p i="2">I want to\ntouch him...</p>
-				<p i="2a">Here I go,\nmy little thing...</p>
-				<p i="2b">Hey, there is\nsomething I need to check...\u2665</p>
+				<p i="1">Ele está olhando\npara mim...tão lindo...</p>
+				<p i="1a">Você vai...\nfazer isso mesmo comigo?</p>
+				<p i="2">Eu quero\ntocá-lo...</p>
+				<p i="2a">Aqui vou eu,\nminha criaturinha linda...</p>
+				<p i="2b">Ei, há algo\nque preciso verificar...\u2665</p>
 				<p i="3">It\'s not a dirty\nthing, he has a mushroom, it\'s edible. \u2665</p>
 				<p i="3a">Toadella doesnt\nlike me doing this...</p>
 				<p i="3b">I can do that\nwhenever I want...</p>
