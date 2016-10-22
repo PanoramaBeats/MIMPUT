@@ -5883,7 +5883,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="ScreenOptions_Header_FPSBenchmark">FPS Benchmark</text>
 				<text name="ScreenOptions_JustRightGameScreen">Just right click in the Game screen (Show/Hide CPU)</text>
 			<text name="ScreenOptions_Header_HUD">HUD</text>
-				<text name="ScreenOptions_YouCanPlay100">You can play with a 100% clean screen but be careful, message boxes won\'t appear as well!</text>
+				<text name="ScreenOptions_YouCanPlay100">You can play with a 100% clean screen!</text>
 		<text name="ScreenOptions_Title_BOOBIES_BELLY"> BOOBIES/BELLY</text>
 			<text name="ScreenOptions_Header_BoobMinMax">Boob Min/Max</text>
 				<text name="ScreenOptions_BraWontSupport">(Bras won\'t support her cups)</text>
