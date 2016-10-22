@@ -5679,6 +5679,7 @@ Enjoy!
 	
 	<!--SCREENS: PROLOGUE -->
 		<text name="PeachInvites">THE PRINCESS invites Mario to her castle...\nShe will finally have her\nfirst experience...</text>
+		<text name="ButSomethingBad">But something bad is going\nto happen....</text>
 		<text name="PeachInvitesAgain">THE PRINCESS invites Mario to her\ncastle again...</text>
 		<text name="KamekCurses">...AND KAMEK CURSES THE INHABITANTS AND OBJECTS WITH DIRTY PHERORMONES...</text>
 		<text name="AirshipsInvade">AIRSHIPS INVADE\nMUSHROOM KINGDOM!</text>

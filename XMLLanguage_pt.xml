@@ -5375,7 +5375,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="ZOOMIN">Aprox.</text>
 			<text name="ZOOMOUT">Afastar</text>
 			<text name="BACK">VOLTAR</text>
-			<text name="LOADGAME">CARREGAR JOGO</text>
+			<text name="LOADGAME">CARREGAR</text>
 			<text name="LoadGame">Carregar Jogo</text>
 			<text name="FromFile">De Arquivo</text>
 			<text name="Load">Carga</text>
@@ -5424,7 +5424,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			
 			<!--(Click or Press SPACE to Continue): you can change them differently, like putting ClickOrPressPart1 EMPTY, so it will be like \'SPACE will continue it\'-->
 			<text name="ClickOrPressPart1">(Clique ou tecle</text> 
-			<text name="ClickOrPressPart2">para continuar)</text>
+			<text name="ClickOrPressPart2">p/continuar)</text>
 			<text name="ClickToPlayThisLevel">Clique p/jogar\nesta fase</text>
 	
 			<text name="notYetComplete">***INCOMPLETO*** (PRESSIONE {NEXTKEY})</text>
@@ -5696,7 +5696,8 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 		<text name="9-3">Na Lua abismal</text>
 	
 	<!--SCREENS: PROLOGUE -->
-		<text name="PeachInvites">A princesa convida o Mário para seu castelo...\nEla finalmente terá sua\nprimeira experiência...</text>
+		<text name="PeachInvites">A princesa convida o Mário para seu castelo... Ela finalmente terá sua primeira experiência...</text>
+		<text name="ButSomethingBad">Mas algo ruim está prestes\na acontecer ao reino....</text>
 		<text name="PeachInvitesAgain">A princesa convida o Mário para seu\ncastelo novamente...</text>
 		<text name="KamekCurses">...E KAMEK INTOXICA os HABITANTES e OBJETOS com seus FERORMÕNIOS PERVERTIDOS...</text>
 		<text name="AirshipsInvade">NAVIOS VOADORES\nINVADEM O REINO DOS COGUMELOS!</text>
@@ -5898,7 +5899,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="ScreenOptions_Header_BoobMinMax">Tamanho Peitos</text>
 				<text name="ScreenOptions_BraWontSupport">(Sutiãs se rasgarão)</text>
 			<text name="ScreenOptions_Header_BellyMinMax">Tamanho Barriga</text>
-				<text name="ScreenOptions_CanOnlyIfPregnant">(Só podem desabilitar se não grávida!)</text>
+				<text name="ScreenOptions_CanOnlyIfPregnant">(Só podem desabilitar se não estiver grávida!)</text>
 			<text name="ScreenOptions_Header_ShredBraIf">Sutiãs rasgam se...</text>
 			<text name="ScreenOptions_Header_BellyCanIncrease">Barriga aumentará</text>
 			<text name="ScreenOptions_Header_PregnancyChance">Change de Gravidez</text>
