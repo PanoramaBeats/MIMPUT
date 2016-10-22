@@ -250,42 +250,42 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 
 	<!--GOOMBAS-->
 			<scenes scene="goomba1">
-				<p i="1">Oh!!! Is that a...\nmanhood? Its...embarassing! I must do something!</p>
-				<p i="2">Well, er... Is this\nwhat a Goomba cock is like? It\'s so... big... and... thick...</p>
-				<p i="3">Oh! There\'s so much cum! But I can\'t do this anymore! The smell is making me so horny...</p>
+				<p i="1">Ei!!! Isto é uma...\npiroca? Isso... me dá vergonha! Preciso fazer algo!</p>
+				<p i="2">Bem, é... É assim\nque uma...verdadeira piroca é? É tão grande...e suculenta!</p>
+				<p i="3">Oh! Ela jorra tanto sêmen! Não consigo mais me segurar! Seu cheiro me deixa excitada!</p>
 			</scenes>
 			<scenes scene="goomba2">
-				<p i="1">Ooh! I never\ndreamed goomba dick would taste this good! I guess I can do this!</p>
-				<p i="2">They cum so\nmuch! The poor things must not be getting their morning sessions.</p>
+				<p i="1">Oh não! Nunca\nimaginei que uma pica dessas seria tão deliciosa! Acho que posso continuar!</p>
+				<p i="2">Eles gozam\ntanto! Pobres criaturas que não devem receber o que merecem todas as manhãs!</p>
 			</scenes>
 			<scenes scene="goomba3">
-				<p i="1">\nOh my! It\'s harder than the others!</p>
-				<p i="2">Oh god! This\nsmell just makes me want to go ...wild!</p>
+				<p i="1">\nOh minha nossa! Está mais duro que os outros!</p>
+				<p i="2">Oh não! Este\ncheiro de novo... me faz ficar LOUCA!</p>
 			</scenes>
 			<scenes scene="goomba4">
-				<p i="1">Mm! Maybe\n I\'ll just lick its cock a little more...</p>
-				<p i="2">Oh wow! That\nsmell is making me dizzy...</p>
+				<p i="1">Hum! Talvez\n se eu lamber esta piroca um pouco mais...</p>
+				<p i="2">Eita! Mais\numa vez este forte cheiro de baunilha quente!</p>
 			</scenes>
 			<scenes scene="goomba5">
-				<p i="1">*gulp* Nooooo!\nIt\'s hard to breathe like this!</p>
-				<p i="2">Ahhhh.. It\nmust have really been saving up!</p>
+				<p i="1">*glut* Nãoooo!\nAssim fica difícil respirar!</p>
+				<p i="2">Aaaiiii.. Ele\ndeve estar no celibato, para explodir em mim!</p>
 			</scenes>
 			<scenes scene="goomba6">
-				<p i="1">Hey!! You\nare penetrating my....virgin cherry!</p>
-				<p i="1a">No! Not\nthere! That\'s Mario\'s place!</p>
-				<p i="1b">No! Don\'t\ntouch my royal slit!</p>
-				<p i="2">Ah! It...\nIt doesn\'t hurt as much as I thought.</p>
-				<p i="2a">Ah! B-but\nI guess I must do this to save Mario.</p>
-				<p i="2b">Ah! My little\nflower\'s plucked before it\'s time!</p>
-				<p i="2c">I hope Mario\ndoesn\'t mind a little cream of mushroom when I find him.</p>
-				<p i="2d">\nHey!! What are you doing to.....oooh!</p>
-				<p i="3">\nOh I feel numb there...</p>
-				<p i="4">\nOhhhhhh...Ah!</p>
+				<p i="1">Ei!! Você\nestá penetrando na minha bucetinha virgem!</p>
+				<p i="1a">Não!! Aí\nnão! Este é o cantinho de meu Mário!</p>
+				<p i="1b">Não! Nãot\ntoque na minha vagina Real!</p>
+				<p i="2">Ah! Isto..\nnão dói tanto quanto imaginava...Eu quero mais!</p>
+				<p i="2a">Ah! M-Mas...\nAcho que preciso fazer isso para salvar o Mário</p>
+				<p i="2b">Mete! Minha\npequena flor está abertinha, ele está lá dentro!</p>
+				<p i="2c">Acredito que Mário\nnão se importe de ver minha buceta meladinha disso!</p>
+				<p i="2d">\nEi!! O que você está...Oh não!</p>
+				<p i="3">\nAhh, eu me sinto anestesiada ali!</p>
+				<p i="4">\nOhhhhhh...Aiii!</p>
 			</scenes>
 			<scenes scene="goomba7">
-				<p i="1">Hmmmmm\nI need to grab him in order he wont flee! But ahh, he is fucking me!</p>
-				<p i="2">Hey, stop!\nAhhh! I\'ll suffocate you! I will restrain you more! Ohhh!</p>
-				<p i="3">Ahhhhhh!\nNow I cant remove my legs! My thighs are a mess and slippery!</p>
+				<p i="1">Hmmmmm\nEu tenho que segurá-lo para não escapar! Mas...eita, está me fodendo já!</p>
+				<p i="2">Ei, PARE!\nAhhh! Eu irei sufocá-lo viu? Vou travá-lo mais e...Oooh!</p>
+				<p i="3">Ahhhhhh!\nAgora posso retirar minhas pernas! Minhas coxas estão meladas e quentes!</p>
 			</scenes>
 			<scenes scene="goomba8">
 				<p i="1">\nWow! I\'m so wet right now it just slid in. Ooh!</p>
@@ -5921,12 +5921,12 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="ScreenOptions_Header_FullScreen">Modo Tela Cheia</text>
 			<text name="ScreenOptions_Header_Quality">CPU+: Qualidade</text>
 				<text name="ScreenOptions_IfSmallerLessCPU">Se menor, menos CPU</text>
-			<text name="ScreenOptions_Header_Force169">Forçar 16:9 maximizado</text>
+			<text name="ScreenOptions_Header_Force169">Forçar 16:9 se máximo</text>
 				<text name="ScreenOptions_LastResortIf169">(Última tentativa se precisar 16:9 à força)</text>
 			<text name="ScreenOptions_Header_CPUFPS">CPU+: FPS</text>
 			<text name="ScreenOptions_Header_BlitBackground">CPU+: Pixelar nas telas fundo</text>
 				<text name="ScreenOptions_BackObjWillPixelize">(Objetos de fundo não animarão. Surtirá efeito em nova fase)</text>
-			<text name="ScreenOptions_Header_Stationary">CPU+: Câmera Estacionária</text>
+			<text name="ScreenOptions_Header_Stationary">CPU+: Câm. Estacionária</text>
 				<text name="ScreenOptions_CameraWillMoveTouch">(Câmera só moverá se ela tocar as bordas!)</text>
 			<text name="ScreenOptions_Header_AllowScrollLevels">Habilitar Auto Arraste</text>
 				<text name="ScreenOptions_CertainLevelsWillScroll">(Certas fases fará câmera mover para esquerda - SMB3)*</text>
@@ -5942,7 +5942,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="ScreenOptions_Header_TenderVore">Pode ser ENGOLIDA</text>
 				<text name="ScreenOptions_SheWillBeSwallowed">(Em cenas como peixões. Não morrerá)</text>
 			<text name="ScreenOptions_Header_ShowBodyCum">Mostrar Sêmen no corpo</text>
-				<text name="ScreenOptions_IfSheAlreadyDrenched">(Se já tiver melada, ação só ocorrerá se se limpar por aí)</text>
+				<text name="ScreenOptions_IfSheAlreadyDrenched">(Se já tiver melada, ação só ocorrerá se você limpá-la por aí primeiro)</text>
 			<text name="ScreenOptions_Header_CleanIfLevelEnds">Banhar-se no fim de fase</text>
 			<text name="ScreenOptions_Header_CleanCumUnderwater">Limpar gozo se na água</text>
 			<text name="ScreenOptions_Header_AutoClean">Auto limpar ao usar chuveiros</text>
@@ -5951,7 +5951,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<text name="ScreenOptions_IfNoUseHerAss">(Se NÃO, ela só poderá usar a bunda em diálogos que explicite isso)</text>
 			<text name="ScreenOptions_Header_AssholeState">Estado do cuzinho</text>
 				<text name="ScreenOptions_IfAutoOpenSwell">(Se AUTO, situações no jogo podem arrombar o buraquinho)</text>
-			<text name="ScreenOptions_Header_ToadCanFuckImm">Toads podem fudê-la imediatamente</text>
+			<text name="ScreenOptions_Header_ToadCanFuckImm">Toads podem fodê-la imediatamente</text>
 				<text name="ScreenOptions_IfNoOnlyFuckCommand">(Se NÃO, só poderão comê-la ao escolher um número)</text>
 			<text name="ScreenOptions_Header_Personality">Personalidade</text>
 				<text name="ScreenOptions_SheDecidesInnocentNymph">Ela decide: ela vai ficando puta com o tempo.\nInocente: não agirá como uma ninfa/puta, mesmo com 80 cenas ou mais, mas não cancelará sua \'putisse\' quando for o fim do jogo.\nPuta: o oposto.</text>
