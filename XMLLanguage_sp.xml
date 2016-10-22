@@ -5269,6 +5269,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="BellyBiggest">Enorme</text>
 			
 	<!--COMMON TEXT -->
+			<text name="Naked">Naked</text>
 			<text name="Color_Default">Default</text>
 			<text name="Color_Red">Rojo</text>
 			<text name="Color_White">Blanco</text>

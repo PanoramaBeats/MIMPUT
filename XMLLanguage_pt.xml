@@ -5276,6 +5276,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="BellyBiggest">ENORME</text>
 			
 	<!--COMMON TEXT -->
+			<text name="Naked">Pelada</text>
 			<text name="Color_Default">Padrao</text>
 			<text name="Color_Red">Vermelho</text>
 			<text name="Color_White">Branco</text>
@@ -5720,10 +5721,10 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 		<text name="ScreenKeyboard_Choose">Escolha um tipo de Teclado!</text>
 		<text name="ScreenKeyboard_BlueFunctionKeysEtc">Azul: teclas de função.   Vermelho: teclas para mão direita.   Verde: teclas para mão esquerda</text>
 		<text name="ScreenKeyboard_ClickToChange">(Clique para mudar)</text>
-		<text name="ScreenKeyboard_RightHanded">DESTRO</text>
-		<text name="ScreenKeyboard_SingleRightHand">DESTRO (Só uma mão)</text>
-		<text name="ScreenKeyboard_LeftHanded">CANHOTO</text>
-		<text name="ScreenKeyboard_SingleLeftHand">CANHOTO (Só uma mão)</text>
+		<text name="ScreenKeyboard_RightHanded">Destro (2 mãos)</text>
+		<text name="ScreenKeyboard_SingleRightHand">Destro (Só uma mão)</text>
+		<text name="ScreenKeyboard_LeftHanded">Canhoto (2 mãos)</text>
+		<text name="ScreenKeyboard_SingleLeftHand">Canhoto (Só uma mão)</text>
 	
 	<!--SCREEN:TRAIN-->
 			<text name="ScreenTrain_MarioAfter">Mário, depois da última aventura, finalmente chama a princesa para um jantar no trem!</text>
