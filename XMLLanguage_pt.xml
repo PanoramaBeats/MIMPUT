@@ -5268,6 +5268,12 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="Nipple_FLESHY">Carnuda</text>
 			<text name="Nipple_SLICK">Lisa</text>
   
+	<!--PUSSY HAIR-->
+			<text name="Pussy_Normal">Normal</text>
+			<text name="Pussy_Shaved">Raspada</text>
+			<text name="Pussy_Hairy">Cabeluda</text>
+			<text name="Pussy_Clean">Limpa</text>
+			
 	<!--BELLY SIZES-->
 			<text name="BellyDefault">Sem</text>
 			<text name="BellySmall">Pequena</text>
@@ -5287,6 +5293,8 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="Color_Cyan">Ciano</text>
 			<text name="Color_Opaque">Opaco</text>
 			<text name="None">Nenhum</text>
+			<text name="layer">camada</text>
+			<text name="layers">camadas</text>
 			
 			<text name="OoohNo">Oooh nãaao!</text>
 			<text name="Background">Fundo</text>

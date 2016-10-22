@@ -5257,6 +5257,12 @@ Enjoy!
 			<text name="Nipple_FLESHY">FLESHY</text>
 			<text name="Nipple_SLICK">SLICK</text>
 
+	<!--PUSSY HAIR-->
+			<text name="Pussy_Normal">Normal</text>
+			<text name="Pussy_Shaved">Shaved</text>
+			<text name="Pussy_Hairy">Hairy</text>
+			<text name="Pussy_Clean">Clean</text>
+			
 	<!--BELLY SIZES-->
 			<text name="BellyDefault">Default</text>
 			<text name="BellySmall">Small</text>
@@ -5276,6 +5282,8 @@ Enjoy!
 			<text name="Color_Cyan">Cyan</text>
 			<text name="Color_Opaque">Opaque</text>
 			<text name="None">None</text>
+			<text name="layer">layer</text>
+			<text name="layers">layers</text>
 			
 			<text name="OoohNo">Ooooh nooo!</text>
 			<text name="Background">Background</text>
