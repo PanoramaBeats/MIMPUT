@@ -56,10 +56,10 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<p i="5d">\nPreciso retornar a meus objetivos, meu doce!</p>
 			</scenes>
 			<scenes scene="toad3">
-				<p i="1">Não acredito que\nestou a fazer isso! Mas, puxa! É tão fresco, escorregadio, mas DURO!</p>
+				<p i="1">Não acredito que\nestou a fazer isso! Mas, puxa! É tão fresco, escorregadio, DURO!</p>
 				<p i="2">Eita! Seu\npinto está BEM duro!</p>
 				<p i="3">Aii! Por quanto\ntempo você ainda vai?</p>
-				<p i="4">Caramba! Quan-\nto volume!</p>
+				<p i="4">Caramba! Quanto volume!</p>
 			</scenes>
 			<scenes scene="toad4">
 				<p i="1">Acredito não ter\nproblema, é só não enfiar lá dentro!</p>
@@ -5275,7 +5275,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="Pussy_Clean">Limpa</text>
 			
 	<!--BELLY SIZES-->
-			<text name="BellyDefault">Sem</text>
+			<text name="BellyDefault">Tanquinho</text>
 			<text name="BellySmall">Pequena</text>
 			<text name="BellyChubby">Cheinha</text>
 			<text name="BellyBig">Gorda</text>
@@ -5357,6 +5357,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="PressUpWorldmap">Pressione a tecla \'CIMA\' para voltar ao mapa-mundi</text>
 			<text name="exitOrPressCTRL">Sair (ou pressione CTRL)</text>
 			<text name="GoBackWorldmap">Voltar ao mapa-mundi</text>
+			<text name="catWalkMode">A cereja mudou sua forma de correr para 'Gatinha' até o fim da fase!</text>
 
 			<text name="nowYouCanExitLevelRight">Agora você pode sair da fase simplesmente indo para a sua direita!</text>
 			<text name="oneWayPipe">Princesa: Este é um cano que só dá para entrar, e não sair. Foi usado antigamente para viajar a longas terras. Ninguém usa mais. Assim, se eu quiser entrar, terei que achar outra saída lá por dentro. Deve ser bem escuro e ter muitos bichos (CRUZES!)</text>
@@ -5469,18 +5470,18 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="TOTAL">TOTAL</text>
 
 			<text name="SetupAllSoundsOFF">Configurar: Todos os Sons OFF</text>
-			<text name="SetupSoundsEffects">Configurar: Sound Effects with no Music</text>
-			<text name="SetupSoundsEffectsMusic">Configurar: Sound Effects and Music ON</text>
-			<text name="SetupTextBalloonsONCE">Configurar: Text Balloons - Show ONCE</text>
-			<text name="SetupTextBalloonsOFF">Configurar: Text Balloons - OFF</text>
-			<text name="SetupTextBalloonsON">Configurar: Text Balloons - ON</text>
-			<text name="SetupQuaMedium">Configurar: MEDIUM quality</text>
-			<text name="SetupQuaLow">Configurar: LOW quality</text>
-			<text name="SetupQuaHigh">Configurar: HIGH quality</text>
-			<text name="SetupHUDOFF">Configurar: HUD is hidden!</text>
-			<text name="SetupHUDON">Configurar: HUD is visible!</text>
-			<text name="SetupCameraMoves">Configurar: Camera now MOVES at each frame!</text>
-			<text name="SetupCameraDontMove">Configurar: Camera in STATIONARY mode (touch the edges to move it!)</text>
+			<text name="SetupSoundsEffects">Configurar: Efeitos de Som sem Música</text>
+			<text name="SetupSoundsEffectsMusic">Configurar: Efeitos de Som COM Música</text>
+			<text name="SetupTextBalloonsONCE">Configurar: Balões de Texto - mostrar UMA VEZ</text>
+			<text name="SetupTextBalloonsOFF">Configurar: Balões de Texto - Desligado</text>
+			<text name="SetupTextBalloonsON">Configurar: Balões de Texto - Ligado</text>
+			<text name="SetupQuaMedium">Configurar: Qualidade MÉDIA</text>
+			<text name="SetupQuaLow">Configurar: Qualidade BAIXA</text>
+			<text name="SetupQuaHigh">Configurar: Qualidade ALTA</text>
+			<text name="SetupHUDOFF">Configurar: HUD está INVISÍVEL!</text>
+			<text name="SetupHUDON">Configurar: HUD está VISÍVEL!</text>
+			<text name="SetupCameraMoves">Configurar: A câmera agora MOVE a cada quadro!</text>
+			<text name="SetupCameraDontMove">Configurar: A câmera está no modo ESTACIONÁRIO (vá até as bordas da tela para movê-la!)</text>
 			<text name="SetupDebugOFF">MODO ACHAR BUG DESLIGADO</text>
 			<text name="SetupDebugON">MODO ACHAR BUG LIGADO</text>
 			<text name="SetupSCROLLINGDISABLEDStatMode">SCROLLING is DISABLED in STATIONARY CAMERA mode (otherwise, the CPU gain will be nulified...)</text>
@@ -5497,12 +5498,12 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="CheatNoBoundary">Trapaça: não há fronteira do mapa! Não pode teletransportar!</text>
 			<text name="CheatCantMove">Trapaça: não pode mover! Você está numa cena ou diálogo?</text>
 
-			<text name="DebugColHit">COLLISION HIT! Try another area!</text>
-			<text name="DebugBoundColHit">BOUNDARY COLLISION HIT! Try another area!</text>
-			<text name="DebugNotWalkable">NOT IN WALKABLE AREA! Try another area!</text>
-			<text name="DebugVersionDetected">DEBUG VERSION DETECTED!</text>
-			<text name="DebugVersionDesc">Its recommended to use the Flash Projector version (Standalone), not the DEBUG version, or FALSE POSITIVES (POPUPs of errors that are not really errors) will annoy you. they appear from nowhere like alerts in javascript.\n\nAlso, the game will be slower.</text>
-			<text name="DebugVersionDesc2">You should leave the game, then use the normal player, or use the browser.\n\nOR YOU CAN PRESS SPACEBAR OR\nTHE BUTTON BELOW TO CONTINUE.</text>
+			<text name="DebugColHit">COLIDIU com algo que a princesa não pode ir! Tente outr ponto!</text>
+			<text name="DebugBoundColHit">COLIDIU com a FRONTEIRA do ambiente! Tente outro ponto!</text>
+			<text name="DebugNotWalkable">Não está em área caminhável! Tente em outro ponto!</text>
+			<text name="DebugVersionDetected">VERSÃO \'DEBUG\' DETECTADA!</text>
+			<text name="DebugVersionDesc">É recomendável usar a versão do Flash Projector (Standalone), e não a versão DEBUG, ou FALSOS POSITIVOS (como janelas e mensagens de erro que não são na verdade) o incomodará. Eles aparecem do nada!\n\nAlém disso, o jogo pode ficar mais lento.</text>
+			<text name="DebugVersionDesc2">Você deve sair do jogo e usar a versão normal do Flash, ou o navegador.\n\nOU VOCÊ PODE PRESSIONAR ESPAÇO OU\nO BOTÃO ABAIXO PARA CONTINUAR.</text>
 			
 			<text name="Airship">Navio Voador</text>
 			<text name="World">Mundo</text>
@@ -5758,7 +5759,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="ScreenOutfit_AttentionOutfits">Atenção: Roupas e Sapatos/Meiões/Presilhas/Luvas só são trocados quando achar roupagens/poderes na fase!</text>
 			<text name="ScreenOutfit_ClickOnTheIcons">Clique nos ícones para configurar a roupa de cada</text>
 			<text name="ScreenOutfit_ClickSeeMorePoses">Clique para ver mais poses dela!</text>
-			<text name="ScreenOutfit_SizeChanges">Tamanho só mudam nesta tela!</text>
+			<text name="ScreenOutfit_SizeChanges">Tamanhos só mudam nesta tela!</text>
 			<text name="ScreenOutfit_SameCostume">Mesma roupagem para todos</text>
 			<text name="ScreenOutfit_BoobSize">Tam. Peitos</text>
 			<text name="ScreenOutfit_BellySize">Tam. Barriga</text>

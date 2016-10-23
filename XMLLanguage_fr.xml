@@ -5346,6 +5346,7 @@ Enjoy!
 			<text name="PressUpWorldmap">Press UP key to go back to Worldmap</text>
 			<text name="exitOrPressCTRL">Exit (or press CTRL)</text>
 			<text name="GoBackWorldmap">Go back to Worldmap</text>
+			<text name="catWalkMode">CatWalk! The cherry changed your running gait to cat mode until the end of the level!</text>
 
 			<text name="nowYouCanExitLevelRight">Now you can exit the level by going to the right!</text>
 			<text name="oneWayPipe">Princess: This is a one way pipe. It was used to travel between other lands and here, but nobody uses it anymore. This is the only way back from other places though, so I will have to go through it if I want to get back here. It is probably crawling with critters by now. *shudder*</text>
